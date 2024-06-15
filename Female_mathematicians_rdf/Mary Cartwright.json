@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlton_House_Terrace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengt_Skytte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protection_from_Online_Falsehoods_and_Manipulation_Act"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Moray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Grimes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosicrucian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy_of_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Institution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_Range"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epistles_(Horace)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_Biology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proceedings_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Social_history_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Jonson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Franklin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bodleian_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Papin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huguenot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Nash_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wilkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Swift"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Banks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Maxton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Listed_building"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Bruce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republic_of_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Boyle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Hooke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venki_Ramakrishnan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interface_Focus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Invisible_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_presidents_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Fellow_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_Open_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_charter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notes_and_Records"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Copley_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Croonian_Lecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melinda_Mills"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Atlantis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Post-nominal_letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nullius_in_verba"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Onora_O'Neill,_Baroness_O'Neill_of_Bengarve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Wren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Embassy_of_Germany,_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick,_Prince_of_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geneva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geological_Society_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_III_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_IV_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Parker,_2nd_Earl_of_Macclesfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Domenico_Cassini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glossary_of_areas_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glossary_of_astronomy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glossary_of_biology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glossary_of_calculus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glossary_of_chemistry_terms"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glossary_of_physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Government_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Fire_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cruelty_to_Animals_Act,_1876"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Birch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Sprat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Fortunate_Isles_and_Their_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne,_Princess_Royal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne,_Queen_of_Great_Britain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antarctica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Wilson_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Partridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linnean_Society_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magdalene_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_for_Business,_Innovation_and_Skills"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Tallents"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peer_review"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Association_for_the_Advancement_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Royal_Family"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whigs_(British_political_party)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William,_Prince_of_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Cartwright",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Brouncker,_2nd_Viscount_Brouncker"
+    }
+]

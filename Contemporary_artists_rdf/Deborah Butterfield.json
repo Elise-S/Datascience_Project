@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Corning,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Steuben_County,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Butterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Terpning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Agnes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virgil_Ortiz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corning_Inc."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederic_Remington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Carder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Eastman_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/N._C._Wyeth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corning_Glass_Works"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Moran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ansel_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steuben_Glass_Works"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_of_American_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Smithsonian_Institution_affiliates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watkins_Glen_State_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Henry_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Bierstadt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Civil_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amo_Houghton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyrus_Edwin_Dallin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dwight_Lanmon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northeastern_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Lonewolf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:U.S._Route_15"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaune_Quick-to-See_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tammy_Garcia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Marion_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Richardsonian_Romanesque_architecture_in_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_S._Buechner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_1976"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Watt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southern_Tier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corning,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Association_of_Museums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Geographic_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Park_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Old_Jail_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richardsonian_Romanesque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Native_American_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney_Laurence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Robinson_Leigh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Affiliations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robb_Kendrick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Blumenschein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Affiliate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W.H.D._Koerner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Mell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Leonard_Blumenschein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Alliance_of_Museums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African_art_museums_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Bleckner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modernism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Woodman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Butterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_at_the_University_of_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honor\u00e9_Daumier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rineke_Dijkstra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Frank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Museum_of_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_Hofer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Installation_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_art_galleries_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbus_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvator_Rosa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Timothy_H._O'Sullivan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Monet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_museums_in_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/El_Anatsui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedel_Dzubas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gainesville,_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Bellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minor_White"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tourist_attractions_in_Gainesville,_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ansel_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Gainesville,_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_De_Staebler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maggie_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buildings_at_the_University_of_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agust\u00edn_C\u00e1rdenas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Hogarth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Kentridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zwelethu_Mthethwa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Deborah_Butterfield",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_art"
+    }
+]

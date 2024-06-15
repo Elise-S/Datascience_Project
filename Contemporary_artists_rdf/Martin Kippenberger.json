@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Brandenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Photographers_from_Cologne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rheinisches_Landesmuseum_Bonn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cologne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_Folkwang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Contemporary_Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_Becher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_and_Hilla_Becher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louvre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auguste_Rodin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1944_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_women_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_German_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Kunstakademie_D\u00fcsseldorf_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Province_of_Brandenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_German_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documenta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eberswalde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norton_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_German_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Center_of_Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irish_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Burghers_of_Calais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_women_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Architectural_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Museum_(Manhattan)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karlsruhe_University_of_Arts_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Kippenberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Eberswalde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunstakademie_D\u00fcsseldorf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunsthalle_Bremen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunsthalle_N\u00fcrnberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Okwui_Enwezor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Kawara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werner_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sony_World_Photography_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mus\u00e9e_du_Louvre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cologne,_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Konrad_Fischer_Galerie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D\u00fcsseldorf_School_of_Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ole_John"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayer_AG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rheinisch-Bergischer_Kreis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Roman_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Giessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Marburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pharmacy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chemist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Namesake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leverkusen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Choir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1889_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_German_chemists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wermelskirchen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alizarin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duchy_of_Berg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nuremberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1804_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chemistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justus_von_Liebig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Kippenberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sorbonne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fire_department"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pharmacist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lennep"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honorary_citizen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ultramarine_blue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Valiant_(1997_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punk_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Emmerich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blood_Out"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boogeyman_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hollywood-Monster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Waters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Magritte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rise:_Blood_Hunter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Television_and_Film_Munich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Velbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Lentz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/13_Sins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Kippenberger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    }
+]

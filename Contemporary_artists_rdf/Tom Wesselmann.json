@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Pissarro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Nesjar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African_art_museums_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mesoamerican_art_museums_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pre-Columbian_era"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton,_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_(NJT_station)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_Historic_District_(Princeton,_New_Jersey)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_Theological_Seminary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rococo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Republic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romare_Bearden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Palmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanford_Biggers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Bates_(singer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_colonial_governors_of_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mentor_(Odyssey)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mississippian_culture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moche_culture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modernism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mosaic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persian_miniature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mont_Sainte-Victoire_(C\u00e9zanne)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monuments,_Fine_Arts,_and_Archives_program"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monuments_Men_Foundation_for_the_Preservation_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pre-Columbian_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angelica_Kauffmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toulouse-Lautrec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Princeton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Waterhouse_Hawkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black-figure_pottery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Adjaye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1882_establishments_in_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antioch_mosaics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antiquities"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Princeton_University_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archaic_Greece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honor\u00e9_Daumier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huang_Tingjian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Singer_Sargent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Singleton_Copley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Belcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_C\u00e9zanne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Gauguin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Strand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penelope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhodes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Stockton_(Continental_Congressman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Henri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vienna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincent_van_Gogh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Visual_art_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_1882"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duncan_Phillips_(art_collector)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Industrial_Age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivory_carving"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Callot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romanesque_Revival_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Letters_patent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_art_galleries_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constantinople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corinth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cross_River_(Nigeria)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ancient_Maya_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Prendergast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Utrillo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Ernst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Bernhard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_George_and_the_Dragon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvator_Rosa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elkanah_Watson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eshu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genre_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clarence_Hudson_White"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Monet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Princeton_University_buildings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Harkness"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Weston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Boudinot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliot_Porter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_Gallagher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emil_Nolde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engraving"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Stella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Wesselmann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Boucher"
+    }
+]

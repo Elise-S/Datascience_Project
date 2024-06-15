@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beadwork"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Matta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romare_Bearden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Gilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bradley_Walker_Tomlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Salle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_art_museums_and_galleries_in_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_museums_in_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Borofsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador_Dal\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Baselitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Henry_Potthast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Dill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewiston_(town),_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lynda_Benglis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chippewa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanton_Macdonald-Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Hepworth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buffalo,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_1978"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Western_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Kooning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haudenosaunee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amedeo_Modigliani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Folk_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Bierstadt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Folk_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Pfaff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Puni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasper_Francis_Cropsey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Michel_Basquiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jedd_Garet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armand_Guillaumin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_E._Burchfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1978_establishments_in_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Mir\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Mitchell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Henry_Twachtman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Haring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Rothenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georges_Rouault"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burchfield_Penney_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daumier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albright-Knox_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milton_Avery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Native_Americans_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neith_Nevelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_State"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Niagara_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Niagara_County,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Niagara_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wabanaki_Confederacy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_university_art_museums_and_galleries_in_New_York_State"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Utrillo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moholy-Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolee_Schneemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_Earthwork"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romanesque_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sadomasochistic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bellingham,_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deichtorhallen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hunter_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army_Corps_of_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Installation_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polyhedron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solstice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stained_glass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Western_Washington_University_Public_Sculpture_Collection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2018_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corcoran_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Berger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sadomasochism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orange_County_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clement_Greenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Herriman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montpellier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Contemporary_Art,_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mus\u00e9e_National_d'Art_Moderne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equinox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Process_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lynda_Benglis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIT_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maguelone_Cathedral"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medieval_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1931_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynda_Benglis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    }
+]

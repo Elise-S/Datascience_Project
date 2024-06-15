@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_decomposition_(3-manifold)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Publications_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curve_complex"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dehn_surgery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Incompressible_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2014_non-fiction_books"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_position"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Low-dimensional_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solid_torus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometrization_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morse_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_books"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classification_of_two-dimensional_closed_manifolds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hauptvermutung"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heegaard_splitting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lamination_(topology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Hatcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Euclidean_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Foliation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graduate_Studies_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Handlebody"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knot_complement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knot_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Geometric_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Waddell_Alexander_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Covering_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Schultens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Introduction_to_3-Manifolds.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Hempel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/JSJ_decomposition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Triangulation_(topology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Differential_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diophantine_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mapping_class_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sphere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Klein_bottle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knot_invariant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schoenflies_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normal_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seifert_fiber_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thin_position"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartesian_product"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Totally_geodesic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Minimal_surfaces"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homeomorphic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_curve_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander's_Trick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:3-manifolds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coset"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometric_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Circle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_torus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_E._Moise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometrization_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boundary_(topology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connected_sum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compression_body"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zolt\u00e1n_Szab\u00f3_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedhelm_Waldhausen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piecewise_linear_homeomorphism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W._B._R._Lickorish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heegaard_splitting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Hass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minimal_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/3-manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floer_homology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Handle_decompositions_of_3-manifolds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Handlebody"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lens_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manifold_decomposition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Geometric_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Schultens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homeomorphism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homotopy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mapping_class_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Ozsvath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shing-Tung_Yau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfgang_Haken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sol_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topology_and_Its_Applications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lagrangian_submanifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torus_bundle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lexicographical_order"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seifert_fiber_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Three-torus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orientable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Two-sphere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan\u2013Sch\u00f6nflies_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Schultens",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blaine_Lawson"
+    }
+]

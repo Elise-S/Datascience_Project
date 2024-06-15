@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bedwyr_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Ondak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salzburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Organisations_based_in_Salzburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Jermolaewa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_British_Columbia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Toronto_Mississauga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ines_Doujak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Megan_Rooney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoffrey_Farmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Peyton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monica_Bonvicini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Perjovschi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Omer_Fast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luc_Tuymans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stan_Douglas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heimo_Zobernig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erwin_Wurm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Schabus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00fcls\u00fcn_Karamustafa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashley_Hans_Scheirl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marlene_Dumas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Culture_in_Salzburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paloma_Varga_Weisz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/K\u00fcnstlerhaus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romanticism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_German_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aperture_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huis_Marseille,_Museum_for_Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rheinisches_Landesmuseum_Bonn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dahabeah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galleria_d'Arte_Moderna,_Bologna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_Gursky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_Becher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_and_Hilla_Becher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luxor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staatliche_Kunsthalle_Karlsruhe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stedelijk_Museum_Amsterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuttgart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felucca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_der_Moderne_Salzburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1967_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Kunstakademie_D\u00fcsseldorf_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J\u00f6rg_Sasse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laurenz_Berges"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albright\u2013Knox_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nile"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Centre_Pompidou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gustave_Flaubert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guy_de_Maupassant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Frances_Young_Tang_Teaching_Museum_and_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Struth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aswan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Stuttgart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Landscape_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karlsruhe_University_of_Arts_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kehrer_Verlag"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Large_format"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Axel_H\u00fctte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Proust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunstakademie_D\u00fcsseldorf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunstmuseum_Stuttgart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mumok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simone_Nieweg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rijksmuseum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Ruff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Landscape_photographer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oskar_Schlemmer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petra_Wunderlich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caio_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Michael_von_Hausswolff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolee_Schneemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Opa\u0142ka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Candida_H\u00f6fer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    }
+]

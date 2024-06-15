@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Coolidge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canberra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carabineros_de_Chile"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardiff_City_F.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Braun_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Gr\u00e4be"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Theodore_Vogelgesang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlota_of_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmen_Zapata"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Brown_Buell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ambrosius_of_Georgia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Institute_of_Electrical_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Argentina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Colombia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Honduras"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Latvia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Paraguay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_South_Korea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Uruguay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Albania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Iraq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Poland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Romania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Tunisia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Friedrich_Sigismund_of_Prussia_(1891\u20131927)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Clotilde_of_Saxe-Coburg_and_Gotha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Elisabeth_of_Saxe-Altenburg_(1865\u20131927)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Jos\u00e9phine_Charlotte_of_Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Provincetown,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Putting_Pants_on_Philip"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pyotr_Voykov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ludlum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_McKim_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Noyce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Shaw_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Walkowiak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rom\u00e9o_LeBlanc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalynn_Carter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemary_Harris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roshan_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Youngs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Theatre_(New_York_City)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Cohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roza_Makagonova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Warner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Garman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_P._Huntington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarangi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elijah_Mudenda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maas\u2013Waal_Canal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/One_Summer:_America,_1927"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parricide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Key_West,_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1928"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1933"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1949"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1927"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2008"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2012"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2021"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2022"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bartolomeo_Vanzetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basketball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bath_School_disaster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bell_Telephone_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernt_Balchen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Acosta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bhumibol_Adulyadej"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Bryson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Ponsford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Rowling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bluegrass_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Fosse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boots_Randolph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Kustodiev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Shilkov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borisav_Stankovi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Dinkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hedison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Padilla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_R._Francis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfredo_Kraus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_D\u00fcckstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_10"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_11"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_12"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_15"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marguerite_Frank",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_16"
+    }
+]

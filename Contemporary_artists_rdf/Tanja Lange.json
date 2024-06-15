@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Projective_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Element_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Montgomery_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curve25519"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_curve_cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constant_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twisted_Edwards_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coordinate_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Point_(geometry)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weierstrass_form"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Affine_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_J._Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Field_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Characteristic_(algebra)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birational_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Elliptic_curve_cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Summation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Table_of_costs_of_operations_in_elliptic_curves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Square_(algebra)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Implicit_function_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Elliptic_curves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rational_number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Map_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanja_Lange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Montgomery_curve2.svg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_key_cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montgomery_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twists_of_curves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Affine_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_J._Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Field_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Edwards_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Characteristic_(algebra)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Elliptic_curve_cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Table_of_costs_of_operations_in_elliptic_curves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EdDSA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwards_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Elliptic_curves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanja_Lange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birationally_equivalent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikt:affine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Twisted_Edwards_curve.svg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rio_de_Janeiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Duisburg-Essen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_T\u00fcbingen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Experimental_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instituto_Nacional_de_Matem\u00e1tica_Pura_e_Aplicada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wiles's_proof_of_Fermat's_Last_Theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Research_Institute_of_Oberwolfach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Sciences_Research_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saarland_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic-curve_cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saarland_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Wiles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1944_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_University_staff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Number_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ohio_State_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Duisburg-Essen_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Heidelberg_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Heidelberg_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Erlangen-Nuremberg_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_T\u00fcbingen_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trace_zero_cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Habilitation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Essen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fermat's_Last_Theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diophantine_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heidelberg_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Pierre_Serre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_cryptographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Erlangen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_German_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coding_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohio_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Roquette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Heidelberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Erlangen-Nuremberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanja_Lange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tanja_Lange",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frey\u2013Hellegouarch_curve"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/David_Blatherwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Blatherwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blatherwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/David_Blatherwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blatherwick",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/David_Blatherwick"
+    }
+]

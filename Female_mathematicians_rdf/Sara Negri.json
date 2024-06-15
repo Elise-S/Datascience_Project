@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carew_Arthur_Meredith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_M._Solovay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_S._Hartman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Gandy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Fra\u00efss\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Jensen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Carnap"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Kripke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saunders_Mac_Lane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Van_Heijenoort"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Bolzano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarni_J\u00f3nsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boethius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Kaplan_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Jerome_Keisler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hui_Shi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Stuart_Mill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Venn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_von_Neumann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Michael_Dunn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Luis_Vives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Benacerraf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Bernays"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Lorenzen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_of_Venice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavel_Naumov_(logician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penelope_Maddy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_Martin-L\u00f6f"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Abelard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Geach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_of_Spain_(author)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petrus_Ramus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Descartes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reuben_Louis_Goodstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Montague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Sylvan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Whately"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Kilwardby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Kowalski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Lawson_Vaught"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dag_Prawitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentin_Goranko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Andreyevich_Uspensky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Kellogg_Lewis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Makinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_philosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_A._Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dugald_Macpherson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Orlov_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L._T._F._Gamut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodolphus_Agricola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Jeffrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nyaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nyayakusumanjali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ny\u0101ya_S\u016btras"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Logicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Bonomi_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melvin_Fitting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Barcan_Marcus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S._Barry_Cooper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saharon_Shelah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_R._Mar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Navya-Ny\u0101ya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pyotr_Novikov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Udyotakara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Ferrybridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_of_Soissons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Wolff_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Paulin-Mohring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chrysippus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Zinoviev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Nelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ehud_Hrushovski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emil_Leon_Post"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Adolf_Trendelenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaisi_Takeuti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gangesha_Upadhyaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Cantor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Henrik_von_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Kreisel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Boolos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Gentzen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Peano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gottlob_Frege"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graeme_Forbes_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Priest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moj\u017cesz_Presburger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses_Sch\u00f6nfinkel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nagarjuna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conimbricenses"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constantin_R\u0103dulescu-Motru"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Slaman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theophrastus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Aquinas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Negri",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Bradwardine"
+    }
+]

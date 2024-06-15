@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hranush_Hakobyan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedestrian_zone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Collective_Security_Treaty_Organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2009_establishments_in_Armenia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lynn_Chadwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Armenia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanislav_Libensk\u00fd_and_Jaroslava_Brychtov\u00e1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_of_Sasun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Lalanne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staircase"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lino_Tagliapietra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dale_Chihuly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernando_Botero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Flanagan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolay_Bordyuzha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nursultan_Nazarbayev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasmik_Poghosyan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillary_Clinton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaume_Plensa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Bartlett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tamanyan_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arshile_Gorky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Yerevan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kentron_District"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_2009"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grigor_Khanjyan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serzh_Sargsyan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yerevan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yerevan_Cascade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emomali_Rakhmon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dmitriy_Medvedev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basrelief"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerard_L._Cafesjian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Otunbayeva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bohumil_Elias"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Cascade_concert_sculpture_garden,_Yerevan.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Mount_Ararat_and_the_Yerevan_skyline_in_spring_from_the_Cascade.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Mujer_Fumando_un_Cigarrillo_(Woman_Smoking_a_Cigarette).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Tamanyan_street_seen_from_Yerevan_Cascade.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:View_from_the_Cafesjian_Center_for_the_Arts.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Yerevan_skyline_at_night.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u0535\u0580\u0587\u0561\u0576\u056b_\u056f\u0561\u057d\u056f\u0561\u0564\u0568_01_(STRAIGHTENED),_YEREVAN_CASCADE,_CAFESJIAN_MUSEUM.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hiroshi_Yamano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivana_\u0160r\u00e1mkov\u00e1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Peiser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavel_Hlava"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cai_Guo-Qiang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Rowland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Billops"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carissa_Rodriguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Monnet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Lazard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Dunham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carter_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassandra_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amie_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Blakemore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatriz_Santiago_Mu\u00f1oz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Murray_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ryman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Therrien"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Williams_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Wilson_(director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Yarber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rochelle_Feinstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Ripps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Brown_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Reiss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Gorchov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Salane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Bleckner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Paine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_De_Forest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lichtenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Green"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samara_Golden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Skoglund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanford_Biggers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Bartlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Charlesworth"
+    }
+]

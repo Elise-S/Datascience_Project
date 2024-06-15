@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mese,_Burma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mese_(Constantinople)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mese_(mythology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ancient_Greek_comedy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chikako_Mese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bune\u0219ti,_Bra\u0219ov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mese,_Lombardy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matsya_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scalar_curvature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Almgren\u2013Pitts_min-max_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annals_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_F._Escobar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricci_flow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_S._Hamilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curvature_of_Riemannian_manifolds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Irvine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_San_Diego"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Dayton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Warwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Fischer-Colbrie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inventiones_Mathematicae"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courant_Institute_of_Mathematical_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chikako_Mese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gauss\u2013Codazzi_equations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometric_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notices_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolf_Prize_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Minicozzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Witten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gauss-Bonnet_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_relativity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Green's_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conformal_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thierry_Aubin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Simon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liouville's_theorem_(complex_analysis)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Longman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacArthur_Fellows_Program"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bochner_identity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Brendle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simons'_formula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sloan_Research_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commentarii_Mathematici_Helvetici"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Communications_in_Mathematical_Physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Communications_on_Pure_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springer_Publishing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Publications_Math\u00e9matiques_de_l'IH\u00c9S"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1950_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:MacArthur_Fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acta_Mathematica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ailana_Fraser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinz_Hopf_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecture_Notes_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lobachevsky_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minimal_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_American_Association_for_the_Advancement_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernando_Cod\u00e1_Marques"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fort_Recovery,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Neves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_Department_of_Mathematics_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Fort_Recovery,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_H._Sampson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Differential_Geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riemann_curvature_tensor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_International_Congresses_of_Mathematicians_Plenary_and_Invited_Speakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riemannian_manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guggenheim_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H._Blaine_Lawson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harmonic_map"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hidehiko_Yamabe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_of_Mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isothermal_coordinates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Eells"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sphere_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_relativity_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Differential_geometers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Fefferman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_Uhlenbeck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kazan_Federal_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Surgery_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Differential_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B\u00f4cher_Memorial_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spinor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hubert_Bray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chikako_Mese",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metric_space"
+    }
+]

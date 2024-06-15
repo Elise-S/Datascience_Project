@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Slivka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Al_Bengston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Soldner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Voulkos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Arneson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stan_Bitters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:'Noodle',_stoneware_sculpture_by_Peter_Voulkos,_1996,_Metropolitan_Museum_of_Art.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_De_Staebler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_art_movements"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Avant-garde_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ceramic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Time_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_expressionist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otis_College_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hammer_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craft_Horizons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Abstract_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ceramic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Mason_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Locke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Frimkess"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nancy_Selvin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidney_Gordon_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Numerical_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metallurgy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnett_Newman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanton_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bothell,_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Sussman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Conrad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pei_Cobb_Freed_&_Partners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Meier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Day_of_Peace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S.Pellegrino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gemini_G.E.L."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claes_Oldenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Kienholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Stella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Getty_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Valley_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Nevelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Wiesenthal_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Industrial_design_firms"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Wagner_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gagosian_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liz_Larner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/3D_modeling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/3D_scanning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Culver_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobuo_Sekine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isamu_Noguchi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Koons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Isermann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Manufacturing_companies_based_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chain_Reaction_(sculpture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Ray_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Kroc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_McCracken_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Judd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doug_Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_fabrication"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artforum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sol_LeWitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sony_Pictures_Entertainment"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olympia,_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Moeller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoshitomo_Nara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Water_jet_cutter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lita_Albuquerque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Tasset"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pointillism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sun_Valley,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer-assisted_design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Clay_Movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Sound"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Al_Bengston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Voulkos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kenneth_Price",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    }
+]

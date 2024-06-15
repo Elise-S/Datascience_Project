@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuil_Shatunovsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAA_FOCUS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Problem_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denison_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Erd\u0151s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Sally"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_National_Research_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Notre_Dame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_at_San_Antonio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inner_city"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southwest_Texas_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbus,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Dehn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notices_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clay_Mathematics_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaussian_integers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thoralf_Skolem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saint_Louis_University_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Eugene_Dickson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stromberg-Carlson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Combinatorics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_National_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1906_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Ukrainian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ohio_State_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Notre_Dame_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Association_for_the_Advancement_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E._H._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Temple_Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Browder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Zassenhaus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master's_degree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quadratic_reciprocity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2002_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00e1bor_Szeg\u0151"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/High_school_(United_States)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Willerding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saint_Louis_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karl_Rubin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Louis_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dijen_K._Ray-Chaudhuri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southern_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sputnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Louis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Depression"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kurt_Mahler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Science_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Security_Agency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Odessa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Odessa,_Ukraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Odessa_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohio_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Mathematics_Program"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Revolution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gifted_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ram_Prakash_Bambah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewis_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proximity_fuzes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L._E._Dickson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honorary_doctorate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heidelberg,_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics_Association_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Arnold_Chaimovich_as_a_young_man_in_Odessa,_around_1922_(%3F).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Arnold_Ross_as_young_boy_in_school_uniform.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans-Joachim_Willerding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Willerding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulrich_Willerding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Willerding",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    }
+]

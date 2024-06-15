@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_David_Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Treffinger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Nauru"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preston_Cloud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Ileana_of_Romania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psycho_(1960_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberts_M\u016brnieks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Tubby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Laudenbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Day"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Weatherly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanmao_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarangapani_Raman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sardar_Shah_Nawaz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Sale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ennapadam_Sundara_Narayanan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mihailo_Stevanovi\u0107_(linguist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1924_Winter_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1932_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berry_Kroeger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berta_Bobath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Byrd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Anthony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Combe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Estalella_(outfielder)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boy_Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Arkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davie_Duncan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Days_of_Our_Lives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Def_Leppard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Johansson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derek_Eastman_(priest)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Des_Koch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_George_Hinds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Blanco_Freijeiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hoot_Evers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howie_O'Daniels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hubert_Cunliffe-Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugo_Rijhiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hulusi_Say\u0131n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Rapacz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Russell_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Walker_(horticulturist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnny_Eck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnny_van_Doorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josef_Stroh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_C._Fegan_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Carroll_(DIA)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Ferrater_Mora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Guilherme_Merquior"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Barrie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Bikle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Mross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Weiss_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Percy_Furler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Camiel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reginald_Hammond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renato_Rascel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renuka_Dasgupta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reuben_Tam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Earl_Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Kuremaa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Maibaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Stanton-Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rinaldo_Del_Bo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rio_Bravo_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_C._Cook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Choquette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Gehlmann_Bone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Jackson_(UN_administrator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_Hirschmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzeir_Abduramanov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/V._N._Navaratnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vasko_Popa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Velma_Huskey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vic_Fusia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladim\u00edr_Skali\u010dka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Stewart_(decathlete)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Bicknell_Auden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preacher_Pilot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zvonko_Lepeti\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1924_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1928_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1976_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1980_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maxime_Mourguiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maxine_Jennings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medal_of_Honor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/R\u00e9my_Montagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salah_Khalaf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salatyn_Asgarova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sali_Vongkhamsao"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Esther_Lipman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Hardiquest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mih\u00e1ly_P\u00e1rk\u00e1nyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willy_Gepts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cipe_Pineles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cliff_Tyson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_E._Charlesworth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Harriet_Griffin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifton_C._Edom"
+    }
+]

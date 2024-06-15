@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catalan_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Agnes_of_Hohenlohe-Langenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanskrit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Leh\u00f3czky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breton_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hjalmar_Hammarskj\u00f6ld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungarian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juana_In\u00e9s_de_la_Cruz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithuanian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Burns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Glasgow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valencian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vietnamese_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ines_(name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Dragos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Croatian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anissa_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Klindworth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nessie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Bartha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_M\u00f3csy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Nemes_Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germanic_languages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greek_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mustafa_III"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u0101ori_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proto-Indo-European"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arabic_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macedonian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slovenia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slovenian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Babos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Bukta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_B\u00e1nfai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_B\u00e1nfalvy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Csomor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Dob\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Esterh\u00e1zy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Farkas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Fodor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Gajdos-Hubai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Gee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Gergely"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Gerlach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Ger\u00e9b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Heged\u0171s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Heller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Horny\u00e1k"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Juh\u00e1sz-Balajcza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Kaczander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Keleti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Konkoly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Kov\u00e1cs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Koz\u00e1ry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Kunhalmi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Litter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Misk\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Moln\u00e1r"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Mutina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_N\u00e9meth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Pallag"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Prim\u00e1sz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Rapai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Simon_(skier)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Studer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Szatm\u00e1ri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Szentannai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Szijj"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Szil\u00e1gyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Szokolszky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Sz\u00e1vay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_S\u00e1gv\u00e1ri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_S\u00fct\u0151"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Torma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Triffa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Vadai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Valkai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_V\u00e9gh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1gnes_Szendrei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brussels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bulgarian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes,_daughter_of_Ottokar_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Abuom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Acibu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Addison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agnes_Bell_Collier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Allafi"
+    }
+]

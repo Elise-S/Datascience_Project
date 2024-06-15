@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_psychologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_women_psychologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bible_code"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decision_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcomb's_paradox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_stereotyping"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gil_Kalai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gili_Bar-Hillel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amos_Tversky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dror_Bar-Natan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Base_rate_fallacy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_McKay_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Probability"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harry_Potter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_P\u00f3lya_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yehoshua_Bar-Hillel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Association_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruma_Falk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rothschild_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayes'_Theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_paradox_(probability)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tierney_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand's_box_paradox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_paradoxes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Probability_theory_paradoxes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conditional_probability"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maya_Bar-Hillel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernoulli_process"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MBA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Mlodinow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extensional_definition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Probability_problems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parade_Magazine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Two_envelopes_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Probability_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heuristics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Drunkard's_Walk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ask_Marilyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coin_flipping"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_S._Nickerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monty_Hall_Problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marilyn_vos_Savant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Gardner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Petersburg_paradox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sleeping_Beauty_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Necktie_paradox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruma_Falk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rule_of_Succession"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Games_column"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Model_(abstract)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century__Israeli__economists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Behavioral_economists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cognitive_psychologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Experimental_economists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Framing_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_psychologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baruch_Kurzweil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Behavioral_economics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithuanian_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persi_Diaconis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Thaler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cumulative_prospect_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Louisville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Slovic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prospect_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maya_Bar-Hillel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanoma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nahal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_Boring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Casper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conjunction_fallacy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Gilovich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacArthur_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malcolm_Gladwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Six-Day_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suez_Crisis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clustering_illusion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_and_Goliath:_Underdogs,_Misfits,_and_the_Art_of_Battling_Giants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loss_aversion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_psychology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Tversky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1937_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1996_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_psychologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruma_Falk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Econometric_Society"
+    }
+]

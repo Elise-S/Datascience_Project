@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cadillac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cal_Cunningham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caleb_Cotham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Angels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Campbell_Bonner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cannabis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canonical_Ltd."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capitol_Records"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Hinkle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Jockusch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Keenan_Seyfert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Thomas_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Clark_Van_Leer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Panthers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Heinrich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carson_Fulmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casey_Hayward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casey_Weathers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ambra_Pozzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Association_for_Thoracic_Surgery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Bankers_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Bureau_of_Shipping"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_College_of_Physicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Journal_of_Bioethics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Party_(1969)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Political_Science_Review"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Statistical_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ames_Research_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abdiweli_Mohamed_Ali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beasley_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Matlock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pragmatism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Premier_of_the_Cayman_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prentice_Cooper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Presidency_of_Barack_Obama"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_pro_tempore_of_the_United_States_Senate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Presidential_Advisory_Council_on_HIV/AIDS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pretty_Little_Liars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_South_Korea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pro_Bowl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protein_tyrosine_phosphatase"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Providence_(American_TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Health_Service_Meritorious_Service_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Purdue_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quarterback"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quartz_(publication)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quicksand_(1950_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Malcolm_McRae_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_McIntyre_(bishop)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Penn_Warren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ryman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Turner_(composer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_V._Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Estill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Clemente_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Beard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rockefeller_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocketship_Education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Daniel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Freeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Vinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rollerball_(1975_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romancing_the_Stone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_D._Schrimpf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_E._Mickens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Green_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_J._Rychlak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rongalite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosanne_Cash"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rowing_(sport)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Blount_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Herron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Neel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Air_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_C._Pointer_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Hobbs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Selman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Sutter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Angelo,_Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Antonio_Spurs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Clippers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Padres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_49ers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Giants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanford_Rosenthal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Hicks_Stewart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scotland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Sanderson_(baseball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Siman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sylvia_Bozeman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scotti_Madison"
+    }
+]

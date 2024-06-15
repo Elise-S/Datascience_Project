@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_(franchise)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Waterloo_Road_characters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belarusian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengali_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bones_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bosnian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Degrassi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hollyoaks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungarian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithuanian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Utah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coronation_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maureen_Jennings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Christina_of_Persia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Krystyna_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kristina_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_(1958_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_(1983_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_A._Varney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Adams_(actress)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Adams_(athlete)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Albanel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Amertil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Amor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Andreas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Angot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Antorini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Anu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Appleby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Arguello"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Arron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Aschbacher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Auten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Bannon-Rodrigues"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Baranski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Bottomley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Boudrias"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Boutin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Brennan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Brooke-Rose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Cavanaugh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Chapman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Chubbuck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Cook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Decodts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Donnelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Elliott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Envall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Evangelista"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Falling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Fernandes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Gardner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Girard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Grahame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Gregoire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Grice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Gwyther"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Humphreys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Hunter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_H\u00e0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_J._Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Jardine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Johnson_(Utah_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Labrie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Lagarde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Lahti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Lakin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Lambrecht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Lieberknecht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Mboma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_McCafferty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_McVie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Melnick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Michael"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Moore_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Nelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Nesbitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Neubauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Normandin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_O'Donnell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Ockrent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Ohuruogu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Paulin-Mohring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Razanamahasoa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Shevchenko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Sinclair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Sinicki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_St-Pierre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Stewart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Teunissen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Todd_Whitman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Truman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Woods"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_and_the_Queens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christine_Guenther",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_de_Pizan"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Dado",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dado",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dado",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Dado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dado",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Dado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dado",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Dado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dado",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Dado"
+    }
+]

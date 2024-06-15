@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Megumi_Harada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Layton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_van_den_Driessche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Toronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Izabella_\u0141aba"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courant_Institute_of_Mathematical_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olga_Kharlampovich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nancy_Reid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lia_Bronsard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sujatha_Ramdorai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matilde_Lal\u00edn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathleen_Synge_Morawetz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ailana_Fraser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Science_awards_honoring_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gail_Wolkowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Ye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leah_Keshet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Jeffrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Keyfitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicole_Tomczak-Jaegermann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cecilia_Krieger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kanta_Gupta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malabika_Pramanik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_established_in_1995"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_in_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_of_the_Canadian_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chantal_David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Sulem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachel_Kuske"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penny_Haxell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_mathematicians_by_award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_universities_in_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evelyn_Nelson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yael_Karshon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephanie_van_Willigenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Chew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elayne_Arrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Krawitz_Kolchin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Mollie_Horadam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_P._Cushing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Rieffel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Braverman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Celledoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Deza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Fern\u00e1ndez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Freda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Marchisotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Moldovan_Popoviciu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_V\u00e1zquez_Cend\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleny_Ionel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleonora_Di_Nezza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elham_Kazemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliane_R._Rodrigues"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Larsson_(scientific_computing)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_M._Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Vreede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephanie_van_Willigenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ene-Margit_Tiit"
+    }
+]

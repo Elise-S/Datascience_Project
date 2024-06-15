@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belmont_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prestwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Howson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Forrest_(footballer_born_1991)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Neil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ian_Young_(marathoner)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physical_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ayr_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ayr_United_F.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celtic_Football_Club"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laura_Macdonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_MacDonald_Brothers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Prestwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drew_Galloway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Secondary_schools_in_South_Ayrshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Ayrshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public-private_partnership"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_Executive"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ian_Welsh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kyle_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Prestwick_Academy.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Secondary_school"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_school"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Youth_Jazz_Orchestra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blue_Is_the_Colour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/How_Long's_a_Tear_Take_to_Dry%3F"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Heaton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Weller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perfect_10_(song)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Howson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1998_albums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Albums_produced_by_Jon_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_Beautiful_South_albums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Ren\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC_Radio_1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC_Radio_2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Jans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UK_Singles_Chart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Hemingway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Stead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Community_Gospel_Choir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AllMusic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alternative_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferens_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Painting_It_Red"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carry_On_Up_The_Charts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Beautiful_South"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Forum,_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqui_Abbott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jazz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sean_Welch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Goodier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PopMatters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingston_upon_Hull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Sold_My_Heart_to_the_Junkman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Encyclopedia_of_Popular_Music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Go!_Discs_Records"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Rotheray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christgau's_Consumer_Guide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perfect_10_(single)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Kick_Horns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_Rolling_Stone_Album_Guide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caio_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Michael_von_Hausswolff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolee_Schneemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Opa\u0142ka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Paine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Ascott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Dillemans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Francis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Gilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braco_Dimitrijevic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Garff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yasumasa_Morimura"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Powhida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sebastian_Diaz_Morales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanejouand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bas_Jan_Ader"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Enwonwu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Viola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Howson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_and_Roberta_Smith"
+    }
+]

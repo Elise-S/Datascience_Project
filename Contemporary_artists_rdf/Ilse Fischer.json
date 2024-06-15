@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annals_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_P._Robbins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notices_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Paterson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Winkler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christoph_Koutschan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proceedings_of_the_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Combinatorics,_Probability_and_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuval_Peres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Kauers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Razborov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Discrete_&_Computational_Geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aubrey_de_Grey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_of_the_Mathematical_Association_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Advances_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Triennial_events"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kepler_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_American_Mathematical_Monthly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doron_Zeilberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikkel_Thorup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neil_Sloane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Association_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uri_Zwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ileana_Streinu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Fischer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geombinatorics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_C._Hales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_V._Henle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_M._Henle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Hough_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_P._Ferguson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanie_Malzahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Balazs_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Austrian_science_and_technology_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivona_Brandi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wittgenstein-Preis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Koeberl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Teschl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_A._Holzapfel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Kauers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Markus_Aspelmeyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austrian_Science_Fund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tracy_Northup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferenc_Krausz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Kraus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_J._Woeginger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josef_Teichmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harald_Grobner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agata_Ciabattoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karin_Schnass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Uhler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Fischer_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Schrefl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Fischer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yang\u2013Baxter_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bressoud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Enumerative_combinatorics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Permutation_matrix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_P._Robbins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MathWorld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Matrices"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dodgson_condensation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Square_matrix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greg_Kuperberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Statistical_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doron_Zeilberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Fischer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Six-vertex_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Matrice_signes_alternants_4x4.svg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emily_of_New_Moon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/249_Ilse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attack_on_Titan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Estonian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spring_Awakening_(play)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Else_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_(Bega)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_(Oker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_(Weser)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Aichinger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Braun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_DeLange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Everlien_Berardo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Geldhof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Hellman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Heylen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Koch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Thiele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Vaessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilse_van_der_Meijden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilse_Fischer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aechmea_'Ilse'"
+    }
+]

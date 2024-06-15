@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosamond_Praeger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_artists_by_nationality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_from_Northern_Ireland_by_occupation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_H._Osborne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alicia_Boyle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_J._Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rita_Duffy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_McAuley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Peers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Sloan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Ward_(Irish_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Nietsche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Magill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Galway_MacCann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oliver_Sheppard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Shaw_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Morrison_(cricketer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_William_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muriel_Brandt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Carr_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Heron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andre_Stitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Array_Collective"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogside_Artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Northern_Ireland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siobh\u00e1n_Hapaska"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_Rainey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_McKelvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Kindness"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Long_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_W._Carey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Henry_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Markey_Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_A._Coulter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Crampton_Gore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Scott_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Byrne_(Irish_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_McCloy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Piper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Morrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F._E._McWilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basil_Blackshaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norah_McGuinness"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northern_Ireland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Padraig_Marrinan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cecil_Maguire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_O'Neill_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerard_Dillon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathleen_Isabella_Mackie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Harron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamilton_Sloan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Bingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Humbert_Craig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Sleator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crawford_Mitchell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Manley_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Cecilia_Harrison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W._H._Conn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Lamb_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cherith_McKinstry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeremy_Henderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Butler_Yeats"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Lavery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Luke_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Drury_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Davidson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Middleton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Morrow_(illustrator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Morrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Osborne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rowel_Friers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Terry_Bradley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Armstrong_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maria_D._Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Frazer_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mercy_Hunter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neil_Shawcross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oliver_Jeffers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Mulholland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Wilson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Seawright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Se\u00e1n_Hillen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olive_Henry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T.P._Flanagan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willie_Doherty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Conor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_McAdoo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romeo_Toogood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_St._John_Glenn_R.U.A.,_Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gladys_Maccabe_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikipedia:ARTIST"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caio_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Michael_von_Hausswolff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolee_Schneemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeremy_Henderson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    }
+]

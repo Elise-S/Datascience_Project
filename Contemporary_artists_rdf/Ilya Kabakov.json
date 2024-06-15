@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pushkin_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parkett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aperture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews_in_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Raffael"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Stalin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_constitutional_law"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanity_Fair_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Association_of_Art_Critics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Date_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University_School_of_General_Studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador_Dal\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Newsday"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goshen,_Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_Store_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Nation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times_Magazine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Seattle_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anselm_Kiefer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Appalachia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lever_Brothers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Bourgeois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Bourgeois:_The_Spider,_the_Mistress,_and_the_Tangerine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirin_Neshat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_documentary_filmmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wendell_Wallach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Kooning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ARTnews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PBS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PBS_NewsHour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_Divinity_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_in_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_School_of_General_Studies_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chattanooga,_Tennessee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_critic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilya_Kabakov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Endowment_for_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newsday"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newtown,_Bucks_County,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Brooklyn_Rail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peace_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prix_de_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benito_Mussolini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_video_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Emmanuel_III_of_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wiels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1978_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giudecca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Negri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAXXI"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Italian_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Accademia_di_Belle_Arti_di_Napoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EUR,_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Autonomia_Operaia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilya_Kabakov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Years_of_Lead_(Italy)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rijksakademie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paolo_Virno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Esposizione_universale_(1942)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venetian_lagoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Accademia_di_Belle_Arti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedikt_Livshits"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuil_Shatunovsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Ralph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_Jews_by_country"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_Ukrainian_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_by_ethnicity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Mendel_Schneerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moysey_Fishbein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathan_Milstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Milman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mordechai_Hershman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benno_Moiseiwitsch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Delfont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Aronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Iofan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Levin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Levitan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Lozhkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Podolsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ilya_Kabakov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Slutsky"
+    }
+]

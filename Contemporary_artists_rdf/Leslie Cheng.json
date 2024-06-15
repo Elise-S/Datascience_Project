@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Lazlo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preston_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rockstar_North"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Phillips_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjay_and_Craig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Gilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanie_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Leslie_(Louisiana)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Behind_the_Mask:_The_Rise_of_Leslie_Vernon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_N._Cardozo_School_of_Law"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bethel_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Leslie_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Hope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Leslie_(Oregon_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Leslie_(racing_driver)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delroy_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scottish_unisex_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Leslie,_5th_Earl_of_Rothes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Leslie_(shipbuilder)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnny_Maestro_&_the_Brooklyn_Bridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Desmond_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jake_Ryan_(Hannah_Montana)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unisex_name"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conor_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservation_(ethic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/May_Sybil_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Megan_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Member_of_Parliament"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ryan_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_minor_recurring_characters_in_Star_Trek:_The_Original_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Leslie_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Leslie,_Earl_of_Ross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Leslie_(Medal_of_Honor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_W._Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freeway_(rapper)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Dunlop_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Ford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giant_(1956_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mobile_Legends:_Bang_Bang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mrs._Leslie_Carter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murder_of_Leslie_Mahaffy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Night_the_World_Exploded"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Edward_Cliffe_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Leslie_(general)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Leslie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Aspin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Claypool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Ferdinand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Gleadell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Miles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Mills"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Moonves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Wexner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Ann_Warren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Gore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Locke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Manville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_(singer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Banks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Benzies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Bibb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Bohem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Caron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Carter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Charteris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Cheung"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Claudius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Cochran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Crocker_Snyder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Crowther"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Duncan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Frazier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Groves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Howard_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Jones_(comedian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Jones_(cricketer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Jones_(footballer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Khoo_Kwee_Hock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Lamport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Manigat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Mann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Marshall_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Nielsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_O'Neal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Odom_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Peter_Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Phillips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Pope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Sears"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Silva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Stephen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leslie_Cheng",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Uggams"
+    }
+]

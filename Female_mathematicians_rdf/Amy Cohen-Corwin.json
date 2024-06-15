@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Cohen_(businessman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cass_Elliot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaron_Cohen_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Cohen_(bridge)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Cohen_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Dangerfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronni_Chasen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Cohen_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Jacob_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sasha_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_B._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Cohen_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elie_Aron_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Cohen_(scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9once_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herbert_Cohen_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Cohen_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Cohen_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Cohen_(Soviet_spy)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Cohen_(attorney)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Cohen_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Crane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Cohen_(businessman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Cohen_(rugby_union)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Cohen_(political_economist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bennett_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Cohen_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_S._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bolton_Wanderers_F.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonnie_R._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bram_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Cohen_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_B._Cohen_(mayor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bennett_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(military)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_L._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_X._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_M._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Cohen_(composer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Cohen_(poet)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Cohen_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Cohen-Solal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Cosell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hy_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_S._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Cohen_(entrepreneur)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Cohen_(conductor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_Cohen_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Cohen_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josh_Cohen_(tennis)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Cohen_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Cohen_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_J._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Lionel_Cowen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joyce_Cohen_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Solomon_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_B._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lita_Indzel_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reuben_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_A._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Cohen_(columnist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Cohen_(boxer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Cohen_(cellist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Cohen_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Donald_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/US_Army"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uri_Cohen-Mintz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_B._Cohen_(psychologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(art_critic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(entrepreneur)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(intelligence)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_(rabbi)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cohen_Nassy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Elliot_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Jacob_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Mark_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_William_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_J._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Douglas_J._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._M._Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Cohen_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Cohen_(footballer_born_1951)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Cohen_(footballer_born_1961)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewis_Cohen,_Baron_Cohen_of_Brighton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amy_Cohen-Corwin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewis_Cohen_(cardmaker)"
+    }
+]

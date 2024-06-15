@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Christmas_(1974_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bravest_Warriors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journey_to_the_Center_of_the_Earth_(1993_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Resident_Evil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/River_Phoenix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/V_The_Final_Battle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/13_Going_on_30"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Criss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Adams_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Anderson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Beard_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Bell_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Carter_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cooper_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Davis_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Ellis_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Evans_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Gardner_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Holt_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Jackson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_James_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Lawrence_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Martin_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Parker_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Perez_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Reed_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Smith_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Snyder_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Taylor_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Wade_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Walker_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Watson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Webber_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Williams_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Williamson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Wilson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Woods_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Young_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/X-Men_Unlimited"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_(album)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Abani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Abrahams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Adcock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Albright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Alcaide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Amon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Andersen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Angel_(wrestler)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Anker_S\u00f8rensen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Anstey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Anthony_(voice_actress)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Antley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Archer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Arreola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Axworthy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Baillie_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Ballew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Bassitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Beardsley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Benoit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Bey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Bittle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Board"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Botti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Bradley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Braithwaite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Bryan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Burke_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Butler_(filmmaker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Candido"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Carmack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Carson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Champion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Chandler_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Chaney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Chatterton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Chelios"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cheney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Chetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Christie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Clark_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Claybrooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Colfer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Columbus_(filmmaker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Columbus_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Corbould"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cornell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Covington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Croft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cuomo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cuthbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_D'Elia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Daughtry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Denning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Devenski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Dickinson_(wrestler)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Difford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Distefano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chris_Soteros",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Dodd"
+    }
+]

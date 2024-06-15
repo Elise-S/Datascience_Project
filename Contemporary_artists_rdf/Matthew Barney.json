@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_Dieter_Brinkmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Beckett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French-language_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_art_publications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Klee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_\u00c9luard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Van_Gogh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vercors_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Hugo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staffan_Ahrenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Magazines_established_in_1926"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Ernst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Resistance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liam_Gillick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Man_Ray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Laurens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Advertising-free_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wassily_Kandinsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ad_Reinhardt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Calder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Literary_magazines_published_in_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Magazines_published_in_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irregularly_published_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernand_L\u00e9ger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oscar_Niemeyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Modern_Periodical_Studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_Chirico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans-Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Lacan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1926_establishments_in_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adri\u00e1n_Villar_Rojas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Mir\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Le_Corbusier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Lur\u00e7at"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Chagall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Duchamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philippe_Parreno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raoul_Dufy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Zervos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfgang_Paalen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Brauner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Case"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Br\u00e2ncu\u0219i"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francisco_de_Goya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moholy-Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyprien_Gaillard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Driebergen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Sali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boise,_Idaho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boise_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borah_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Marine_Corps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eagle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Garden_City,_Idaho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Stevens_(jockey)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Wimmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geraldo_Boldewijn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boise_School_District"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hailey_Duke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bryan_Harsin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Timberline_High_School_(Boise,_Idaho)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tobias_Read"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Height_above_mean_sea_level"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curtis_Stigers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eagle,_Idaho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernie_Hughes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_establishments_in_Idaho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gold_(color)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jake_Plummer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1965"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Public_high_schools_in_Idaho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Grant_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:High_schools_in_Boise,_Idaho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Treasure_Valley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Survivor:_Heroes_v._Healers_v._Hustlers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marques_McFadden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Idaho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Idaho_High_School_Activities_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Secondary_school"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silver_(color)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_school_(government_funded)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cannes_Film_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychoanalysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Matthew_Barney",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Museum_of_Modern_Art"
+    }
+]

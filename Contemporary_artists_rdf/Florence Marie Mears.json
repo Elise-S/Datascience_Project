@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cab_Calloway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cadwalader_Ringgold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cal_Ripken_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Wake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmelo_Anthony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carter_administration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cass_Elliot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_Runway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_McClain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Stethem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Quivers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_McLeod"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_L._Easton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Holloway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Swoboda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Darby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rondo_Hatton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Rawlings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Hibbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Gay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Cassell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Endicott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Perlozzo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Phillips_(model)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Young_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Chase"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_J._Palmisano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Mudd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanford_J._Ungar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Haardt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_McMann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_T._Hughes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sargent_Shriver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savage_Model_99"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Hull_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Van_Pelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Weinrich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Feldman_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Hamilton-O'Neal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entrance_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ephraim_Francis_Baldwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_from_Maryland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_House_National_Trade_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meredith_Goldstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Nature's_Trail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_%22Chubby%22_Chaney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Levinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baupost_Group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beach_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Aitchison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Carson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Stein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Banneker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benji_Madden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Addison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernie_Wrightson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bess_Armstrong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Belichick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Callahan_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Holiday"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Ripken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blac_Chyna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Ehrlich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Parsons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Robertson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bradford_Shellhammer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brady_Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brady_Barr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Coleman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Hardesty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Hines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Iribe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brent_Faiyaz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brett_Cecil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brett_Kavanaugh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Gottfried"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Westbrook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Drake_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hasselhoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Nolan_(libertarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Pollock_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Wingate_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dawn_Zimmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deakin_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debbie_Meyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debra_Monk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delino_DeShields_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delonte_West"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Scott_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derrick_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derrick_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derrick_Williams_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devika_Parikh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Florence_Marie_Mears",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Brashares"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Green_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daina_Taimi\u0146a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2018_non-fiction_books"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Somerville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maryam_Mirzakhani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wang_Zhenyi_(astronomer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmy_Noether"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Chisholm_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Easley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complexities:_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9milie_du_Ch\u00e2telet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science,_technology,_engineering,_and_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Winifred_Edgerton_Merrill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugenia_Cheng"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Euphemia_Haynes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pamela_E._Harris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Cotwright-Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Crous"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isabel_Maddison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tatiana_Toro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeanne_LaDuke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Biographies_and_autobiographies_of_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_in_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chelsea_Walton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katherine_Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Vaughan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Hamilton_(software_engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maria_Gaetana_Agnesi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_G._Ross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Jackson_(engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philippa_Fawcett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sofya_Kovalevskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophie_Germain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shakuntala_Devi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Power_in_Numbers_book.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_women_in_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pioneering_Women_in_American_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvia_Bozeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talithia_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Race_Point_Publishing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahbub_Jamal_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caveh_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fazlollah_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zahed_Gilani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ardeshir_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nasser_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zahediyeh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zahidi_(date)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shahab_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phoenix_dactylifera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgian_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Varj\u00fa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elemente_der_Mathematik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_J._Green"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugo_Duminil-Copin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Biran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Seidel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavel_Exner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Scholze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Borcherds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Helsinki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincent_Calvez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincent_Lafforgue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volker_Mehrmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Clark_Dobson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EMS_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Mathematics_and_its_Applications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Mathematical_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L'Enseignement_math\u00e9matique"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematical_societies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portugaliae_Mathematica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portuguese_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophie_Morel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwegian_Statistical_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maryna_Viazovska"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maxim_Kontsevich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricardo_P\u00e9rez-Marco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ciprian_Manolescu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claire_Voisin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Goncharov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexis_Bonnet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elon_Lindenstrauss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmanuel_Breuillard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmanuel_Grenier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmanuel_Tr\u00e9lat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encyclopedia_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Labourie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Hirzebruch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geordie_Williamson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bo\u00e1z_Klartag"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moscow_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sara_Zahedi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corinna_Ulcigrai"
+    }
+]

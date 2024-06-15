@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camden_Town"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canal_&_River_Trust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punk_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Stephenson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Institution_of_Chartered_Surveyors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breakfast_Television_Centre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hockney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyperdrive_(British_TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Nash_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Venice,_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_FitzRoy,_3rd_Baron_Southampton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vestry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camden_Road_station"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorset_and_Somerset_Canal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pickfords"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sir_William_Congreve,_2nd_Baronet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wrought_iron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camden_High_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Circus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Melly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerry_Cottle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greater_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modena_City_Ramblers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monmouthshire_(historic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Grade_II_listed_buildings_in_the_London_Borough_of_Camden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquarium_(group)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Limehouse_Basin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Borough_of_Camden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Overground"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Zoo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_and_Birmingham_Railway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_and_North_Western_Railway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucian_Freud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caisson_lock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Starbucks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clean_Air_Act_1956"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banksy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Locks_on_the_Regent's_Canal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Cubitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Morgan_(engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Leonard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Waterbus_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grade_II_listed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TV-am"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Express"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evening_Standard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_London_Railway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northern_line"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Dutkiewicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_British_canal_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_London_Underground_stations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hawley_Lock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Maudslay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Act_of_Parliament"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Camden_Town"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kate_Winslet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kentish_Town_Lock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/King_Robbo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stucco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'z"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newport,_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Off_the_Lock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camden_Market"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canals_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Geography_of_the_London_Borough_of_Camden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cast_iron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regent's_Canal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regent's_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Worcester_and_Birmingham_Canal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metropolitan_Board_of_Works"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lock_(water_transport)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Horn_of_Mortal_Danger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tardebigge_Locks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paddington_Basin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Towpath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twin_lock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crenellation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Register_of_Historic_Ships"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Motorway_Box"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Camden_Lock,_London_-_UK.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Camden_Lock_panorama_at_sunset.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Camden_markets_entrance.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:The_Interchange_Regents_Canal_-_geograph-_2900852.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Beam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1959_establishments_in_New_Brunswick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_galleries_established_in_1959"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Fredericton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Provincial_museums_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quebec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_art_museums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Milne_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Roberts_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Oppenheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arbitration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_John_Flemming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Reynolds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Cory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucian_Freud",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Tissot"
+    }
+]

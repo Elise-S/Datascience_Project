@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_Dieter_Brinkmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Beckett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French-language_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_art_publications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Klee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_\u00c9luard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Van_Gogh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vercors_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Hugo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staffan_Ahrenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Magazines_established_in_1926"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Ernst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Resistance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liam_Gillick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Man_Ray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Laurens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Advertising-free_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wassily_Kandinsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ad_Reinhardt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Calder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Literary_magazines_published_in_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Magazines_published_in_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irregularly_published_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernand_L\u00e9ger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oscar_Niemeyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Modern_Periodical_Studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_Chirico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans-Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Lacan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1926_establishments_in_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adri\u00e1n_Villar_Rojas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Mir\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Le_Corbusier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Lur\u00e7at"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Chagall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Duchamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philippe_Parreno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raoul_Dufy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Zervos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfgang_Paalen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Brauner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Case"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Br\u00e2ncu\u0219i"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francisco_de_Goya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moholy-Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyprien_Gaillard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Restaurants_in_Manhattan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian-American_culture_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithograph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upper_East_Side"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Veal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Risotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Upper_East_Side"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saffron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eggplant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Stella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parmigiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stencil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Restaurants_established_in_2009"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_restaurants_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Italian_restaurants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swordfish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Baechler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Met_Breuer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cannoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meatball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solea_solea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bombolone_(doughnut)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ossobuco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_74th_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lutjanus_campechanus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Numerical_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metallurgy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnett_Newman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanton_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bothell,_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Sussman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Conrad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pei_Cobb_Freed_&_Partners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Meier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Day_of_Peace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S.Pellegrino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ellsworth_Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gemini_G.E.L."
+    }
+]

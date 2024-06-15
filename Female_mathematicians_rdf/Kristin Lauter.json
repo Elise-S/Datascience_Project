@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proceedings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_Theory_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cryptography_conferences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Sutherland_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Selfridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Auckland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Bordeaux_1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Bristol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_San_Diego"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Kaiserslautern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Sydney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Vermont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Wisconsin\u2013Madison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornell_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometry_of_numbers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nancy,_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LMS_Journal_of_Computation_and_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arithmetic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leiden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madison,_WI"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computational_number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banff,_Alberta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banff_Centre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bristol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burlington,_Vermont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecture_Notes_in_Computer_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Analytic_number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Boneh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gyeongju"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harald_Helfgott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ithaca,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_fields"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auckland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Computational_number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_science_conferences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academic_conference"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recurring_events_established_in_1994"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_conferences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaiserslautern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portland,_Oregon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springer_Science+Business_Media"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/INRIA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kristin_Lauter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reed_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Sciences_Publishers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technische_Universitat_Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Research_in_Number_Theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elementary_number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Universiteit_leiden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_CA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen's_University_at_Kingston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canad._Math._Bull."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Mathematics_Research_Notices"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Illinois_at_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arithmetic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Ram_Murty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematische_Annalen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Number_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Queen's_University_at_Kingston_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Illinois_Chicago_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachel_Justine_Pries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Romanian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Mathematics_of_the_Romanian_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingston,_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kristin_Lauter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sieve_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cara_Mund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caribbean_Community"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmen_Mart\u00edn_Gaite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroll_Spinney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Colombia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Denmark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Israel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Lithuania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Thailand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_holidays_in_Guam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Jeonghui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Zhou_the_Elder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Prosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sternberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kristin_Lauter",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Reagan"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Green_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daina_Taimi\u0146a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2018_non-fiction_books"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Somerville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maryam_Mirzakhani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wang_Zhenyi_(astronomer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmy_Noether"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Chisholm_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Easley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complexities:_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9milie_du_Ch\u00e2telet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science,_technology,_engineering,_and_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Winifred_Edgerton_Merrill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugenia_Cheng"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Euphemia_Haynes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pamela_E._Harris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Cotwright-Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Crous"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isabel_Maddison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tatiana_Toro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeanne_LaDuke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Biographies_and_autobiographies_of_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_in_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chelsea_Walton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katherine_Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Vaughan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Hamilton_(software_engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maria_Gaetana_Agnesi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_G._Ross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Jackson_(engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philippa_Fawcett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sofya_Kovalevskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophie_Germain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shakuntala_Devi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Power_in_Numbers_book.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_women_in_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pioneering_Women_in_American_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvia_Bozeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talithia_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Race_Point_Publishing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isabel_Maddison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Chew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elayne_Arrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Krawitz_Kolchin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Mollie_Horadam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_P._Cushing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Rieffel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Braverman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Celledoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Deza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Fern\u00e1ndez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Freda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Marchisotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Moldovan_Popoviciu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_V\u00e1zquez_Cend\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleny_Ionel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleonora_Di_Nezza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elham_Kazemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliane_R._Rodrigues"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Larsson_(scientific_computing)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_M._Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabel_Maddison",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Vreede"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartan_(crater)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Netherlands_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonin_Dubost"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homogeneous_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Tannery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Montpellier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vector_(mathematics_and_physics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vector_spaces"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Integrability_conditions_for_differential_systems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyc\u00e9e_Janson_de_Sailly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pseudogroup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connection_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9cole_Normale_Sup\u00e9rieure"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pure_spinor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classical_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_relativity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mohsen_Hashtroodi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leconte_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compact_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9mile_Picard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Closed_subgroup_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Baptiste_Perrin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symmetric_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1869_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1951_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Foreign_associates_of_the_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Netherlands_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CAT(k)_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilhelm_Killing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Division_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lobachevsky_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lyc\u00e9e_Janson-de-Sailly_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exterior_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exterior_derivative"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fiber_bundle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partial_differential_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isotropic_line"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moving_frame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riemannian_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Poincar\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Is\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hypercomplex_number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simple_Lie_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_French_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Foreign_Members_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Is\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Differential_geometers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_French_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:\u00c9cole_Normale_Sup\u00e9rieure_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Ehresmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Hermite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kentaro_Yano_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Einstein\u2013Cartan_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hermitian_symmetric_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holonomy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Differential_form"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Differential_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dolomieu,_Is\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dover_Publications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bulletin_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polish_Academy_of_Learning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophus_Lie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Special_relativity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spinor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edouard_Goursat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Nancy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartan_connection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartan\u2013K\u00e4hler_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shiing-Shen_Chern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masatake_Kuranishi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rotation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_things_named_after_\u00c9lie_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Secondary_education_in_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Integrable_systems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weyl_tensor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Representations_of_Lie_groups"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Lyons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Appell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaston_Darboux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theory_of_equivalence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Tresse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartan_(crater)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9lie_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Cartan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Badea_C\u00e2r\u021ban"
+    }
+]

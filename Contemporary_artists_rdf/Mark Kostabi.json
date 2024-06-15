@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculus_of_variations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camillo_De_Lellis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canaan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Ascoli_Piceno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Teramo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Benedetto_del_Tronto-Ripatransone-Montalto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rugby_union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Baj"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bell_pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blue_Flag_beach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bologna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Livingston_Seagull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perugia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pescara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riccardo_Bugari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Bach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ripatransone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riviera_delle_Palme_(Marche)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ugo_Crescenzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ugo_Nespolo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viareggio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Defender_(association_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_European_Plain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phoenix_canariensis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Town_twinning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colonnella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comune"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservation_law_(physics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crustaceans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ancient_Greece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Coastal_towns_in_the_Marche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Port_cities_and_towns_of_the_Adriatic_Sea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massimo_Fabbrizi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mazara_del_Vallo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mediaset_Italia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mediterranean_Sea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S.S._Sambenedettese_Calcio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometric_measure_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washingtonia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Democracy_(Italy)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civitanova_Marche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Climate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emilia-Romagna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrica_Cipolloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enzo_Eusebi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_II,_Holy_Roman_Emperor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giambattista_Croci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Carminucci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giulianova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monteprandone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muccia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mudimbi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contrada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:San_Benedetto_del_Tronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Emperor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2018_Winter_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2012_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Pazienza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Rossi_(footballer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apulia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Seaside_resorts_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Valori"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macerata"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shooting_at_the_2012_Summer_Olympics_\u2013_Men's_trap"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sky_Sport_(Italy)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefano_Di_Cola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steyr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comics_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0160ibenik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frazione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metropolitan_area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Porto_d'Ascoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_pentathlon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Summer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swimming_(sport)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2000_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balkans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buran_(wind)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Byzantine_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Centro_Sportivo_Carabinieri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cetacea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tirreno\u2013Adriatico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tortoreto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinidad,_Cuba"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tyrrhenian_Sea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Echinoderms"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lega_Pro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vino_cotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abruzzo_Airport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Accumoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Kostabi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acquaviva_Picena"
+    }
+]

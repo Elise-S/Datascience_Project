@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_census-designated_places_in_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2010_United_States_Census"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Census-designated_places_in_Catron_County,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Area_code_575"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_counties_in_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_sovereign_states"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Lightning_Field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geographic_Names_Information_System"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mountain_Time_Zone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._state"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/USDA_hardiness_zone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_De_Maria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2020_United_States_Census"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catron_County,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Census-designated_place"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Historian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Census-designated_places_in_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerry_D._Thompson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pie_Town,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weather_Channel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Southwest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quemado_Schools"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Quemado_antlers.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_modernism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roswell_Museum_and_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/20th-century_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Mandelman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Alfaro_Siqueiros"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Clemente_Orozco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cubism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Southern_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Lightning_Field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1922_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cleveland_Indians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cleveland_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G.I._Bill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2014_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Dasburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Geiger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taos_art_colony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Case_Western_Reserve_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:United_States_Navy_personnel_of_World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_New_Mexico_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_De_Maria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Hopps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Kooning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Futurism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harwood_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albuquerque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eudorah_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Knight_(art_critic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Corbett_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jackson_Pollock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taos,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arshile_Gorky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Seabees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Cleveland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albuquerque_Museum_of_Art_and_History"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diego_Rivera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D.H._Lawrence_Ranch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Mexico_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oli_Sihvonen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taos_Moderns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Case_Western"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Ribak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pasadena_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seabees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clay_Spohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Stewart_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_A._Rowan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_W._Leavitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_of_Visual_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hard-Edge_Painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primary_Structures_(1966_exhibition)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnett_Newman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Simon_Guggenheim_Memorial_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/10th_Street_galleries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1918_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corcoran_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Medal_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Art_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Empire_State_Plaza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nam_June_Paik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constructivism_(art)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skowhegan_School_of_Painting_and_Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Krushenick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Gross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_De_Maria",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1988_deaths"
+    }
+]

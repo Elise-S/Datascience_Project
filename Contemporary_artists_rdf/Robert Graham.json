@@ -1,0 +1,72 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Robert_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Graham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham_(disambiguation)"
+    }
+]

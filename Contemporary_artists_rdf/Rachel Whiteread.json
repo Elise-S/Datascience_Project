@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santiago_de_Compostela"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electrotyping"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_and_Albert_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Orwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Roman_Civilization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Maclagan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anton_Raphael_Mengs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lorenzo_Ghiberti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00fcbeck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Cole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leone_Leoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broadcasting_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trajan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trajan's_Column"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trajan's_Dacian_Wars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_(Verrocchio)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Pisano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Charles_Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Last_Judgment"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Air_pollution_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exposition_Universelle_(1867)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bronze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nineteen_Eighty-Four"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nudity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Fontana_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Exposition_(1867)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Crystal_Palace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Architectural_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Plaster_cast_collections"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sculptures_of_the_Victoria_and_Albert_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Young_Darracott_Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Domenico_Ghirlandaio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donatello"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marlborough_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piazza_dei_Miracoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pisa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fig_leaf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Museum_of_Romanian_History"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachel_Whiteread"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raphael"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plaster_cast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Room_101"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_(mythology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathedral_of_Santiago_de_Compostela"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/King_David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_conservation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grand_Duke_of_Tuscany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_School_of_Athens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_(London)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florence_Baptistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelangelo's_David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/V&A_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westminster_Palace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Another_Room_of_Casts.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Cast_Court_from_upper_walkway.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Cast_of_Portico_de_la_Gloria_(detail).JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Cast_of_statue_of_St._George.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Inside_the_cast_of_Trajan's_column.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Pulpit_by_Giovanni_Pisano_(cast).JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:The_Portico_de_la_Gloira,_Santiago_de_Compostela.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:This_room_is_full_of_plaster_cast_copies_of_famous_world_statues,_sculptures_and_monuments.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna_Enthroned"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cargill_MacMillan_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_in_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Art_Directory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1909_establishments_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arts_organizations_established_in_1909"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._DeForest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Woods_Bliss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Neuberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Museum_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Viola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brice_Marden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Degas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hunter_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Olitski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peabody_Essex_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Bechtle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interstate_Commerce_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arts_organizations_based_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corcoran_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maya_Lin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Whiteread",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chola_art"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Kastil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Graz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_G\u00f6ttingen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Mainz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Montpellier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_M\u00fcnster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/K\u00f6the_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saarland_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1989_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmy_Noether"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankfurt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Z\u00fcrich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Functional_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1905_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Austrian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Graz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topological_vector_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werner_Hildenbrand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lattice_(order)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otto_Toeplitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Academy_of_Sciences_Leopoldina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ring_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinrich_Behnke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_of_Mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Functional_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Topologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tosun_Terzio\u011flu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Habilitationsschrift"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Heidelberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Finsler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bartel_van_der_Waerden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonn_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Hagemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Silesia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breslau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhine_river"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Courant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Kiel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Integral_Equations_and_Operator_Theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Convex_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Born"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Wroc\u0142aw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Otto_Rudolf_Sturm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genetic_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gottfried_K\u00f6the"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greek_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smooth_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Functional_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hellinger\u2013Toeplitz_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helmut_Ulm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spectral_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1881_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1940_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematical_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Bonn_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuberculosis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_popularizers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eduard_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernst_Hellinger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Klein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linear_functional"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quadratic_form"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Rademacher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Schwerdtfeger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinrich_Behnke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hermann_Minkowski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jakob_Rosanes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Functional_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_emigrants_from_Nazi_Germany_to_Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Province_of_Silesia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toeplitz_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toeplitz_matrix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toeplitz_operator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Square_(geometry)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inscribed_square_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wroc\u0142aw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silverman\u2013Toeplitz_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Breslau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00f6ttingen_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calder\u00f3n\u2013Toeplitz_operator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elisabeth_Hagemann",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Otto_Toeplitz.jpg"
+    }
+]

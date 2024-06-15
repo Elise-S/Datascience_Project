@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milada_(name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milagros_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mile_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milla_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Slavic_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ukrainian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hotel_Dusk:_Room_215"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Croatian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Nikolova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_(Star_Trek)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_affair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arabic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuri_on_Ice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Female"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Europe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Gojsali\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyrillic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eastern_Europe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fire_Emblem_Gaiden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attack_No._1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arabic_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Russian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Serbian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slavic_Peoples"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanish_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_(Dead_or_Alive)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_(Doctor_Who)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Kunis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Mason"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Mulroney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Horvat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slavic_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludmila_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Music_of_Dolphins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milena_(name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Nicolai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Damgov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blaga_Dimitrova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boban_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hristo_Lukov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petar_Petrov_(athlete)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vasil_Zlatarski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Nikolov_(volleyball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volen_Siderov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Vedar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/12386_Nikolova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elka_Nikolova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hristo_Nikolov_-_Choko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilia_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Nikolova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolay_Nikolov_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolovski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olivera_Nikolova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plamen_Nikolov_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plamen_Nikolov_(footballer_born_1957)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plamen_Nikolov_(footballer_born_1961)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plamen_Nikolov_(footballer_born_1985)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rumen_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Yoncheva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgi_Glouchkov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andon_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyudmil_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macedonian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mamin_Kolyu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefan_Stambolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stoyan_Mihaylovski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bal\u00e1zs_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bulgarian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_Nikolov_Orce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Nikolov_(boxer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eastern_Slavic_naming_customs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikola_Stanchev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolay_Nikolov_(athlete)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolay_Nikolov_(footballer,_born_1981)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolay_Nikolov_(footballer,_born_1985)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gotse_Delchev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgi_Nikolov_(footballer_born_1983)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gyorche_Petrov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hadzhi_Dimitar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Stranski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tane_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Nikolov_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asen_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atanas_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bulgarian-language_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Patronymic_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Surnames_from_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Macedonian-language_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dimitar_Blagoev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dimitar_Yakimov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marija_Nikolova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bulgarian_name"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hristo_Makedonski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kiril_Nikolov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mila_Nikolova",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kiril_Nikolov_(footballer)"
+    }
+]

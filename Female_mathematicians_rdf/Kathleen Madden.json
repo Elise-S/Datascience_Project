@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camogie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Camogie_players"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1946_All-Ireland_Senior_Camogie_Championship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1948_All-Ireland_Senior_Camogie_Championship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1947_in_camogie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:All-Ireland_Senior_Camogie_Championship_seasons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All-Ireland_Senior_Camogie_Championship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Keenan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connacht_Tribune"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corrigan_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galway_GAA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antrim_GAA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ballinasloe_GAA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tipperary_GAA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathleen_Cody_(camogie)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All-Ireland_Senior_Hurling_Championship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dublin_GAA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celia_Quinn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlie_McMahon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathleen_Madden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathleen_Mills"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irish_Independent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashbourne_Cup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CIE_Camogie_Club"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Camogie_League"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camogie_All_Stars_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Griffin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophie_Brack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All-Ireland_Senior_Camogie_Championship_1966"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Neville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bridie_O'Neill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmel_Nulty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Bowler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Cosgrave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_McGarry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/May_Fitzpatrick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rita_Manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rita_McGarry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_O'Donoghue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thelma_Tighe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/May_Neville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathleen_Dooey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathleen_Rainey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mavis_Madden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sue_McKeown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_C._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Jockusch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Ludwig_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_R._de_Boor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Beenakker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Castillo-Chavez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_J._Moreno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carsten_Lund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amin_Shokrollahi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amos_Fiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Ashurst_Gooch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_Freedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_Gross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_F._Logan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e1l_Tur\u00e1n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Frankl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Kiss_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Komj\u00e1th"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_M._Solovay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_MacPherson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Marshak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Phelps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Shostak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tijdeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Zimmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hartshorne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Thomas_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Wilson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robion_Kirby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Downey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Evans_Howe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Heath-Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Penrose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Temam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_W._Brockett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rohit_Jivanlal_Parikh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Dobrushin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Glowinski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Sikorski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Shamir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_C._Read"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Fisher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_G._Douglas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Jensen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Kosloff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Madden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemary_A._Bailey"
+    }
+]

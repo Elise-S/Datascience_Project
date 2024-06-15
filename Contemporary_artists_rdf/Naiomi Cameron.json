@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Buckmire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_E._Mickens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melvin_Currie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Omayra_Ortega"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Richardson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dawn_Lott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Berry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqueline_Hughes-Oliver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_B._Hayden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naiomi_Cameron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raegan_Higgins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freeman_A._Hrabowski_III"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_Conyers_Hewitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mohamed_Omar_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Wilson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smith_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talitha_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bryn_Mawr_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/To_Be_Young,_Gifted_and_Black"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kasso_Okoudjou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_diaspora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aissa_Wade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_N._Walker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evelyn_Boyd_Granville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Simone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pamela_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Cotwright-Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dionne_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floyd_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_D._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kimberly_Sellers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kimberly_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas_Tech_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeanette_Scissum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_A._Massey_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arlie_Petters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashley_Wheeler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chelsea_Walton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_History_Month"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvester_James_Gates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_E._Lewis_(engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonita_V._Saunders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clarence_F._Stephens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fern_Hunt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candice_Renee_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Mahoney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_L._Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shelby_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shelly_M._Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_Eubanks-Turner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirley_McBay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_W._Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulrica_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trachette_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Horne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weldon_Irvine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathan_Alexander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathaniel_Dean"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monica_Cox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piper_Harron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvia_Bozeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tasha_Inniss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suzanne_Weekes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Newell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talithia_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_A._McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Harris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genevieve_Knight"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abubakarr_Yillah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrian_Coles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Robinson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anisah_N._Nu'Man"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_T._Randall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aqeeb_Sabree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashley_J._Swain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandis_Whitfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brittany_L._Mosby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bronte_Burleigh-Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bryan_Williams_(data_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassandra_McZeal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_McRoberts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cory_Colbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Eckhardt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dante_A._Tawfeeq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_S._Torain_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dionne_Swift"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geremias_Polanco_Encarnacion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_F._Gilmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqueline_Milton_Hicks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jahmario_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_L._Solomon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jamylle_Carter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janis_M._Oldham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Naiomi_Cameron",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Pierre_Mutanguha"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Propositional_formula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Element_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0141ukasiewicz\u2013Moisil_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C._C._Chang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boolean_algebras"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_semantics_(mathematical_logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_structure"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Approximately_finite-dimensional_C*-algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homomorphism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unary_operation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lindenbaum\u2013Tarski_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_type"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monoid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Many-valued_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siegfried_Gottwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_Encyclopedia_of_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Empty_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Many-valued_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraic_structures"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fuzzy_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fuzzy_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linearly_ordered_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Itala_D'Ottaviano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grigore_Moisil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_\u0141ukasiewicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tautology_(logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0141ukasiewicz_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraic_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Binary_operation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Effect_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BCK_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BL_(logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boolean_algebra_(structure)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Identity_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Infinitesimal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olivia_Caramello"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Set_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petr_H\u00e1jek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valuation_(logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Variety_(universal_algebra)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Two-element_Boolean_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Residuated_lattice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Categorical_equivalence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lattice-ordered_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Model_(mathematical_logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0141ukasiewicz\u2013Tarski_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniele_Mundici"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Revaz_Grigolia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Cignoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wajsberg_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Projective_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saunders_Mac_Lane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Module_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denotational_semantics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tate_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Johnstone_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riemann_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intuitionistic_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intuitionistic_type_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comonad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compact_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Continuum_hypothesis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crystalline_cohomology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9tale_cohomology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Functor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fundamental_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kripke_semantics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pointless_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Type_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weil_conjectures"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Lawvere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lattice_(order)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Grothendieck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_variety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forcing_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Bourbaki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heyting_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis_Verdier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abelian_category"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:History_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joachim_Lambek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L._E._J._Brouwer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lambda_calculus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Syntax"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Higher-order_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homological_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homotopy_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Myles_Tierney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Axiom_of_choice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olivia_Caramello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boolean_algebra_(structure)"
+    }
+]

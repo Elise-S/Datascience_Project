@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ensemble_Resonanz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Dorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Concert_halls_in_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hochtaunuskreis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hr-Sinfonieorchester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Berks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volker_Staab"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marta_Casals_Istomin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/String_instrument"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gidon_Kremer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e1s_Schiff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoni_T\u00e0pies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Studio_Drift"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kronberg_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Casals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Cragg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karin_Sander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curtis_Institute_of_Music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Kronberg_im_Taunus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hesse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Hochtaunuskreis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chamber_Orchestra_of_Europe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chamber_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tabea_Zimmermann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hessian_Ministry_of_Higher_Education,_Research_and_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wigmore_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kremerata_Baltica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kronberg_im_Taunus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Music_venues_completed_in_2022"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuttgarter_Kammerorchester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kronberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pau_Casals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Kronberg,_Casals_Forum_im_Bau.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ryman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brice_Marden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apocalypse_Now_(painting)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Beuys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Nechvatal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Gober"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1923_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2001_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_art_collectors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Utrillo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christie's"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Sherman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_&_George"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_Gursky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anselm_Kiefer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_and_Hilla_Becher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lexington_Avenue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sigmar_Polke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Innerst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_art_collectors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Nauman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Otterness"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Cragg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_Village,_Manhattan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernand_L\u00e9ger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Wool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Dubuffet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Koons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Gonzalez-Torres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Struth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katharina_Fritsch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Students_League_of_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kirk_Varnedoe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Storr_(art_academic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebecca_Warren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Woodrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lammy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Shrigley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Declan_McGonagle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derek_Jarman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_B\u00fcttner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Turner_Prize_winners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthea_Hamilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Hodgkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Snow_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julian_Opie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Rego"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Blake_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Doig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Deacon_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Hamilton_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Long_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tony_Cragg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson_(sculptor)"
+    }
+]

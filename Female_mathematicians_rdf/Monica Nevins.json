@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertram_Kostant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_W._Knapp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_A._Wolf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlas_of_Lie_Groups_and_Representations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Sally"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Levi_L._Conant_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1954_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monica_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notices_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minimal_K-type"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norbert_Wiener"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simple_Lie_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Massachusetts_Institute_of_Technology_School_of_Science_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Putnam_Fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Presidents_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jing-Song_Huang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kazhdan\u2013Lusztig_polynomial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mercer,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Mercer,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unitary_representation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogan_diagram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Trapa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harish_Chandra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Putnam_Fellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monica_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nevinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvester_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Three_Suns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Nevins,_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_S._Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jason_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jess_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Joseph_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nevins,_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nevins,_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nevins,_Wisconsin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nevins_Township,_Vigo_County,_Indiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheila_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nevin_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schwarzian_derivative"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monic_polynomial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Binomial_(polynomial)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derivative"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dyadic_transformation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dynamical_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandelbrot_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critical_point_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saddle_point"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monica_Nevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nonlinearity_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orbit_(dynamics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Origin_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entire_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Function_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Convex_hull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critical_value"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milnor\u2013Thurston_kneading_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Local_minimum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logarithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logistic_map"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_dynamics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_quadratic_polynomial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_squaring_map"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phase_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stability_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Misiurewicz_point"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Affine_transformation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fixed_point_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parameter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topological_conjugation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rational_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iterated_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dynamical_system_(definition)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riemann_sphere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Univariate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fractals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polynomials"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chain_rule"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bifurcation_diagram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bifurcation_locus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coefficient"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dimension"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Monica_Nevins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Complex_dynamics"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FBTR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FDTD_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FDTD_modeling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FDTD_models"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FFAG_accelerator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franco_Rasetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_B._Jewett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Close"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Edward_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Elmore_Ross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Haig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Hereford_(University_of_Virginia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Isakson_Prize_for_Optical_Effects_in_Solids"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_J._Low"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_J._Tipler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Nabarro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Oppenheimer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Verstraete"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Wilczek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frans_Michel_Penning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franti\u0161ek_Josef_Gerstner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Ernst_Neumann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Ollendorff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_S._Exner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Wegner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Arago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Englert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Frenkiel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fraunhofer_distance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Alan_Wolf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Espenak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Hoyle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Kavli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Charles_Frank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Guthrie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Lindemann,_1st_Viscount_Cherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Reines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Seitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Sumner_Brackett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Thomas_Trouton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Vine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FreeON"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Free_electron_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Free_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freeman_Dyson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frenet\u2013Serret_formulas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frenkel_defect"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frequency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fresnel_Imager"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fresnel_equations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fresnel_rhomb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedel_Sellschop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedmann_equations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Bopp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Ernst_Dorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Hasen\u00f6hrl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Hopfner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Hund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Kohlrausch_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Paschen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Robert_Helmert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedwardt_Winterberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frisch\u2013Peierls_memorandum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritjof_Capra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frits_Zernike"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz-Albert_Popp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz_John"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz_Reiche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz_Sauter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz_Ursell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz_Zwicky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/From_Eternity_to_Here"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Froude_number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fr\u00e9d\u00e9ric_Joliot-Curie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fugacity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fulvio_Melia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fusion_energy_gain_factor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fusion_for_Energy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fusion_power"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Future_of_an_expanding_universe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fyodor_Grigoryevich_Reshetnikov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Indexes_of_physics_articles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fault_current_limiter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fax\u00e9n's_law"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fayet\u2013Iliopoulos_D-term"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Featherstone's_algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feinberg_reinterpretation_principle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felice_Fontana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felici's_law"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feodosy_Krasovsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferdinand_Brickwedde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Calogero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Carlini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_G._Slack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_H._Harlow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Perrin_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Robbins_Upton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Fotini_Markopoulou-Kalamara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franck_Report"
+    }
+]
