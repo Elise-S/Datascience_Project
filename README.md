@@ -1,5 +1,12 @@
 # Datascience_Project
-## Here is the ReadMe of the project.
+##  ReadMe of the Data science project by : 
+
+Elise SOENEN
+Mina 
+Reyanne ROMAIN
+
+
+Available in Gitub on this link : https://github.com/Elise-S/Datascience_Project
 
 Datasets:
 
