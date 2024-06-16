@@ -2,7 +2,7 @@
 ##  ReadMe of the Data science project by : 
 
 Elise SOENEN
-Mina 
+Mina OULHEN
 Reyanne ROMAIN
 
 
