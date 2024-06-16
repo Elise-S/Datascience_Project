@@ -17,3 +17,7 @@ statistics
 numpy
 sklearn
 seaborn
+os
+rdflib
+pprint
+SPARQLWrapper
