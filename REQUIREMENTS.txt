@@ -1,0 +1,19 @@
+Librairies needed to run the code:
+
+requests
+BeautifulSoup
+wikipedia (1.4.0)
+random
+pandas
+re
+json
+spacy
+nltk
+stanza (1.8.2)
+collections
+wordcloud
+matplotlib
+statistics
+numpy
+sklearn
+seaborn
