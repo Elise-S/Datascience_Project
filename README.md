@@ -14,7 +14,7 @@ You will find all the Libraries required in :
 
 Data collection: 
 
-We extract wikepedia pages thanks to 
+Wikepedia pages were extracted thanks to the web scraper beautiful soup.
 
 
 
@@ -28,7 +28,4 @@ Datasets selected :
 
 - List of contemporary artists. (2024, May 18). In Wikipedia. https://en.wikipedia.org/wiki/List_of_contemporary_artists
 
-Interesting site on the scraping process: https://stacklima.com/web-scraping-de-wikipedia-en-utilisant-python-un-guide-complet/
 
-
-(apperently, must use "describe" at some point = advise in a conversation I heard)
