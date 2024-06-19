@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Tolman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Humphrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Eilenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scotland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnard_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century__English_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century__English_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annals_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Warwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_McDuff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cambridge__mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institut_des_Hautes_\u00c9tudes_Scientifiques"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Von_Neumann_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pseudoholomorphic_curve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genetics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Lyttle_Satter_Prize_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolf_Prize_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Justin_Blanco_White"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellipsoid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Girton_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graeme_Segal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moscow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mozart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Salieri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stony_Brook_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Combinatorics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9lie_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Lalonde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Functional_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leroy_P._Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Warwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_expatriate_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stony_Brook_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_Girton_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Female_Fellows_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academia_Europaea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Scott_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Pushkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amber_Reeves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Reeves_family"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fields_medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Foliation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris,_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Centre_International_de_Rencontres_Math\u00e9matiques"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dietmar_Salamon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diffeomorphism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Embedded_contact_homology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H._G._Wells"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atiyah\u2013Segal_completion_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_of_Mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Gelfand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyperfinite_type_II_factor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abel_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_expatriates_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Stony_Brook,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Barnard_College_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Massachusetts_Institute_of_Technology_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_Academia_Europaea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Milnor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biologist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symplectic_Geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symplectic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cohomology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Tolman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_George's_School,_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conrad_Hal_Waddington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Innokenty_Annensky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Atiyah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikhail_Leonidovich_Gromov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Tolman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katrin_Wehrheim"
+    }
+]

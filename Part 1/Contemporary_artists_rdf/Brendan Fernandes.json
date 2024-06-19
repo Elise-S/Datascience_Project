@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calgary_Stampeders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Broadcasting_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Football_League"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Off"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BellaNaija"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prem_Watsa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Premier_of_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Uffen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Bondar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Gallaway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Jackson_(rower)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Atkey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Irwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Maggs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Chargers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sasha_Gollish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Copeland_(sports_executive)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Walker_(economist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Revenue_(Ontario)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Gunter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W._J._Roche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto_city_councillor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2010_Winter_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basia_Bulat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bell_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Shapiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Trottier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Morneau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Pataky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BioWare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarni_Tryggvason"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blogger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Consulting_Group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Raffensperger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Ferriman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Furnish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Johnston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lee_(Canadian_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Peterson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Shore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Winninger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deb_Matthews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Apps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Price-Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hockey_Night_in_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Bryan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Ferguson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_McCurdy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Reesor_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Robarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Thompson_(TD_banker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonita_Gandhi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Rotman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joy_MacPhail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juggan_Kazim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_M._Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mayors_of_London,_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_LaForge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Beeston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Bremer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Davenport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Szabo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Vermeersch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peggy_Sattler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penn_Kemp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perrin_Beatty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Godsoe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Partington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Towe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reva_Gerstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_M._Ivey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_MacDonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_Stewart_(filmmaker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_C._Dynes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Foxcroft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Jago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Ling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uche_Eze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Hong_Kong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pittsburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Toronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Western_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vandana_Shiva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaughn_Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Mete"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Wright_(composer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Rix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duncan_Coutts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L._Seale_Holmes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Macklin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorado_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbus_Blue_Jackets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Composer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Brendan_Fernandes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Country_pop"
+    }
+]

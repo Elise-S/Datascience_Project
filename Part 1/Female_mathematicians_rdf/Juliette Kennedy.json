@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modal_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Model_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peano_arithmetic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reverse_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Validity_(logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intuitionistic_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Consistency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Consistent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Proof_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gisbert_Hasenjaeger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Works_by_Kurt_G\u00f6del"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arithmetical_hierarchy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00f6wenheim\u2013Skolem_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_Encyclopedia_of_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compactness_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zermelo\u2013Fraenkel_set_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deductive_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kripke_semantics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Henkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Structure_(mathematical_logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Well-order"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Countable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juliette_Kennedy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lindstr\u00f6m's_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robinson_arithmetic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tennenbaum's_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-standard_model_of_arithmetic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First-order_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Theorems_in_the_foundations_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Formal_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tree_structure"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logical_consequence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_deduction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proof_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00f6del's_incompleteness_theorems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Hermes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henkin_semantics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Metatheorems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Model_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theory_(mathematical_logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Provability_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Axiom_of_choice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boolean_prime_ideal_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Group_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Term_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/If_and_only_if"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kurt_G\u00f6del"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Original_proof_of_G\u00f6del's_completeness_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second-order_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semantics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monatshefte_f\u00fcr_Mathematik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isabelle_(theorem_prover)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enumerable_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D._thesis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soundness_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Effectively_computable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Model_(mathematical_logic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hilbert-style_deduction_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weak_K\u00f6nig's_lemma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Completude_logique_premier_ordre.png"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Model_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peano_arithmetic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u039c-recursive_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Countable_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notices_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juliette_Kennedy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-standard_model_of_arithmetic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Euclidean_algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First-order_logic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Theorems_in_the_foundations_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxford_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isomorphism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Model_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bijection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_numbers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Recursively_inseparable_sets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanley_Tennenbaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Incompleteness_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Overspill_(arithmetic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primitive_recursive_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Principia_Mathematica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proof_assistant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Penrose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Kripke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entscheidungsproblem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Model_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris\u2013Harrington_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Hale_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bona_fide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraically_closed_field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Juliette_Kennedy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algorithmic_information_theory"
+    }
+]

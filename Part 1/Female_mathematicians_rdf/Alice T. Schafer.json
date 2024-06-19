@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Smith_(American_poet)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Grayson_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Padres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Giants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Krugman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_by_university_or_college_in_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Redden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barty_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Edwards_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjy_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blair_Brandt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloodline_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bosch_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Celtics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Toibin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bret_Myers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_East"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Satterfield_III"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davidson_Wildcats_baseball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Death_Warrant_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Jackson_Montague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Schweitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnny_Newman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_de_Marte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Hathaway_Cosby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Whitehead_(Congressman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josh_Abramson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Kilpatrick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Duke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renie_Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Right_Media"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_House_of_Representatives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Marshals_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_National_Security_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Secretary_of_Defense"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Mississippi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Richmond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virgil_Goode"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_House_of_Delegates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Douglas_D._Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jamie_McShane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_Morris_USA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Department_of_the_Interior"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CollegeHumor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cottingham_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_Ziadie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Sue_Terry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Joyce_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Llano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Snider"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menalcus_Lankford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruston,_Louisiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SEAL_Team_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Frederick_Holmes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cleveland_Browns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Vint"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grant_Shaud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grateful_Dead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Green_Bay_Packers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minnesota_Twins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal_Alouettes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murphy_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NASA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NBA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NFL"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Lumineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Waltons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1957_World_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leland_D._Melvin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Sweet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lew_Burdette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liga_Leumit_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lil_Dicky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisiana_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisiana_Tech_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Caldwell_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_League_Baseball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_League_Baseball_All-Star_Game"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_League_Soccer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stacy_Tutt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_E._Resnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_E._Satterfield,_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fullback_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Running_back"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Stender"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steve_Buckingham_(record_producer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tight_end"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_Nets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Hornsby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Bezbatchenko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Finchem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Hightower"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_T._Schafer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Stauffer"
+    }
+]

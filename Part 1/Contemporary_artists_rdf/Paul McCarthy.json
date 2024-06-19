@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/501(c)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poughkeepsie,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rondout_Creek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosendale,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosendale_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electric_generator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elevation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_census-designated_places_in_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monarch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mortgage_loan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Municipal_bond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baseball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blood_on_the_Moon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borax"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bowling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deck_(building)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delaware_and_Hudson_Canal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alluvium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Area_code_845"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hudson_Valley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Vaughan_(British_Army_officer,_died_1795)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joppenbergh_Mountain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_sovereign_states"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_McCarthy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peninsula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PepsiCo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perth_Amboy,_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rifton,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulster_County,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army_Corps_of_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Capitol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Utah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_store"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dutch_Reformed_Church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lightning_strike"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Limestone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cottekill,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mass_(liturgy)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_River_(Hudson_River)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_Space_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Water_well"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_revival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electric_power_transmission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_Gothic_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entrepreneur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Episcopal_Church_(United_States)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Stanley_(baseball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geographic_Names_Information_System"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Clinton_(vice_president)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grand_Central_Terminal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Box_office"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Concession_stand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Concurrency_(road)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Confluence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conglomerate_(geology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cooper_(profession)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crest_(hydrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Animal_control_officer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Board_of_directors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silurian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ski_jumping"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snyder_Estate_Natural_Cement_Historic_District"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SoHo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Statue_of_Liberty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ZIP_code"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zombie_(fictional)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halloween"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Park_and_ride"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_capita_income"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pickled_cucumber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Popcorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Street_light"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Surround_sound"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manure"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2000_United_States_Census"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1950_United_States_Census"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baptism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baptist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_Bridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholic_Church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tillson,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trailways_of_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._state"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wallkill_River"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wallkill_Valley_Rail_Trail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wallkill_Valley_Railroad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_Monument"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disturbance_(geology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Paul_McCarthy",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dolomite_(rock)"
+    }
+]

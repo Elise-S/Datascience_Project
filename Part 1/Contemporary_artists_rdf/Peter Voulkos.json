@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Slivka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Al_Bengston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Soldner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Voulkos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Arneson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stan_Bitters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:'Noodle',_stoneware_sculpture_by_Peter_Voulkos,_1996,_Metropolitan_Museum_of_Art.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_De_Staebler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_art_movements"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Avant-garde_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ceramic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Time_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_expressionist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otis_College_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hammer_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craft_Horizons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Abstract_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ceramic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Mason_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Locke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Frimkess"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nancy_Selvin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidney_Gordon_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_S._Neuman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_C._Field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Petersen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_of_the_Art_Institute_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_Practice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Helg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bella_Feldman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Berkson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Haozous"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Laurel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bierk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Huffman_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ireland_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Oppenheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alicia_McCarthy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Alameda_County,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hong_Sang-soo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hulleah_Tsinhnahjinnie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Zurier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_de_Balincourt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PayScale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Voulkos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Diebenkorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_Epstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Arneson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Bechtle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Val_Britton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viola_Frey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Rieber_Joralemon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Torlakson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Fleming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ted_Purves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arts_and_Crafts_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Snowden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Sher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Albert_Harris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tessa_Rumsey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Simmons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_Beck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franklin_Delano_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_E._Olmsted"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoffrey_Chadsey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erik_Adigard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ladyfest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Weiss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lia_Cook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liliana_Gramberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Robertson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Maria_Hernando"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Macouillard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucille_Tenazas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Louise_Stanley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Faience"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Architecture_schools_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:California_College_of_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yves_B\u00e9har"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Stivers_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_del_Pesco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josh_Faught"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Barbash"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Urban_area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waterphone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_in_the_San_Francisco_Bay_Area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Chavez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aimee_Phan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Voulkos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todd_Hido"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_State_University,_Northridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_educators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Mathematical_Experience"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anneli_Cahn_Lax"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_York_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:California_State_University,_Northridge_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Manhattanville_College_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:California_State_University,_Northridge_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_historians_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mario_Pieri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_J._Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Umberto_Bottazzini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reuben_Hersh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattanville_College_of_the_Sacred_Heart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Harten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riemann_solver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ISI_highly_cited_researcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Hungarian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Abel_Prize_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_von_Neumann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_von_Neumann_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beurling\u2013Lax_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Erd\u0151s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Courant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Epstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Integrable_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_(Mac)_Hyman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steve_Alpern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wiley_&_Sons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weak_formulation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_R._Halmos_\u2013_Lester_R._Ford_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:United_States_Army_personnel_of_World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courant_Institute_of_Mathematical_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matrix_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Medal_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notices_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolf_Prize_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Lomonosov_Gold_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Logemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_P\u00f3lya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Panthers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Martians_(scientists)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anneli_Cahn_Lax"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisbon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lomonosov_Gold_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Alamos_National_Laboratory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan_Project"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shock_wave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuyvesant_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transcendental_Students"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1926_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Society_for_Industrial_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stuyvesant_High_School_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Budapest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burton_Wendroff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CDC_6600"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fluid_dynamicists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Textbook_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Courant_Institute_of_Mathematical_Sciences_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Numerical_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lax_equivalence_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lax_functor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lax_natural_transformation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lax\u2013Friedrichs_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lax\u2013Wendroff_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lax\u2013Wendroff_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lions\u2013Lax\u2013Milgram_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwegian_Academy_of_Science_and_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Einstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexandre_Chorin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fluid_dynamics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anneli_Cahn_Lax",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chauvenet_Prize"
+    }
+]

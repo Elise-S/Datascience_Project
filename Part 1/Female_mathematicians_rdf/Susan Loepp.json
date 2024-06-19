@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mennonite_Church_USA_Archives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Romanesque_Revival_architecture_in_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bethel_College_(Kansas)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Harvey_County,_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Education_in_Harvey_County,_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mennonitism_in_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tourist_attractions_in_Harvey_County,_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_and_colleges_affiliated_with_the_Mennonite_Church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_and_college_buildings_on_the_National_Register_of_Historic_Places_in_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mennonite_Church_USA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_Conference_Mennonite_Church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nursing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_D._Kaufman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Plains"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dallas_Wiebe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthropology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archaeologist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arkansas_Valley_Interurban_Railway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Harvey_County,_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emeritus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1887_establishments_in_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Peace_and_conflict_studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waldo_Rudolph_Wedel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1887"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Newton,_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Hege"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Kesselring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_Divinity_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_Ewert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Private_universities_and_colleges_in_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_M._Janzen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kansas_Collegiate_Athletic_Conference"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_A._Schowalter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polingaysi_Q\u00f6yawayma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Association_of_Intercollegiate_Athletics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newton,_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prehistory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wadsworth_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wichita_Symphony_Orchestra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Loepp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Threshing_stone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rural_area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_work"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Private_college"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Bethel-krehbiel.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Bethel-voth.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_V._Hogg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Vali_Siadat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olympia_Nicodemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annalisa_Crannell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Lester_Hudson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aparna_Higgins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Gallian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Halmos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Sally"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhonda_Hughes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_L._Devaney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cynthia_Wyels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/V._Frederick_Rickey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_S._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Hughes_Hallett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Tepper_Haimo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_S._Passman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqueline_Dewar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Zeitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Burger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Kasimatis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_L._Alexanderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Strang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_Flapan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Liu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_DeTurck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zvezdelina_Stankova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federico_Ardila"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Su"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Morgan_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hortensia_Soto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Starbird"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Tomforde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glen_Van_Brummelen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janet_Barnett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Brawley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justin_Jesse_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Mantini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1991_establishments_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pamela_E._Harris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caren_Diefenderfer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Pomerance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Covington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Grabiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_L._Walker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Susan_Loepp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_Rhea"
+    }
+]

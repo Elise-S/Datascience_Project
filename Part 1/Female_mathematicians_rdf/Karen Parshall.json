@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Captain_(British_Army_and_Royal_Marines)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cargill_Gilston_Knott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Corporation_of_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton,_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Projective_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multiplicative_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proceedings_of_the_Edinburgh_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proceedings_of_the_London_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annals_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Leipzig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_Forfar_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artin\u2013Wedderburn_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1882_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matrix_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernst_Snapper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Birkhoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Chrystal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Watson's_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Ames_Bliss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wedderburn's_little_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lieutenant_(British_Army_and_Royal_Marines)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luther_P._Eisenhart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Desargues'_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Peddie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1948_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Forfar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Princeton_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Royal_Engineers_officers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_George_Watson's_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scottish_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Division_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galley_proof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Gordon_MacGregor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E._H._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Wedderburn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferdinand_Georg_Frobenius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Field_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_set"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_World_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forfar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oswald_Veblen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pascal's_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forfar_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_Parshall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wedderburn\u2013Etherington_number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isomorphic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Issai_Schur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hypercomplex_number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Class_Honours"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semisimple_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Humboldt_University_of_Berlin_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Leipzig_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scottish_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Seaforth_Highlanders_officers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Division_ring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Military_personnel_from_Angus,_Scotland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Group_scheme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Group_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D.Sc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathan_Jacobson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seaforth_Highlanders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simple_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nachlass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simple_ring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transactions_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sound-ranging"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wedderburn-Etherington_number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Wu\u00dfing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Dickson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merrill_Flood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M.A._(Scotland)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacDougall-Brisbane_Gold_Medal_and_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_C._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Jockusch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Ludwig_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_R._de_Boor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karen_Parshall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Beenakker"
+    }
+]

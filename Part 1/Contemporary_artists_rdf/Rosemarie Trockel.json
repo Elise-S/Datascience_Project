@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_Dieter_Brinkmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Beckett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French-language_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_art_publications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Klee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_\u00c9luard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Van_Gogh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vercors_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Hugo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staffan_Ahrenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Magazines_established_in_1926"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Ernst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Resistance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liam_Gillick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Man_Ray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Laurens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Advertising-free_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wassily_Kandinsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ad_Reinhardt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Calder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Literary_magazines_published_in_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Magazines_published_in_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irregularly_published_magazines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernand_L\u00e9ger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oscar_Niemeyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Modern_Periodical_Studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_Chirico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans-Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Lacan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1926_establishments_in_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adri\u00e1n_Villar_Rojas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Mir\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Le_Corbusier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Lur\u00e7at"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Chagall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Duchamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philippe_Parreno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raoul_Dufy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Zervos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfgang_Paalen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Brauner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Case"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Br\u00e2ncu\u0219i"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francisco_de_Goya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moholy-Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyprien_Gaillard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modernist_architecture_in_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Miami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyer_Blinder_Belle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Prince"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Gober"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Senate_Committee_on_Finance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cond\u00e9_Nast_Traveler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corcoran_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artist_residencies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marymount_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Sherman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Condo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glenstone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Washington_Post"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anselm_Kiefer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lowe_Enterprises"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sterling_Ruby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steve_Rubell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Studio_54"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Kruger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/501(c)(3)_organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Washington,_D.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Opie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drug_Enforcement_Agency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allapattah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amoako_Boafo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_1993"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Damien_Hirst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Chanel_Abney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Carolina_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celia_Paul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucy_Dodd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/He_Xiangyu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Michel_Basquiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Koons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemarie_Trockel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jenny_Holzer"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robion_Kirby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Zealand_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Auckland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1942_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Auckland_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_Inglewood_High_School,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fulbright_Program"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_Zealand_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Officers_of_the_New_Zealand_Order_of_Merit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Auckland_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Los_Angeles_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whanganui_City_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2016_New_Year_Honours_(New_Zealand)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_New_Plymouth_Boys'_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inglewood,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inglewood_High_School,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metrization_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Plymouth_Boys'_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_of_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inglewood_High_School_(New_Zealand)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Zealand_Order_of_Merit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Set-theoretic_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sina_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wanganui_Technical_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Zealand_Mathematics_Research_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calderdale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caleb_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Greenwood_(footballer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Greenwood_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Greenwood_(footballer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Jane_Lippincott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Greenwood_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Greenwood_(baseball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Greenwood_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Greenwood_(golfer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debbie_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Greenwood_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duncan_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Super-Cannes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Greenwood_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mason_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Citizen_Cope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Greenwood_(rugby)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_W._Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Free_Willy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Greenwood_Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morlon_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Greenwood_(cricketer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Makayla_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harry_Greenwood_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Greenwood_(classicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phryne_Fisher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Greenwood,_Baron_Greenwood_of_Rossendale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Yorkshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Will_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Greenwood_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Buxton_Hilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_D._H._Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Greenwood_(MP)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Greenwood_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Greenwood_(bus_operator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Greenwood_(cricketer,_born_1851)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Greenwood_(dentist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Greenwood_(executive)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nimrod_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_B._Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greenwood_LeFlore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gunsmoke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamar_Greenwood,_1st_Viscount_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harry_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heptonstall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irene_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivor_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Greenwood_(soccer_player)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_C._Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humphry_Greenwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sina_Greenwood",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Greenwood"
+    }
+]

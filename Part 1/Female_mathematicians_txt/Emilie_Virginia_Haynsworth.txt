@@ -1,0 +1,20 @@
+Emilie Virginia Haynsworth (June 1, 1916 – May 4, 1985) was an American mathematician at Auburn University who worked in linear algebra and matrix theory. She gave the name to Schur complements and is the namesake of the Haynsworth inertia additivity formula. She was known for the "absolute originality" of her mathematical formulations, her "strong and independent mind", her "fine sense of mathematical elegance", and her "strong mixture of the traditional and unconventional".
+
+
+== Education and career ==
+Haynsworth was born and died in Sumter, South Carolina. She competed in mathematics at the statewide level in junior high school, and graduated in 1937 with a bachelor's degree in mathematics from Coker College. She earned a master's degree in 1939 from Columbia University in New York City, and became a high school mathematics teacher. As part of the war effort for World War II, she left teaching to work at the Aberdeen Proving Ground; after the war, she became a lecturer at an extension program of the University of Illinois in Galesburg, Illinois.
+She began her doctoral studies at Columbia University in 1948, but soon transferred to the University of North Carolina at Chapel Hill, where she completed her doctorate in 1952. Her dissertation, Bounds for Determinants with Dominant Main Diagonal, was supervised by Alfred Brauer.
+In 1951, Haynsworth took a faculty position at Wilson College (Pennsylvania). She moved to the National Bureau of Standards in 1955, and returned to academia in 1960 as a faculty member in mathematics at Auburn University. According to Haynsworth, the interview with department chair William Vann Parker at which she was offered the job consisted entirely of working on a research problem in linear algebra with Parker.
+At Auburn, Haynsworth eventually became the doctoral advisor to 17 graduate students. She was named a research professor in 1965, and chaired the Southeastern Section of the Mathematical Association of America for 1976–1977. She retired in 1983.
+
+
+== Research ==
+Haynsworth's early research, including her dissertation, concerned the determinants of diagonally dominant matrices, and variants of the Gershgorin circle theorem for bounding the locations of the eigenvalues of matrices. Her later work involved cones of matrices.
+It is for two works that she published in 1968 that Haynsworth is particularly known. One of these identified and named the Schur complement, a concept that Haynsworth had already been using in her own work since 1959. In a second paper in 1968 she used this concept to prove what is now known as the Haynsworth inertia additivity formula. This formula provides a decomposition of the triple of numbers of positive, negative, and zero eigenvalues of a matrix into a sum of the triples defined in the same way for a block and its Schur complement in a partitioned Hermitian matrix.
+
+
+== References ==
+
+
+== Further reading ==
+Davis, Philip J. (2000), "Emilie Haynsworth", The Education of a Mathematician, Natick, Massachusetts: A K Peters, pp. 145–149, ISBN 1-56881-116-0, MR 1776564

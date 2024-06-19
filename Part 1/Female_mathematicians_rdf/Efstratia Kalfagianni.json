@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brigham_Young_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_T._Schafer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Utah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Low-dimensional_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monash_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Monash_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sloan_Research_Fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Utah_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jones_polynomial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecture_Notes_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graduate_Studies_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyperbolic_Dehn_surgery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Summa_cum_laude"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Efstratia_Kalfagianni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steven_Kerckhoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnard_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Simon_Guggenheim_Memorial_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Birman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Haifa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dynamical_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Lyttle_Satter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometric_group_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Low-dimensional_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Lyttle_Satter_Prize_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stevens_Institute_of_Technology_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braid_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braids,_Links,_and_Mapping_Class_Groups"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contact_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stevens_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Markov_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1927_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_visiting_scholars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Courant_Institute_of_Mathematical_Sciences_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_P._Sloan_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/3-manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chauvenet_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knot_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guggenheim_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Barnard_College_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Topologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Advances_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J\u00f3zef_H._Przytycki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birman\u2013Wenzl_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Efstratia_Kalfagianni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mapping_class_group_of_a_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tara_E._Brendle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Association_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilhelm_Magnus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sloan_Fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courant_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Efstratia_Kalfagianni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noether_Lecturer"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California's_Gold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catalina_Film_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Los_Angeles_County,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Goldwyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mural"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Los_Angeles_County,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ballrooms_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huell_Howser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Malcolm_Renton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_repository"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_Deco_architecture_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Negative_(photography)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sumner_Spaulding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cinemas_and_movie_theaters_in_Los_Angeles_County,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Theatres_in_Los_Angeles_County,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gambling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murder_on_a_Honeymoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Last_of_Us_Part_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lima,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_B._Mayer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sterling_silver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Storey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Page_Organ_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avalon,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ballroom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tourist_attractions_in_Los_Angeles_County,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mediterranean_Revival_architecture_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cecil_B._DeMille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tongva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Wrigley_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Santa_Catalina_Island_(California)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Airwolf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Institute_of_Architects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1929_establishments_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Theatres_completed_in_1929"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_the_Channel_Islands_of_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Public_venues_with_a_theatre_organ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Event_venues_established_in_1929"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gold_leaf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hiroshi_Sugimoto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_The_Last_of_Us_Part_II_characters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Deco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acoustical_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Cubs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chinatown_(1974_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:History_museums_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reinforced_concrete_column"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aviary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_K._Wrigley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pipe_organ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanish_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grease_(musical)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cantilever"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catalina_Pottery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wrigley_Field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seating_capacity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mediterranean_Revival_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satellite_television"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sound_film"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Movie_studio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_run_(filmmaking)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Movie_theater"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Catalina_Island,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Deco_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pre-Columbian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wood_paneling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archeological_dig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Avalon_Pavillion_D_Ramey_Logan.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Avalon_Theatre_stage.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Catalina_casino_tile.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Architecture_organizations_based_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pritzker_Architecture_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lichtenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Burton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prison_Performing_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cor-Ten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tadao_Ando_buildings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lang_(composer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tourist_attractions_in_St._Louis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aram_Han_Sifuentes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Midtown_St._Louis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Pulitzer_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Tuttle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukiyo-e"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2001_establishments_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Continental_Life_Building"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medardo_Rosso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Old_Masters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Monet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claudia_Rankine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hiroshi_Sugimoto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    }
+]

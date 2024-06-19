@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Friedrich_Gauss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Journal_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pseudo-differential_operator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_V._Kohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elasticity_(physics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Method_of_continuity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Variational_inequality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2020_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baron_Byng_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basilis_Gidas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boltzmann_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Almost_complex_manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Abel_Prize_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annals_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_J._Kohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Rabinowitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Courant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Degree_of_a_continuous_mapping"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duke_Mathematical_Journal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Spruck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ky_Fan_inequality_(game_theory)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewy's_example"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian-American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1925_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courant_Institute_of_Mathematical_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crafoord_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critical_point_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maximum_principle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McGill_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S._R._Srinivasa_Varadhan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chern_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_partial_differential_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gauss_map"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometric_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Medal_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ekeland's_variational_principle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emilio_Gagliardo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fritz_John"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gagliardo-Nirenberg_interpolation_inequality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gagliardo\u2013Nirenberg\u2013Sobolev_inequality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Game_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaussian_curvature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boundary_value_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bounded_mean_oscillation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thierry_Aubin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Weil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Lichtenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luis_Caffarelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shiu-Yuen_Cheng"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shmuel_Agmon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sobolev_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Closed_manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Communications_in_Mathematical_Physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Communications_on_Pure_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compositio_Mathematica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comptes_rendus_de_l'Acad\u00e9mie_des_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9mile_Picard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Tr\u00e8ves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Berestycki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hopf_lemma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parabolic_partial_differential_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symmetry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banach_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Ukrainian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Anglophone_Quebec_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Ukrainian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_York_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acta_Mathematica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Courant_Institute_of_Mathematical_Sciences_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topological_vector_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tosio_Kato"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Craig_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wave_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weak_solution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Djairo_Guedes_de_Figueiredo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabriella_Tarantello"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gagliardo\u2013Nirenberg_interpolation_inequality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Game_of_chance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lizhen_Ji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minkowski_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nils_Dencker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nirenberg's_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aleksandr_Danilovich_Aleksandrov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aleksei_Pogorelov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriella_Tarantello",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professors_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brigham_Young_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charitable_organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Universities"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Utah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_organizations_based_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1979_Boston_University_strike"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Common_good"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Alsworth_Ross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1911_Brigham_Young_University_modernism_controversy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Association_of_University_Professors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leland_Stanford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_T._Kingsbury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_D.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irene_Mulvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2021_Oregon_Tech_strike"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Federation_of_Teachers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nonprofit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Higher_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Stanford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Catholic_University_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tenure"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Oncken_Lovejoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Education-related_professional_associations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Organizations_established_in_1915"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Professional_associations_based_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academic_freedom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academic_freedom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Dewey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keyishian_v._Board_of_Regents"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southern_Pacific_Railroad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugenics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Conference_of_University_Professors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Labor_strike"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_organizations_(annotated_list)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_O._Lovejoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Aaup12.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Chew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elayne_Arrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Krawitz_Kolchin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Mollie_Horadam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_P._Cushing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Rieffel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Braverman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Celledoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Deza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Fern\u00e1ndez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Freda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Marchisotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Moldovan_Popoviciu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_V\u00e1zquez_Cend\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleny_Ionel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleonora_Di_Nezza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elham_Kazemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliane_R._Rodrigues"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Larsson_(scientific_computing)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_M._Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Vreede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ene-Margit_Tiit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enriqueta_Gonz\u00e1lez_Baz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Mulvey",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_mathematicians"
+    }
+]

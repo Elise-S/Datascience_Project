@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Campbell_Soup_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caravaggio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_College_of_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lichtenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perception"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Indiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upper_East_Side"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deadpan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canned_soup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1962_paintings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Paintings_by_Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comic_strips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Credit_card"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Object_(philosophy)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christie's"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coca-Cola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Broad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elvis_Presley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glamour_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MoMA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modernity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Contemporary_Art,_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:100_Cans.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:20070624_Campbell's_Soup_Cans_-_Milwaukee_Art_Museum.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Label"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Studio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Paintings_in_the_collection_of_the_Museum_of_Modern_Art_(New_York_City)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Castelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lillie_P._Bliss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liz_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bodley_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Small_Torn_Campbell\u2019s_Soup_Can_(Pepper_Pot),_1962.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Popular_culture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stencil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Authenticity_in_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooke_Hayward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Time_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Truman_Capote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wayne_Thiebaud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Coast_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clam_Chowder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Coplans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Warhol_Campbell's_Soup_Can_(Tomato)_1962_Pencil_on_paper.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tie-in"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Express"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C\u00e9zanne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FBI"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol_Art_Authentication_Board"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anecdote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_expressionist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parke-Bernet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Black_font_crop_from_Campbells_Soup_Cans_MOMA.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Cheddar_Cheese_crop_from_Campbells_Soup_Cans_MOMA.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_one-dollar_bill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Face_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_record"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Rosenquist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasper_Johns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Baptiste-Sim\u00e9on_Chardin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Painting_series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Still_life_paintings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_expressionism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Painting_No._6"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Collection_(museum)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tin_can"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_exhibition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artforum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Article_(publishing)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Duchamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marilyn_Monroe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marxism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Popeye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sotheby's"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferus_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Green_Coca-Cola_Bottles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Installment_plan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albright-Knox_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Public_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Niagara_(1953_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Campbell's_Soup_Cans_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canvas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Campbell_Soup_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jasper_Johns",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirror_image"
+    }
+]

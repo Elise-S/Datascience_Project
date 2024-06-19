@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_industrial_research_and_development_organizations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Bertram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_psychology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_colleges_and_universities_named_after_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blue_(color)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Interuniversity_Sport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corrine_Sparks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ryan_Cochrane_(canoeist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Arab"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mount_Saint_Vincent_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mississippi_Valley_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_in_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Former_women's_universities_and_colleges_in_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leroy_Lowe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suburban"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1849_establishments_in_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Commonwealth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_McKinnon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Catholic_Church_in_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acadia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barrie_Dunn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dietitians_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvonne_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marianna_O'Gallagher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halifax,_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Halifax,_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Association_of_Universities"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1849"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_in_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joanne_Bernard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latin_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Higher_education_in_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Catholic_universities_and_colleges_in_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Francis_Xavier_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iain_Rankin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_of_Universities_and_Colleges_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_government_scientific_research_organizations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_university_scientific_research_organizations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rafah_DiCostanzo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_D._McNair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sisters_of_Charity_of_Saint_Vincent_de_Paul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women's_college"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_current_and_historical_women's_universities_and_colleges"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_universities_in_Nova_Scotia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada_Research_Chairs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Mount_Saint_Vincent_University.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:MSVU_Art_Gallery_Display_2015.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:MSVU_Wikuom_2018.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pothier_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Joseph_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/18830_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucien_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toussaint_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_A._Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucien_Pothier_(wrestler)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aram_Jules_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Potier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pottier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvonne_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hector_J._Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hector_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fabrice_Pothier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yvonne_Pothier",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    }
+]

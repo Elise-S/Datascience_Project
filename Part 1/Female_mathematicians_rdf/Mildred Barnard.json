@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Beale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Emilio_Bonferroni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_A._Gotway_Crawford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Fitz-Gibbon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_D._Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Statistical_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Braverman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prasanta_Chandra_Mahalanobis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qazi_Motahar_Hossain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quinn_McNemar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_R._Sokal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tibshirani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Plackett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roelof_Botha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Coifman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Fisher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Freedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemary_A._Bailey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Ihaka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_C._Geary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Meeker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_A._Stouffer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_H._Preston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Jones-Loyd,_1st_Baron_Overstone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_S._Wilks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Sanford_Shapiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sander_Greenland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandrine_Dudoit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_van_de_Geer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Darby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enid_Charles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_actuaries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nadia_Ghazzali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._C._Chakrabarti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Heylyn_Hayter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montserrat_Fuentes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reginald_Hawthorn_Hooker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Young_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Aitchison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Gompertz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Benjamin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Silverman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Besse_Day"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Allan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_James"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogoljub_Ko\u010dovi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bradley_Efron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_D._Ripley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Pink"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Blackwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Clayton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cox_(statistician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Donoho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Bloom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_F._Duncan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_George_Kendall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Glass_(sociologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hand_(statistician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Spiegelhalter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_van_Dantzig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debabrata_Basu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Ashby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Demography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Lindley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Trewin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derek_Wanless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_M._Best"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alicia_L._Carriquiry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Birnbaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Cartwright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_R._Cannon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Chao"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aparna_V._Huzurbazar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holbrook_Working"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Raiffa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howell_Tong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Hedley_Scurfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Nelder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Pakington,_1st_Baron_Hampton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Rickman_(parliamentary_official)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Russell,_1st_Earl_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tukey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wingate_Thornton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wishart_(statistician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Berkson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_C._G._Kennedy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Hilbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Kruskal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_L._Fleiss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_M._Juran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Mercado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9-Miguel_Bernardo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Enrique_Moyal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jotun_Hein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julian_Peto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betsy_Becker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betz_Halloran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Halmos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_McCrossan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mildred_Barnard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Meier_(statistician)"
+    }
+]

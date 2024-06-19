@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_V._Hogg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Vali_Siadat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olympia_Nicodemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annalisa_Crannell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Lester_Hudson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aparna_Higgins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Gallian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Halmos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Sally"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhonda_Hughes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_L._Devaney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cynthia_Wyels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/V._Frederick_Rickey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_S._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Hughes_Hallett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Tepper_Haimo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_S._Passman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqueline_Dewar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Zeitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Burger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Kasimatis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_L._Alexanderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Strang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_Flapan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Liu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_DeTurck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zvezdelina_Stankova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federico_Ardila"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Su"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Morgan_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hortensia_Soto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Starbird"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Tomforde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glen_Van_Brummelen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janet_Barnett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Brawley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justin_Jesse_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Mantini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1991_establishments_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pamela_E._Harris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caren_Diefenderfer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Pomerance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Covington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Grabiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_L._Walker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_Rhea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Stroyan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_I._Gross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herbert_Wilf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_A._Morrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tevian_Dray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Quinn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Switkes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_M._Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_T._Benjamin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_established_in_1991"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_of_the_Mathematical_Association_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_education_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Tucker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Hutchinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T._Christine_Stevens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Adams_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Schattschneider"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Dorff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Association_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shahriar_Shahriari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Loepp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evelyn_Silvia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Banchoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhonda_Hatcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satyan_Devadoss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suzanne_Dor\u00e9e"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suzanne_Weekes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aminta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Silvia_of_Sweden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Innamorati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romulus_and_Remus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commedia_dell'arte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bulgarian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Bellot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_B\u00e4chli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Cambir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Cartwright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Fuselli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Intxaurrondo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Laidla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Navarro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Njiri\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Pinal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Puppo_Gast\u00e9lum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Rodgers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Saint"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Seidel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Sorina_Munteanu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Silvia",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvia_Stroescu"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9rez_Art_Museum_Miami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romare_Bearden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Gilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saratoga_Springs,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baylor_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Institute_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Schueler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josef_Albers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Center_for_the_Creative_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1938_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erwin_Hauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chuck_Close"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabor_Peterdi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minneapolis_College_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minneapolis_Institute_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morgan_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2014_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Skidmore_College_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacDowell_Colony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skidmore_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Street_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lester_Johnson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yale_School_of_Art_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yale_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Morgan_State_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walker_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Held"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fralin_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Pfaff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grove_Street_Cemetery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hirshhorn_Museum_and_Sculpture_Garden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jefferson_School_(Charlottesville,_Virginia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Charlottesville,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_American_Museum_(Dallas)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlottesville,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Snyder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kappa_Alpha_Psi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/College_Art_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neil_Welliver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_Guston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Academy_of_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ogden_Museum_of_Southern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_University_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yaddo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Academy_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Galactic_Journal,_Washington_Park,_1999.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Plum_Nellie_Sea_Stone_1972.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cai_Guo-Qiang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Rowland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Billops"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carissa_Rodriguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Monnet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Lazard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Dunham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carter_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassandra_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amie_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Blakemore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatriz_Santiago_Mu\u00f1oz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Murray_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ryman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Therrien"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Williams_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Wilson_(director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Yarber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rochelle_Feinstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Ripps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Brown_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Reiss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Gorchov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Salane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Bleckner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Paine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_De_Forest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lichtenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Green"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samara_Golden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Joan_Snyder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Skoglund"
+    }
+]

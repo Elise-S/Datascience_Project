@@ -1,0 +1,17 @@
+Elizabeth Hahnemann Cuthill (October 16, 1923 – January 11, 2011) was an American applied mathematician and numerical analyst known for her work on sparse matrix algorithms, on block iterative methods for the numerical approximation of differential equations, and on the development of computer simulations of nuclear reactors. She was a researcher for the United States Navy at the David Taylor Model Basin. The Cuthill–McKee algorithm and reverse Cuthill–McKee algorithm are heuristics for permuting matrices into forms with small bandwidth and for associated problems in graph bandwidth, named for the work of Cuthill with James McKee.[C]
+
+
+== Education and career ==
+Cuthill was born on October 16, 1923, in Connecticut, the daughter of Paul Richard Hahnemann and Barbara Baumann Hahnemann.
+She earned a master's degree in applied mathematics at Brown University in 1946, with a master's thesis "On the velocity distribution and stability of flow through a two-dimensional channel" supervised by Chia-Chiao Lin. After this, she completed a Ph.D. at the University of Minnesota in 1951; her dissertation, Integrals on Spaces of Functions which are Real and Continuous on Finite and Infinite Intervals, was supervised by Robert Horton Cameron. While completing her doctorate, she became an instructor at Purdue University. In 1953, she became a researcher for the United States Navy, working at the David Taylor Model Basin, where she became Numerical Analysis Coordinator for the Computation, Mathematics, and Logistics Department.
+She died on January 11, 2011, in Frederick, Maryland.
+
+
+== Recognition ==
+Cuthill was named a Fellow of the American Association for the Advancement of Science in 1963. In 1976, she won the David W. Taylor Award of the US Navy "for her valuable contributions in the development and exploitation of mathematical and computational techniques for significant Navy applications".
+
+
+== Selected publications ==
+
+
+== References ==

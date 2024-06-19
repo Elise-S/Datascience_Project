@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intersection_homology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inventiones_Mathematicae"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Research_Institute_of_Oberwolfach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NAS_Award_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zhiwei_Yun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leroy_P._Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1944_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brown_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swarthmore_College_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warsaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinz_Hopf_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julianna_Tymoczko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ETH_Zurich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_International_Congresses_of_Mathematicians_Plenary_and_Invited_Speakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Goresky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_of_Mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lakewood,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Paris_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Topologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kari_Vilonen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lakewood,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swarthmore_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topology_(journal)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raoul_Bott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Massachusetts_Amherst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_Oppens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Composer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smith_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pacifica_Quartet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1969_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Rhodes_Scholars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_music_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Time_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julianna_Tymoczko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Slovak_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maria_Tymoczko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science_(journal)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Tymoczko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SFGate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orbifolds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_theorist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Journal_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Representation_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertram_Kostant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraic_combinatorics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claudio_Procesi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Combinatorics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julianna_Tymoczko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Numerical_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T._A._Springer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cohomology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transactions_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flag_variety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Subvarieties"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peterson_variety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springer_variety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decolonization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Massachusetts_Amherst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fulbright_Scholar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gideon_Toury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beowulf:_A_New_Verse_Translation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slovaks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smith_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colonization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comparative_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cleveland,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_Graduate_School_of_Arts_and_Sciences_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Radcliffe_College_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celtic_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Massachusetts_Amherst_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T\u00e1in_B\u00f3_C\u00faailnge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julianna_Tymoczko",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dmitri_Tymoczko"
+    }
+]

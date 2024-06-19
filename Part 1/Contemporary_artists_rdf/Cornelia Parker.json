@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camberwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BAFTA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_university"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quentin_Blake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Turner_Durrant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Camberwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Elsey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_H._Osborne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Des'ree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Eyton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Hodgkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humphrey_Lyttelton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Compston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Listed_building"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter,_Hereditary_Prince_of_Yugoslavia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daf_Palfrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_the_Arts_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzo_Egonu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Pasmore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duffy_Ayers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_the_British_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Svetlana_K-Lie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commander_of_the_Most_Excellent_Order_of_the_British_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelia_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Raymond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gavin_Jantjes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/R._B._Kitaj"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachael_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Ardizzone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eileen_Hogan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ella_Naper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Auerbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Parkinson_Newbould"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgina_von_Etzdorf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Spencer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gillian_Ayres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Mendez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Dog_Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernadette_Ash"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liz_Murray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liz_Pichon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_College_of_Communication"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_College_of_Fashion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maggi_Hambling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zebedee_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franko_B"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Further_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ian_McKeever_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Hilliard_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Keane_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Kiki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Moores_Painting_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peerage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malcolm_Morley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Ritchie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Stone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Bingham_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Roth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Phillips_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darren_Coffield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Junko_Mori"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kate_Blacker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Gowing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Williams_(cartoonist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alvin_Marriott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Sturgis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edith_Galliner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Euan_Uglow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florence_Welch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angus_Suttie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_schools_in_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arts_organizations_established_in_1898"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Fantoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Novera_Ahmed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_William_Cain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dimitri_Launder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graphic_design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Shaw_(stone_carver)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Vaughan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sue_Clowes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Royal_Academicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicky_Gavron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucy_Jones_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1898_establishments_in_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Higher_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irene_Bache"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Cooke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Banks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BP_Portrait_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Mee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1898"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chantal_Joffe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cornelia_Parker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Charlton_(artist)"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Woodbury,_Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normandy_Invasion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Brackman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1918_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador_Dal\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oil_painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GI_Bill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galerie_Huit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Earl_Ortman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Going_Places_(1974_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montevideo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_River_(1951_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apple_Computer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberation_of_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincoln_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9cole_nationale_sup\u00e9rieure_des_Beaux-Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Background_(1973_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2004_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_experimental_filmmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Time-Life"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Award_for_Best_Animated_Short_Film"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Held"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alain_Resnais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Award_for_Best_Documentary_Short_Subject"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rifle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Cartier-Bresson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Renoir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Acad\u00e9mie_de_la_Grande_Chaumi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_animated_film_directors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Film_Archive"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Children's_Television_Workshop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Animators_from_Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avant-garde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cinema_16"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Krak\u00f3w"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oberhausen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ogdensburg,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodbury,_Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shinkichi_Tajiri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Movie_camera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_American_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Short_subject"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academie_de_la_Grand_Chaumiere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Kar_and_St_Francis.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9rez_Art_Museum_Miami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romare_Bearden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Gilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saratoga_Springs,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baylor_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Institute_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Schueler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josef_Albers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Center_for_the_Creative_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1938_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erwin_Hauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chuck_Close"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabor_Peterdi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minneapolis_College_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minneapolis_Institute_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morgan_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2014_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Skidmore_College_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacDowell_Colony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skidmore_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Street_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lester_Johnson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yale_School_of_Art_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yale_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Morgan_State_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walker_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Held"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fralin_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Pfaff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grove_Street_Cemetery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hirshhorn_Museum_and_Sculpture_Garden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jefferson_School_(Charlottesville,_Virginia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Charlottesville,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_American_Museum_(Dallas)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlottesville,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Snyder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kappa_Alpha_Psi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Al_Held",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/College_Art_Association"
+    }
+]

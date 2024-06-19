@@ -1,0 +1,21 @@
+Beatrice Meini (born 1968) is an Italian computational mathematician and numerical analyst specializing in numerical linear algebra and its applications to Markov chains, matrix equations, and queueing theory. She is Professor of Numerical Analysis in the Department of Mathematics at the University of Pisa.
+
+
+== Education and career ==
+Meini was born on 5 December 1968 in Pontedera, in the province of Pisa. She earned a laurea in mathematics from the University of Pisa in 1993, and completed her Ph.D. there in 1998. Her dissertation, Fast Algorithms For The Numerical Solution of Structured Markov Chains, was supervised by Dario Bini.
+After postdoctoral research with the Italian National Research Council (CNR) and at the University of Pisa, she became an associate professor of numerical analysis at the University of Pisa in 2005, and a full professor in 2016.
+
+
+== Books ==
+Meini is the coauthor of books including:
+
+Numerical Methods for Structured Markov Chains (Oxford University Press, 2005, with Dario Bini and Guy Latouche)
+Numerical Solution of Algebraic Riccati Equations (Society for Industrial and Applied Mathematics, 2011, with Dario Bini and Bruno Iannazzo)
+
+
+== References ==
+
+
+== External links ==
+Home page
+Beatrice Meini publications indexed by Google Scholar

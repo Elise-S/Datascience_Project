@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Pomerania_(1815\u20131945)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin_University_of_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deserters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Filliou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volkssturm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viennese_Actionism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Wolf-Rehfeldt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nam_June_Paik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stasi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mail_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonemasonry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Super_8_film"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bad_Ischl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1931_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weimar_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weissensee_(Berlin)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erich_Honecker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Die_Wende"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Democratic_Republic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_reunification"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graphic_designer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stargard_Szczeci\u0144ski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Volkssturm_personnel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Child_soldiers_in_World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dick_Higgins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_World_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolf_Vostell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evacuations_of_children_in_Germany_during_World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photojournalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Percent_for_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scenic_design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Vautier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Beuys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Filliou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Destruction_in_Art_Symposium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Iannone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_Folkwang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1932_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fluxus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otto_Muehl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Spoerri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Happening"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Printmaking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2015_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gustav_Metzger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fluxus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_performance_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Anthony_Thwaites"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dieter_Roth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolf_Vostell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoko_Ono"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marq_de_Villiers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leeds_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Akademie_der_K\u00fcnste"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Can_(band)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Captain_Beefheart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_poetry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Image_Ltd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Wilson_(director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Wyatt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Kemp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Beckett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Walker_(singer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modernism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9opold_Survage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mabou_Mines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_avant-garde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnett_Newman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Fondane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berenice_Abbott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Laswell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bj\u00f6rk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_metal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bohemianism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Eno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Holland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bowie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Burliuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cronenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Gatten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lynch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Tudor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoine_Pevsner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wolf_Vostell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arcturus_(band)"
+    }
+]

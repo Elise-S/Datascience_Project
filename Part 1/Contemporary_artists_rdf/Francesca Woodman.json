@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Francesca_Woodman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prahran,_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolling_Stone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Hobart_Hospital"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Henson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Photographers_from_Melbourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Australian_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hobart,_Tasmania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Cox_(director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rennie_Ellis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Moir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Melbourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viewbank,_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pentax_Spotmatic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prahran_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/16_mm_film"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1949_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nan_Goldin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Photographers'_Gallery_and_Workshop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1956_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_Theatre_(Sydney)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Housing_Commission_of_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_Centre_for_Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1980_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brummels_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Budd\u2013Chiari_syndrome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Australian_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_women_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_liver_disease"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Ivanhoe,_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Lindrum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willoughby,_New_South_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Esben_Storm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Event_Cinemas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesca_Woodman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grant_Mudford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Carol_JERREMS,_Vale_Street,_1975,_silver_gelatine_monochrome_photographic_print.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kodak_Tri-X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heide_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Women's_Year"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivanhoe,_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Mollison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Alfred_Hospital"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennie_Boddington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pictorialism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Gallery_of_New_South_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Gallery_of_South_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1970s_in_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Documentary_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_photojournalists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_women_photographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kate_Grenville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_Clark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney_Film_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Talbot_(photographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_Kilda,_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candid_Camera_(Australian_photographic_exhibition)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women_Hold_Up_Half_the_Sky_(exhibition)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yarra_River"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ashton_(photographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharpies_(Australian_subculture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heidelberg,_Melbourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australia_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preston_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romeo_+_Juliet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saving_Private_Ryan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swiss_women_literary_critics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metaphor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/20th_century_in_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baz_Luhrmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beau_Willimon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cronenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Simon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Desperately_Seeking_Susan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_literary_critics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_literary_critics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Hawks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Zurich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vertigo_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intertextuality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Weiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Reinhardt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nocturnality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Sherman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cinema_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gangs_of_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Cukor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gone_with_the_Wind_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesca_Woodman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Munich"
+    }
+]

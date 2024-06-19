@@ -1,0 +1,42 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Tom_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Tom_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Tom_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Tom_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tom_Friedman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Friedman_(disambiguation)"
+    }
+]

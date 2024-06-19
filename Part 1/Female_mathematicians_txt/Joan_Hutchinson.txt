@@ -1,0 +1,36 @@
+Joan Prince Hutchinson (born 1945) is an American mathematician and Professor Emerita of Mathematics from Macalester College.
+
+
+== Education ==
+Joan Hutchinson was born in Philadelphia, Pennsylvania; her father was a demographer and university professor, and her mother a mathematics teacher at the Baldwin School, which Joan also attended. She studied at Smith College in Northampton, Massachusetts, graduating in 1967 summa cum laude with an honors paper directed by Prof. Alice Dickinson.
+After graduation she worked as a computer programmer at the Woods Hole Oceanographic Institute and at the Harvard University Computing Center then studied mathematics (and English change ringing on tower bells)  at the University of Warwick in Coventry England. Returning  to the United States, Hutchinson did graduate work at the University of Pennsylvania earning a Ph.D. in mathematics in 1973 under the supervision of Herbert S. Wilf.
+
+
+== Career ==
+She was a John Wesley Young research instructor at Dartmouth College, 1973–1975.  
+She and her husband, fellow mathematician Stan Wagon, taught at Smith College, 1975–1990, and at Macalester College, 1990–2007. At both colleges they shared a full-time position in mathematics. She spent sabbaticals, taught, and held visiting positions at Tufts University, Carleton College, University of Colorado Boulder, University of Washington, University of Michigan, Mathematical Sciences Research Institute in Berkeley, California, and University of Colorado Denver.
+She has served on committees of the American Mathematical Society, the Mathematical Association of America (MAA), SIAM Special Interest Group on Discrete Math (SIAM-DM), and the Association for Women in Mathematics, involved with the latter organization since a graduate student during its founding days in 1971. Mentoring women students and younger colleagues has been an important concern of her professional life. She served as the vice-chair of SIAM-DM, 2000–2002. She was a member of the editorial board of the American Mathematical Monthly, 1986–1996, and continues on the board of the Journal of Graph Theory since 1993.
+
+
+== Research ==
+Her research has focused on graph theory and discrete mathematics, specializing mainly in topological and chromatic graph theory and on visibility graphs;
+for overviews of this work see Hutchinson (2009) and Dean & Hutchinson (2014).[H09][DH14]
+She has published over 75 research and expository papers in graph theory, many with Michael O. Albertson, formerly of Smith College.
+In one of their most cited works, Albertson and Hutchinson completed work of Gabriel Andrew Dirac related to the Heawood conjecture by proving that, on any surface other than the sphere or Klein bottle, the only graphs meeting Heawood's bound on the chromatic number of surface-embedded graphs are the complete graphs.[AH79]
+She has also considered algorithmic aspects in these areas, for example, generalizing the planar separator theorem to surfaces.[GHT84]
+With S. Wagon she has co-authored papers on algorithmic aspects of the four color theorem.[HW98]
+Albertson and Hutchinson also wrote together the textbook Discrete Mathematics with Algorithms.[AH88]
+
+
+== Awards and honors ==
+In 1994 she received the Carl B. Allendoerfer Award of the Mathematical Association of America for the expository article on the Earth–Moon problem in Mathematics Magazine.[H93]
+The work of this paper was also included in an issue of What’s Happening in the Mathematical Sciences and in the Mathematical Recreations column of Scientific American.
+In 1998 she was a winner of the MAA North Central Section Teaching Award,
+and in 1999  she was a winner of the Deborah and Franklin Haimo Awards for Distinguished College or University Teaching of Mathematics.
+On the occasion of her 60th birthday, she was the honoree at the Graph Theory with Altitude conference at the University of Colorado Denver, organized by her former student Ellen Gethner, professor of computer science.
+
+
+== Selected publications ==
+
+
+== References ==

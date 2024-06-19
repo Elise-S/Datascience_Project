@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacMillan_Center_for_International_and_Area_Studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1979_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beinecke_Rare_Book_&_Manuscript_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brearley_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aperture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_Yorker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_art_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yale_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African-American_studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federal_Reserve_Bank_of_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ford_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Center_of_Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._Paul_Getty_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tate_Modern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hutchins_Center_for_African_and_African_American_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_in_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aspen_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brearley_School_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TED_(conference)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artforum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Supervision_and_Curriculum_Development"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_by_Southwest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Public_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CUNY_Graduate_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marshall_Scholarship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Art_Therapy_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_schools_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Graphic_design_schools_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roundabout_Theatre_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxane_Gay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savannah,_GA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savannah_College_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corporate_training"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyonc\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyonc\u00e9_(album)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Waters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanity_Fair_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delancey_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interior_design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chelsea,_Manhattan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Culture_of_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gramercy_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Council_for_the_Accreditation_of_Educator_Preparation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GenArt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G.I._Bill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Tscherny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Washington_Hotel_(New_York_City)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_Steinem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gramercy_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Continuing_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Copywriting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lexington_Avenue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lower_East_Side"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucy_Liu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lynsey_Addario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacArthur_Fellows_Program"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silas_Rhodes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Urban_area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marketing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayor's_Office_of_Film,_Theatre_&_Broadcasting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1947_establishments_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burne_Hogarth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_and_colleges_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Palladino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tribeca_Film_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drawing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_McMullan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/23rd_Street_(Manhattan)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Gregory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/For-profit_higher_education_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Mae_Weems",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chermayeff_&_Geismar"
+    }
+]

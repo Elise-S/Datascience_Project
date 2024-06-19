@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amir_Dembo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California_at_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Presidential_Early_Career_Award_for_Scientists_and_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaussian_free_field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lo\u00e8ve_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Game_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conformal_loop_ensemble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conformal_welding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sloan_Research_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clay_Research_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1973_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wendelin_Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Holden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partial_differential_equations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rollo_Davidson_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_of_Mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Probability_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Domino_tiling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Microsoft_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schramm-Loewner_evolution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diffusion_limited_aggregation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nordisk_r\u00e5ds_litteraturpris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bergen_International_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Lech_Johansen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Skolmen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonas_Gahr_St\u00f8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_Christian_Ellefsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petrit_Selimi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dag_Solstad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vetle_Lid_Larssen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vigdis_Hjorth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DeLillos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Innovation_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rune_Bjerke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Church_of_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Else_Bugge_Fougner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fredrik_Skavlan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erik_Diesen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2014_disestablishments_in_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:International_Baccalaureate_schools_in_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Oslo_Municipality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Schools_in_Oslo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simen_Agdestein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simen_Hegstad_Kr\u00fcger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siri_Bjerke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ida_Hjort_Kraby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BI_Norwegian_Business_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trond_Kirkvaag"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trondheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabriel_R._G._Benito"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helge_Reiss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lars_Fredrik_Beckstr\u00f8m"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dagbladet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finn_Wagle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1925_establishments_in_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolai_Astrup_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nils_Christie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Holden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwegian_Red_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwegian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oslo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parliament_of_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Education_in_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helene_Uri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henrik_Mestad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Baccalaureate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivar_Formo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H\u00e5vard_Homstvedt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_disestablished_in_2014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1925"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lars_Saabye_Christensen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arvid_Storsveen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Secondary_schools_in_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kosovo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Health_Organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nidaros"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ole_Peter_Kolby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/XU"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Party_of_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UN_Security_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DnB_NOR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nina_Holden",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B\u00e5rd_Folke_Fredriksen"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://www.w3.org/2002/07/owl#differentFrom",
+        "object": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johns_Hopkins_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Buenos_Aires"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lifting_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Sciences_Research_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Operator_Theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mischa_Cotlar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Technical_translators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_R._Nahmod"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoni_Zygmund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harmonic_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Sadosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1940_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2010_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Howard_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematical_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alberto_Calder\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Euclidean_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fourier_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Argentine_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Argentine_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Science_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodolfo_H._Torres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sadosky_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hankel_operator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Analysis_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alberto_Pedro_Calder\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cat_Cora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Last_of_the_Mohicans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Mills"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Walton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Cora_(Arabella_Ryan)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blondie_(comic_strip)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Demeter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persephone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colson_Whitehead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Alicto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Ann_Pair_Thomas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Belle_Brewster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Campbell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Can\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Catherine_Calhoun_Horne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Combs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Coralina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Crawley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Diamond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Du_Bois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Durand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_E._Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Emmanuel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Etter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Faith_Walker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Farrell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_G._Burwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Goffin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Gooseberry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Huber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Jipson_Beckwith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Johnstone_Best"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Kelley_Ward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_L._V._Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Linn_Daniels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Livingston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Mae_Bryant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Martin-Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Miao"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Randolph_Trimble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Reynolds_Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_R\u00f3nai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Sadosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Schumacher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Scott_Pond_Pope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Semmes_Ives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Seton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Sherlock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Skinner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Smalley_Brooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Smith_Eaton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Staunton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Sternberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Stuart_Wheeler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Sue_Collins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Sutton_Castle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cora_Ratto_de_Sadosky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Taylor_Casselman"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_C._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Jockusch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Ludwig_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_R._de_Boor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Beenakker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Castillo-Chavez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_J._Moreno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carsten_Lund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amin_Shokrollahi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amos_Fiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Ashurst_Gooch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_Freedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_Gross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_F._Logan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e1l_Tur\u00e1n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Frankl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Kiss_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Komj\u00e1th"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_M._Solovay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_MacPherson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Marshak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Phelps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Shostak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tijdeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Zimmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hartshorne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Thomas_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Wilson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robion_Kirby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Downey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Evans_Howe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Heath-Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Penrose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Temam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_W._Brockett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rohit_Jivanlal_Parikh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Dobrushin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Glowinski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Sikorski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Shamir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_C._Read"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Fisher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_G._Douglas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Jensen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Kosloff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemary_A._Bailey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_J._Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Overbeek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rostislav_Grigorchuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Adler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_E._K\u00e1lm\u00e1n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samarendra_Nath_Roy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Eilenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Karlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_S._Wagstaff_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santosh_Vempala"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Spurgeon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarvadaman_Chowla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Kripke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saunders_Mac_Lane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Vanstone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Biham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Shamir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Upfal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisa_Bertino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_M._Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrique_Pujals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_D._Plummer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Saks_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Saunders_(academic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikl\u00f3s_Laczkovich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moni_Naor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morwen_Thistlethwaite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Milman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wendy_Myrvold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoichi_Miyaoka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Kalm\u00e1r"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Grazia_Speranza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._K._Fort_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monroe_D._Donsker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pascal_Hitzler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rekha_R._Thomas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tam\u00e1s_Sz\u0151nyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanford_Segal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Mazur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Piore_Gilman",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Simon"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Castle_of_Rivoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Balkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rossella_Biscotti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Union_of_Sahrawi_Women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haegue_Yang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moon_Kyungwon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walid_Raad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thea_Djordjadze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biennale_of_Sydney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Jungen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_B\u00fcttner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Maria_Maiolino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An\u00edbal_L\u00f3pez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Barry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julio_Gonz\u00e1lez_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Chan_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Reyes_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vann_Nath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lida_Abdul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanja_Ivekovi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ryan_Gander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador_Dal\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoffrey_Farmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mika_Taanila"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emily_Carr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Bures_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_Morandi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Penone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_Bennett_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nalini_Malani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critical_Art_Ensemble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theaster_Gates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erkki_Kurenniemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Omer_Fast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orangerie_(Kassel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Ond\u00e1k"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2012_in_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2012_in_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Boghiguian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anri_Sala"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anton_Zeilinger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apichatpong_Weerasethakul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Araya_Rasdjarmrearnsook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arne_Nordheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._A._Numminen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Man_Ray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clemens_von_Wedemeyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zanele_Muholi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9douard_Glissant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Al\u00ffs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fridericianum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haris_Epaminonda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Menick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Khadim_Ali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kristina_Buch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kudzanai_Chiurai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Ryan_(video_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masood_Kamandy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bani_Abidi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Malabou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ceal_Floyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cevdet_Erek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tino_Sehgal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trisha_Donnelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vyacheslav_Akhunov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warlimpirrnga_Tjapaltjarri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warwick_Thornton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Kentridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documenta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u00fcsun_Onur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabriel_Lester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Is\u00eddrez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Mehretu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Llyn_Foulkes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aase_Texmon_Rygh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Cruzvillegas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexandra_Bachzetsis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alighiero_Boetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amar_Kanwar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Prvacki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Documenta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duane_Linklater"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aman_Mojadidi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Etel_Adnan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barmak_Akram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerard_Byrne_(artist,_born_1969)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goshka_Macuga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juana_Marta_Rodas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Korbinian_Aigner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manon_de_Boer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Darrieussecq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matias_Faldbakken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mariana_Castillo_Deball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mario_Garc\u00eda_Torres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Chiara_Fumai",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gustav_Metzger"
+    }
+]

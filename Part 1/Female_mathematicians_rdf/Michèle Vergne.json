@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul-Andr\u00e9_Meyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqueline_Bloch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_physics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Cohen-Tannoudji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Itzykson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Merle_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9-Marie_Amp\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Derrida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9douard_Br\u00e9zin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michel_Devoret"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00e9rard_Iooss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Horowitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yves_Colin_de_Verdi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrien_Douady"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alain_Connes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Kastler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Lagarrigue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ha\u00efm_Brezis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Dixmier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Michel_Bismut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Michel_Raimond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Zinn-Justin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arnaud_Beauville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_established_in_1974"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Physics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Brossel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_M\u00e9zard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre-Gilles_de_Gennes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre-Louis_Lions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Cartier_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Bouchiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michel_Raynaud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mich\u00e8le_Vergne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christophe_Soul\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie-Anne_Bouchiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilles_Chabrier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilles_Lebeau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Suquet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_prizes_named_after_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_field_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Moody"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Representation_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ISI_highly_cited_researcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Katz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Weisfeiler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_superalgebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kac_determinant_formula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moscow_Institute_of_Electronic_Machine_Building"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coll\u00e8ge_de_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Buguruslan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moscow_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moscow_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sloan_Research_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/String_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leroy_P._Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theoretical_physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macdonald_identities"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Russian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Moscow_State_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buguruslan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wigner_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilhelm_Killing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Vinberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kac\u2013Moody_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guggenheim_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helsinki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_of_Mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Soviet_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Russian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mich\u00e8le_Vergne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orenburg_Oblast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartan_matrix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sloan_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virasoro_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weyl_character_formula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Integrable_systems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_SFSR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weyl\u2013Kac_character_formula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_algebras"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_superalgebras"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mich\u00e8le_Vergne",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_C._Moore"
+    }
+]

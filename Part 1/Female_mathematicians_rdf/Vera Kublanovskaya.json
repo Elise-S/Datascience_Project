@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Vera_Constantinovna_of_Russia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prisoner_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Myller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Sheehan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barrio_S\u00e9samo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alina_Vera_Savin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Stolli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Scouts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera-Ellen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Alentova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Allison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Altayskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Anstey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Atkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Baboun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Baird"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Baklanova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Baranovskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Barbosa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Barclay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Bate_Lombardi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Bazarova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Begi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Berdich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Bergkamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Blagojevi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Bogetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Bradford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Brezhneva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Brittain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Brosgol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Bryndzei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Buchanan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_C._Bushfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Carmi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Carrara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Caspary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Celis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Chapman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Chirwa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Cordeiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Cudjoe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Dajht-Kralj"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Day"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Djatel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Douka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Drake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Dua"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Duarte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Dushevina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Elkan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Farmiga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Figner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Filatova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Fischer_(actress)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Fischer_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Frances"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Furness"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_G._List"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Galushka-Duyunova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Gebuhr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Hars\u00e1nyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Henriksen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Holtz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Ilyina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Inber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Jeftimijades"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Jordanova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Kamsha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Karalli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Karmishina-Ganeeva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Katz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Kharuzhaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Kholodnaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Kingston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Kobalia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Koedooder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Kolodzig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Komarkova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Komisova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Koval"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Krasnova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Krasova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Krepkina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Lantratova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Laughton_Mathews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Leigh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Lengsfeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Leth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Lewis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Lischka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Lutter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Lynn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Mae_Green"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Malinovskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Manuel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Maretskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vera_Kublanovskaya",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Markovna_Orlova"
+    }
+]

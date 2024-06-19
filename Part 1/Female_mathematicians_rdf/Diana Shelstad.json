@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cahit_Arf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endoscopic_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multiplicative_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meromorphic_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Representation_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Casselman_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Abel_Prize_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holomorphic_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Taylor_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_British_Columbia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Universit\u00e9_Laval"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacquet\u2013Langlands_correspondence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L-function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1936_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_linear_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometric_Langlands_correspondence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nemmers_Prize_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolf_Prize_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eisenstein_series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goro_Shimura"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NAS_Award_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Callister_Hales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Wiles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Functional_equation_(L-function)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leroy_P._Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Companions_of_the_Order_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Number_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_Westminster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Princeton_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_British_Columbia_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yale_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turkey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_Rock,_British_Columbia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galois_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasse\u2013Weil_zeta_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Langlands_classification"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Langlands_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Langlands_program"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Langlands\u2013Deligne_local_constant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Langlands\u2013Shahidi_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linear_algebraic_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Local_Langlands_conjectures"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semigroup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Einstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erich_Hecke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fermat's_Last_Theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Maass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harish-Chandra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herv\u00e9_Jacquet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Arthur_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffery\u2013Williams_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaw_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atle_Selberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abel_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Foreign_Members_of_the_Russian_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chevalley_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_Fellows_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Wolf_Prize_in_Mathematics_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Langlands_decomposition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cole_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diana_Shelstad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artin_L-function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Automorphic_L-function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Automorphic_form"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Eichler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Class_field_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middle_East_Technical_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Westminster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassius_Ionescu-Tulcea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Selberg_trace_formula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semiahmoo_Secondary_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolf_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shimura_variety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Langlands_dual"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Standard_L-function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quaternion_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_Shelstad",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weil_conjecture_on_Tamagawa_numbers"
+    }
+]

@@ -1,0 +1,13 @@
+Maria Assunta Pozio (died 2018) was an Italian mathematician known for her research in partial differential equations, including a collaboration with the Swiss mathematician Catherine Bandle. A special issue of Rendiconti di Matematica e delle sue Applicazioni was dedicated to her memory. Pozio received a Laurea degree (effectively equivalent to a PhD) from Sapienza University of Rome in 1977.
+
+
+== Selected publications ==
+Pozio, M. A., & Tesei, A. (1985). Degenerate parabolic problems in population dynamics. Japan journal of applied mathematics, 2(2), 351-380.
+Porzio, M. M., & Pozio, M. A. (2008). Parabolic equations with non–linear, degenerate and space–time dependent operators. Journal of Evolution Equations, 8(1), 31-70.
+Pozio, M. A., Punzo, F., & Tesei, A. (2008). Criteria for well-posedness of degenerate elliptic and parabolic problems. Journal de mathématiques pures et appliquées, 90(4), 353-386.
+Bandle, C., Pozio, M. A., & Tesei, A. (2011). The Fujita exponent for the Cauchy problem in the hyperbolic space. Journal of Differential Equations, 251(8), 2143-2163.
+Pozio, M. A., Punzo, F., & Tesei, A. (2011). Uniqueness and nonuniqueness of solutions to parabolic problems with singular coefficients. Discrete & Continuous Dynamical Systems, 30(3), 891.
+Bandle, C., & Pozio, M. A. (2015). Sublinear elliptic problems with a Hardy potential. Nonlinear Analysis: Theory, Methods & Applications, 119, 149-166.
+
+
+== References ==

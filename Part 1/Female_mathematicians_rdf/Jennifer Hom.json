@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_field_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_MacPherson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Osserman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scalar_curvature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleny_Ionel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bo_Berndtsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Dubrovin_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Sullivan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detlef_Gromoll"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hodge_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Pardon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Biran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Sarnak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricci_curvature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricci_flow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_S._Hamilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Bryant_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Epstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Maryland,_Baltimore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_North_Carolina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaughan_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_R._Morrison_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intrinsic_flat_distance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Spruck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gang_Tian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courant_Institute_of_Mathematical_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maryam_Mirzakhani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maxim_Kontsevich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gauge_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Minicozzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_Sormani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ciprian_Manolescu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claire_Voisin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_Taubes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexandrov_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Witten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Einstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Labourie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Hirzebruch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabriel_Paternain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gauge_Theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_relativity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirror_symmetry_(string_theory)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u00f6bius_energy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conformal_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Freed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Malchiodi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_Floer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arnold_Conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Simon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Sibner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Nirenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calabi\u2013Yau_manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shlomo_Sternberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Brendle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Donaldson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_University_of_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Auroux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yum-Tong_Siu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuval_Peres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zolt\u00e1n_Szab\u00f3_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Bonahon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Morgan_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chern-Simons_form"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harnack's_inequality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symplectic_manifold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mean_curvature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mean_curvature_flow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_T._Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Semmes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tobias_Colding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tomasz_Mrowka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dark_matter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilfried_Schmid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Minicozzi_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Thurston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willmore_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heisenberg_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Etnyre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juha_Heinonen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karsten_Grove"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Jeffrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Eskin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebraic_geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anatole_Katok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duke_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duong_Hong_Phong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dusa_McDuff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugenio_Calabi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F._Thomas_Farrell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernando_Cod\u00e1_Marques"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Neves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_White_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jennifer_Hom",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chuu-Lian_Terng"
+    }
+]

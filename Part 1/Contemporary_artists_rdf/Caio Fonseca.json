@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caio_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_A._Vegh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodolfo_Gambini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodrigo_Santiago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_by_ethnicity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Bradley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugo_Fattoruso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Del_Arco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jorge_Gestoso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jorge_Majfud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Jos\u00e9_Calandria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Sevcec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pepe_Fern\u00e1ndez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricardo_L\u00f3pez_(stalker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cruz_Thayne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Limp_Wrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Piedrabuena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_American_people_by_ethnic_or_national_origin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Davidsohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cobra_Starship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emir_Rodr\u00edguez_Monegal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrique_Graf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabe_Saporta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabriel_Wilensky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_DelHoyo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gisele_Ben-Dor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montevideo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loop_quantum_gravity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luis_Camnitzer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_League_Soccer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Uruguayan_diaspora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francisco_Fattoruso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_L._Duomarco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Serebrier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruno_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CNN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Uruguayan_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isabel_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrian_Vallarino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agust\u00edn_Viana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alejandro_V\u00e9gh_Villegas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alejandro_Zaffaroni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ESPN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fede_\u00c1lvarez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernando_Clavijo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fernando_Espuelas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Pontet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jorge_Ramos_(commentator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lengua_Armada_Discos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Crudos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacksonville_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaime_Carbonell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Holocaust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jo_Mora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tab_Ramos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hiber_Conteris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miguel_Terekhov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uruguayan_American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Sorrondeguy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ida_Vitale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Midtown_(band)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natalia_Cigliuti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_England_Revolution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rafael_Vi\u00f1oly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sebasti\u00e1n_Guenzatti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_American_people_of_Latin_American_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diego_Fagundez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sampson_Lewkowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jorge_Ottati_Junior"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mart\u00edn_N\u00fa\u00f1ez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Generation_of_1945"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caio_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Michael_von_Hausswolff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolee_Schneemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Opa\u0142ka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Paine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Ascott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Dillemans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Francis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Gilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braco_Dimitrijevic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Caio_Fonseca",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Garff"
+    }
+]

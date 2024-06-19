@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caleb_Saleeby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Secularism_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Winston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Franklin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Festival_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandi_Toksvig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah-Jayne_Blakemore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_National_Party"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England_and_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Ginsberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bettany_Hughes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blasphemy_law_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonya_Ahmed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Cox_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Attenborough"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Orr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_for_Education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devolution_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Gruner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:European_Humanist_Federation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Humanist_associations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Nordgren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homeopathy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Lords"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humanists_International"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hypatia_Bradlaugh_Bonner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Passmore_Edwards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Stuart_Mackenzie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_McCabe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judicial_review"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julian_Huxley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhodri_Morgan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Dawkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Gregory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Chorley,_1st_Baron_Chorley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Hinde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Redgrave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Woolf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voltaire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Declaration_of_incompatibility"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._H._Muirhead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L._H._Berens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Party_(UK)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Creationism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Morant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matty_Healy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisa_Martindale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thought_for_the_Day"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Voice_(UK)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Williams_(Welsh_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Church_of_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civil_partnership_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claire_Rayner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clementina_Anstruther-Thomson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Faulkner_Shand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Embryonic_stem_cell_research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederic_Harrison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_James_Gould"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Soddy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freedom_of_speech"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G._E._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gavin_Henderson,_2nd_Baron_Faringdon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Eliot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Holyoake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Melly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Murray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Wallas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NHS_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corrie_Grant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Walker_Arnold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equality_Act_2006"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equality_Act_2010"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_Humanists_UK"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Organ_Donation_(Deemed_Consent)_Act_2019"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Offender_Management_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Register_Office"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Copson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Saini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Glover_(biologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antony_Flew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Igwe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Stephen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_Democrats_(UK)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Smith_(comedian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lorraine_Barrett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Jopling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludovic_Kennedy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madge_Oliver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Si\u00e2n_Berry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanton_Coit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_funerals_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Fry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steven_Pinker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Monro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Laird_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_Hardcastle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Hobhouse"
+    }
+]

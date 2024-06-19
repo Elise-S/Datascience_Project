@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Accardi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amedeo_di_Castellamonte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Rhode"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Turin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudi_Fuchs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morganatic_marriage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Salle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andro_Wekua"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Imhof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hito_Steyerl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Savoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Kosuth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_Kirkeby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Galison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Magritte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Residences_of_the_Royal_House_of_Savoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Long_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rivoli,_Piedmont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Browning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Beecroft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Amadeus_II_of_Sardinia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Salcedo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Richards_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Dibbets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olafur_Eliasson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_art_galleries_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comune"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurizio_Cattelan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Ernst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Neuhaus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint-Georges-d'Esp\u00e9ranche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roni_Horn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claes_Oldenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Peyton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmanuel_Philibert,_Duke_of_Savoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emperor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enzo_Cucchi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Gehry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Kline"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Barbarossa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_&_George"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_de_Chirico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Penone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grazia_Toderi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mona_Hatoum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mont_Cenis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nalini_Malani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nan_Goldin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Demand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Sch\u00fctte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Bellini_(curator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Bruno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_Gursky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Boghiguian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Gaskell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anri_Sala"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anton_Corbijn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arata_Isozaki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armando_Testa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arnulf_Rainer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Filippo_Juvarra_buildings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_and_Hilla_Becher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucio_Fontana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_1984"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirin_Neshat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shroud_of_Turin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claudia_Comte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Combal.Zero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emilio_Vedova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federico_Cerruti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Vezzoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Al\u00ffs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Bacon_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Ackermann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fridericianum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haim_Steinbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefano_Arienti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Nauman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNESCO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wassily_Kandinsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Kentridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Anselmo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giulio_Paolini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Land_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaajiao"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alberto_Giacometti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alighiero_Boetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amedeo_Modigliani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Mendieta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_the_12th_century"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Atkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vanessa_Beecroft",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Filippo_Juvarra"
+    }
+]

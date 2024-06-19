@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belu-Simion_Fainaru"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Therrien"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Finn-Kelcey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royden_Rabinowitch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Mullican"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Gross_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bhupen_Khakhar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Viola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braco_Dimitrijevi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brice_Marden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hammons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Borofsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Lasker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Beuys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Kosuth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Mu\u00f1oz_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Usl\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Steir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Cabrita_Reis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_Kirkeby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricardo_Brey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Artschwager"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Deacon_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Prince"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Gober"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulrich_R\u00fcckriem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Frenkel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladim\u00edr_Kokolia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ingeborg_L\u00fcscher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Welling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Hoet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quinquennial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Neuhaus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Clair_Cemin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nic_Nicosia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thierry_De_Cordier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1992_in_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cildo_Meireles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Ruscha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_West"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoffrey_James_(photographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Herold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Richter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miros\u0142aw_Ba\u0142ka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thom_Merrick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Sch\u00fctte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erik_A._Frandsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1992_in_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Grauerholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anish_Kapoor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_Lohaus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Bourgeois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luc_Tuymans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stan_Douglas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denys_Zacharopoulos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zoe_Leonard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Bacon_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haim_Steinbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horia_Damian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Ocampo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Nauman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Conrad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Oursler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walt\u00e9rcio_Caldas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wim_Delvoye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documenta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giulio_Paolini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heimo_Zobernig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Coleman_(Irish_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulf_Rollof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A._R._Penck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Documenta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dara_Birnbaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erika_Rothenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ousmane_Sow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Wool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raoul_De_Keyser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Fend"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luciano_Fabro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Prina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maria_Serebriakova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guillermo_Kuitca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00fcnther_F\u00f6rg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hidetoshi_Nagasawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isa_Genzken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jac_Leirner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Fabre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Marc_Bustamante"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Struth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attila_Richard_Lukacs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Absalon_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Ray_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimmie_Durham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Suzanne_Lafont",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Scanlan_(artist)"
+    }
+]

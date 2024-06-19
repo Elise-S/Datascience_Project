@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malcolm_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirley_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warren_Jackson_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrian_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_Pledger_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orpheus_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canterbury,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endemism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morph_(zoology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mouse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metabolic_rate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metrosideros_excelsa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monoxenous_development"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montane_ecosystems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2011_Christchurch_earthquake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biological_classification"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birdling's_Flat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Death"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Demon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_of_Conservation_(New_Zealand)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Cree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Litter_(animal)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petroglyph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reptile"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Retreat_(survivalism)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Culture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viviparity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vocalise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iwi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mating"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Predation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nostril"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cordyline_australis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ancestor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Running"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Generalist_and_specialist_species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Native_species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nocturnality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muehlenbeckia_complexa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W\u0101nanga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cliff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Climate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Drinker_Cope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gecko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gondwana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mustelidae"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u0101ori_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u0101ori_mythology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u0101ori_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coprosma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coprosma_propinqua"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thermoregulation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Animal_coloration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magnetic_force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chirp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stoat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cloaca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Common_brushtail_possum_in_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hoplodactylus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ice_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frugivorous"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pendant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Port_Hills"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirley_Pledger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medical_state"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sunning_(behaviour)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tapetum_lucidum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zoological_specimen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T\u0101_moko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adaptation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adhesion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aggregation_(ethology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuatara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weasel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divaricate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptic_species_complex"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Habitat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hatchling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vitellogenesis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amphibian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Altitude"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flax"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banks_Peninsula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bark_(sound)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Captivity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Foraging"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geotechnical_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaitiaki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaitorete_Spit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primitive_(phylogenetics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Range_(biology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reproduction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shirley_Pledger",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hedgehog"
+    }
+]

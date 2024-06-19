@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pilluni_(Castilla)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pilluni_(La_Uni\u00f3n)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aymara_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pilluni_(Apur\u00edmac-Cusco)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Temam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Coifman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bj\u00f6rn_Engquist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph-Louis_Lagrange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Keller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_van_den_Driessche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Mathematics_and_its_Applications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_on_Industrial_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_C._Papanicolaou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmanuel_Cand\u00e8s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7oise_Tisseur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Strang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Majda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annalisa_Buffa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lothar_Collatz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanley_Osher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9va_Tardos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefan_M\u00fcller_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giulia_Di_Nunno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Clerk_Maxwell_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexandre_Chorin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E_Weinan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Otto_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Keyfitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gesellschaft_f\u00fcr_Angewandte_Mathematik_und_Mechanik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grigory_Barenblatt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinz_Engl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Council_for_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques-Louis_Lions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Clerk_Maxwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Michel_Coron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mar\u00eda_J._Esteban"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Applied_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_International_Science_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematical_societies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_David_Kruskal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_for_Industrial_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ian_Sloan_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ingrid_Daubechies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olga_Taussky-Todd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_nongovernmental_organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soci\u00e9t\u00e9_de_Math\u00e9matiques_Appliqu\u00e9es_et_Industrielles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Albert_Sethian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Su_Buchin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/China_Society_for_Industrial_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olavi_Nevanlinna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reinhard_Mennicken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siddhartha_Mishra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvon_Maday"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Lungu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_Jeltsch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Bardos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_Clare_Hall,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Argostoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Applied_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Athens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Ioannina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Miami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Southern_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calogero-Degasperis-Fokas_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1952_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_the_Phoenix_(Greece)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clare_Hall,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clarkson_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_M._Miller_School_of_Medicine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M.D."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calogero\u2013Degasperis\u2013Fokas_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_British_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:California_Institute_of_Technology_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Leonard_M._Miller_School_of_Medicine_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fokas_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Commanders_of_the_Order_of_the_Phoenix_(Greece)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paco_Lagerstrom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Guggenheim_Fellowships_awarded_in_2009"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technical_University_of_Crete"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_Imperial_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Imperial_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clarkson_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Greek_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Beatrice_Pelloni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_of_Athens_(modern)"
+    }
+]
