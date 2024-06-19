@@ -1,7 +1,0 @@
-[
-    {
-        "subject": "http://dbpedia.org/resource/INO",
-        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
-        "object": "http://dbpedia.org/resource/INO"
-    }
-]
