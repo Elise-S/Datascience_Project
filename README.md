@@ -5,6 +5,7 @@ Elise SOENEN
 Mina OULHEN
 Reyanne ROMAIN
 
+Gitub page project available at this link : https://github.com/Elise-S/Datascience_Project
 
 #### Requirements 
 
@@ -66,4 +67,4 @@ The notebooks are to run in this specific order:
     - DSproject2_3.ipynb (NER Verification)
 
 
-Gitub page project available at this link : https://github.com/Elise-S/Datascience_Project
+
