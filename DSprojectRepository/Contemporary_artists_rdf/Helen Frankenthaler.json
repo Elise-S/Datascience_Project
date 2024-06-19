@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milly_Ristvedt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roald_Nasgaard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_North_Carolina_at_Greensboro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Commonwealth_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OK_Harris_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontario_Arts_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Triangle_Arts_Trust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clement_Greenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Louis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Emmerich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Caro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barcelona_Museum_of_Contemporary_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Toronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_women_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_North_Carolina_at_Greensboro_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto,_Ontario,_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Color_Field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Fried"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eva_Hesse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Fauteux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norfolk,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenworth_Moffett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_Frankenthaler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Bush"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Virginia_Commonwealth_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adolph_and_Esther_Gottlieb_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Norfolk,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_abstract_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_Wilkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyrical_Abstraction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Museum_of_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada_Council_for_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cargill_MacMillan_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_in_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Art_Directory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1909_establishments_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arts_organizations_established_in_1909"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._DeForest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Woods_Bliss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Neuberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Museum_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Viola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brice_Marden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Degas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hunter_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Olitski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peabody_Essex_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Bechtle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interstate_Commerce_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arts_organizations_based_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corcoran_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maya_Lin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chola_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_Federation_of_Women's_Clubs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christo_and_Jeanne-Claude"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Sherman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claes_Oldenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claremont_Graduate_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colby_College_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edythe_Broad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Broad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliel_Saarinen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elihu_Root"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Murray_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Stella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Richter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Getty_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Getty_Leadership_Institute_at_Claremont_Graduate_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_&_George"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Louis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nam_June_Paik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_Yorker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Washington_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Helen_Frankenthaler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Roosevelt"
+    }
+]

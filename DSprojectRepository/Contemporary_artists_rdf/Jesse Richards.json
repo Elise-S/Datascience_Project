@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cale_Makar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Angels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Hockey_League"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cantor_Fitzgerald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cape_Cod_Community_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casey_Wellman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Pharmacists_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primary_Wave_(company)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pro_Bowl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Purdue_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quarterback"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Villone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxanne_Modafferi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Hommes_Rodr\u00edguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Jose_Sharks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Stewart_(cancer_researcher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mose_Penaani_Tjitendero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ray_Rogers_(labor_activist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Nature's_Trail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professional_baseball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Trahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battalion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Cherington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Krommes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Jo_Nelsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Shabazz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Bayno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Cosby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Pullman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Kenoi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Hansen_(baseball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bollywood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonnie_Dumanis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_City_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Herald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Red_Sox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Norton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braintree,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Darling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Briana_Scurry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bridget_Moynahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Jauss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Littlefield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Telgheder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Berman_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Branch_(ice_hockey)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_M._Bartley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Pakman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Poisson_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Rosner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Days_of_Our_Lives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denise_Andrews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver_Broncos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derek_Kellogg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Lions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Pistons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deutsche_Bank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devang_Vipin_Khakhar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Aune"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All-Pro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_St._Pierre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_C._Noble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Astros"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Hensleigh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Quick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Sullivan_(mayor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Wagner_(Massachusetts_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joy_Ladin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jujubee_(drag_queen)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Robenhymer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_Erving"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertram_Forer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betsy_Atkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_United_States_Foreign_Service_Career_Ambassadors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Walsh_(social_entrepreneur)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Landers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Theroux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peking_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_G._Torkildsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Laird"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Tolan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reuven_Carlyle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhode_Island_House_of_Representatives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rice_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Gere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Pitino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rivier_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_Corddry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Football_League_(2009)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Air_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Second_Circuit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_District_Court_for_the_Eastern_District_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jesse_Richards",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Environmental_Protection_Agency"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/B_G_Verghese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Prannoy_Roy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Prem_Shankar_Jha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Pushpinder_Singh_Chopra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rohit_Khosla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Roopak_Saluja"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Roshan_Seth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sam_Agarwal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Samarjitsinh_Gaekwad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Samir_Modi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sanjay_Gandhi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Saurabh_Narain_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sunil_Kant_Munjal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Pragmulji_III"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Anil_Kumar_(businessman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bhaskar_Menon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bhawani_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Biddanda_Chengappa_Nanda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Deepak_Lal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Deepak_Summanwar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ardashir_Vakil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Hso_Khan_Pha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bhaskar_Vira"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Arjun_Malhotra_(entrepreneur)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Peter_Mukerjea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vijay_Prashad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vikram_Lal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vikram_Seth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vinay_Sheel_Oberoi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vittal_Mallya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vivaan_Shah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vivan_Sundaram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Deepak_Nirula"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Adesh_Pratap_Singh_Kairon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vinod_Kumar_Grover"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sahej_Bakshi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Lovraj_Kumar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rahul_Akerkar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Gautam_Thapar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ghulam_Jilani_Khan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brahma_Nath_Katju"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Murtaza_Ali_Khan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Nakul_Nath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Dalip_Mehta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Dan_Dhanoa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Nagendra_Nath_Jha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Anish_Kapoor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Lieutenant_General_(Pakistan)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/M._Ct._Muthiah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Mani_Shankar_Aiyar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Arun_Singh_(former_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Shiv_Kunal_Verma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Shivendra_Singh_Dungarpur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Siddhartha_Lal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sukhjit_Singh_(soldier)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Hari_&_Sukhmani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Uma_Shankar_Bajpai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Mahmood_Farooqui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Tarun_Tahiliani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Manoviraj_Khosla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brijesh_Dhar_Jayal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bunker_Roy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Adesh_Kanwarjit_Singh_Brar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Trilochan_Singh_Brar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Wajahat_Habibullah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Gajendra_Singh_Khimsar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Lalit_Pande"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Shivinder_Mohan_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/A._N._D._Haksar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/A._Vellayan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Abhinandan_Sekhri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Abhinav_Bindra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Adi_M._Sethna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Aftab_Seth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Akbar_Ahmad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ali_Fazal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Amardeep_Singh_(independent_researcher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Amarinder_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Amitav_Ghosh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Analjit_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ananga_Udaya_Singh_Deo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ajit_Narain_Haksar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Dushyant_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Nikhil_Nanda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Parameswaran_Iyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Kanti_Bajpai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Khursheed_Marker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Prasenjit_Duara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Himani_Shivpuri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ishaat_Hussain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Jaivardhan_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Jamsheed_Marker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Vishvjit_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Aroon_Purie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ashvin_Kumar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Abhishek_Poddar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Chandeshwar_Prasad_Narayan_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Chandra_Vijay_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Chandrachur_Singh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anish_Kapoor",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Jitin_Prasada"
+    }
+]

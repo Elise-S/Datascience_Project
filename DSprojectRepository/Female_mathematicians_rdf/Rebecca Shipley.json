@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_MacEwen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amika_George"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prue_Leith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen's_Official_Birthday"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Alexandra's_Royal_Army_Nursing_Corps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rinder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roma_Downey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Hodgson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Army_Chaplains'_Department"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Army_Medical_Corps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Army_Physical_Training_Corps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Corps_of_Signals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Gurkha_Rifles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Logistic_Corps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Police_Force_of_Antigua_and_Barbuda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Regiment_of_Fusiliers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Regiment_of_Scotland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Solomon_Islands_Police_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Welsh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Gilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_Ambulance_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_Fire_and_Rescue_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Alberga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_McBride_(doctor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priya_Guha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor_of_Statistical_Science_(Cambridge)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2021_Canadian_Honours_List"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Adderley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Almond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hurley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Jeffrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Bovell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_for_Transport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_for_Work_and_Pensions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derbyshire_Constabulary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Tedstone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Clayton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Henderson_(public_servant)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Home_Office"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Lords"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humberside_Fire_and_Rescue_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huw_Watkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Pryce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_Henderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julian_Lloyd_Webber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Nelson_(footballer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_de_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Wakeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaccine_Taskforce_(UK)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deputy_Leader_of_the_House_of_Lords"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jagjit_Chadha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Aston_(statistician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Ervine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Marie_Parr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophie_Chandauka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Veronica_Ryan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Burdett-Coutts_(promoter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/10_Queen's_Own_Gurkha_Logistic_Regiment_RLC"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2021_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cook_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cranfield_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meg_Hillier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanie_Eusebe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanie_Marshall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ryan_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sadie_Coles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Fairburn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Tickell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Gardiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emily_Scarratt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engelbert_Humperdinck_(singer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Curzon,_7th_Earl_Howe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gareth_Kirkwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoff_Thomas_(footballer,_born_1964)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governor-General_of_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governor_of_the_British_Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Kirkham,_Baron_Kirkham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greater_Manchester_Police"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monarchy_of_Antigua_and_Barbuda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crispin_Agnew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Woodcock_(officer_of_arms)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orders_and_decorations_of_the_Commonwealth_realms"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2021_awards_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Birthday_Honours"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Leadsom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Pollard_(immunologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Carragher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Longfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Richards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antigua_and_Barbuda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ant\u00f3nio_Horta-Os\u00f3rio_(banker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Army_Cadet_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rebecca_Shipley",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leicestershire_Police"
+    }
+]

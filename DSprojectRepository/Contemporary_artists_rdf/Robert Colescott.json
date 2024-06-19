@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_State_University,_Sacramento"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_in_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolando_Castell\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Art_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Arts_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernice_Bing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mills_College_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Goldyne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_DeMarinis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Ya\u00f1ez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Diebenkorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richmond_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Colescott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Bicentennial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dewey_Crumpler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1936_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rupert_Garc\u00eda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Asawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Clark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elmer_Bischoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Day_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_LaPena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Longfish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mission_Cultural_Center_for_Latino_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multiculturalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Valledor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Lomahaftewa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lobdell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Montoya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Izu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C.N._Gorman_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_the_San_Francisco_Bay_Area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:San_Francisco_Art_Institute_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Holland_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adaline_Kent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Wong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Robles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:California_State_University,_Sacramento_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Park_Place_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guggenheim_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janice_Mirikitani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tenderloin,_San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Filipino_American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archives_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asian_Art_Museum_(San_Francisco)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_artists_of_Filipino_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:San_Francisco_Art_Institute_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Hagedorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Pomeroy_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_LaMarr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Neri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Lovelace_O'Neal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pollock-Krasner_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mildred_Howard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mills_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minimalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Endowment_for_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oliver_Lee_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ralph_Maradiaga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Saunders_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prospect_New_Orleans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvia_Lark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phil_Weidman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darryl_Sapien"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Hiroshi_Suzuki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roswell,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roswell_Daily_Record"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roswell_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Reed_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Cook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Colescott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artist_residencies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Sall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anderson_Museum_of_Contemporary_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luis_Jim\u00e9nez_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_McGarrell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Saar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Passlof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Chaves_County,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Farmhouse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taos,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artist-in-residence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Chaves_County,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milton_Resnick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Chaves_County,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ted_Kuykendall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachel_Hayes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eddie_Dominguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Midgette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Colescott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diane_Marsh"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://www.w3.org/2002/07/owl#differentFrom",
+        "object": "http://dbpedia.org/resource/Nick_Cave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://www.w3.org/2002/07/owl#differentFrom",
+        "object": "http://dbpedia.org/resource/Nick_Gage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://www.w3.org/2002/07/owl#differentFrom",
+        "object": "http://dbpedia.org/resource/Nicholas_Gage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Nick_Cave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/The_Bad_Seeds_discography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolling_Stone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_McComb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Born_Sandy_Devotional"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_McComb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Fricke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1001_Albums_You_Must_Hear_Before_You_Die"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1987_albums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Domino_Recording_Company_albums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Island_Records_albums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_Leon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encyclopedia_of_Popular_Music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_T\u00e9taz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NME"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lenny_Kaye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ox-Fanzine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bury_Me_Deep_in_Love"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trick_of_the_Light_(The_Triffids_song)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heat_illness"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Lee_(Australian_musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AllMusic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alsy_MacDonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Albums_produced_by_Gil_Norton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Albums_produced_by_Craig_Leon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Cave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Folk_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kent_Music_Report"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heaven's_Gate_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Island_Records"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Black_Swan_(The_Triffids_album)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Irish_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jill_Birt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ARIA_Charts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Water_(The_Triffids_song)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_C._Strong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martyn_P._Casey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_Triffids_albums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/In_the_Pines_(album)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/R.E.M."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Record_Collector"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rock_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sverigetopplistan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Triffids"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gigwise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gil_Norton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ultratop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RIANZ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Recording_Industry_Association_of_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roundhouse_(venue)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Albert_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Festival_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Blasko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque_pop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Hoskins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bowie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jools_Holland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judi_Dench"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_Dublin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/County_Cork"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cover_version"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irish_musical_theatre_actresses"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irish_women_singers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glastonbury_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Coxon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mrs_Henderson_Presents"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multi-instrumentalist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Waterboys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Clique"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apollo_Theatre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Frears"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Hollaender"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irish_architects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Helpmann_Award_winners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Bernelle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Robbins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todd_Rundgren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Waits"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trainspotting_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Will_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dublin_Theatre_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aidan_Gillen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irish_people_of_French_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Damien_Rice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dublin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duke_Special"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edith_Piaf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alternative_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Cork_(city)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ewen_Bremner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Cave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nick_Cave",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Passage_West"
+    }
+]

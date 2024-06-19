@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rutgers_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lipman_Bers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stony_Brook_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emanuel_R._Piore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fuchsian_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Lithuanian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stony_Brook_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Discrete_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graduate_Texts_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Projective_linear_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irwin_Kra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rutgers_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Group_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyperbolic_plane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quasiconformal_mapping"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Carnap"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Arbarello"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Latvian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annals_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holomorphic_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_Martov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riemann_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_National_Research_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Zurich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentin_Turchin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vietnam_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Piore_Gilman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lie_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Keen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compact_space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Petersburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_partial_differential_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_O._Wells,_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cold_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Riga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Roosevelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometrization_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governorate_of_Livonia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Purge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Green's_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Munich_Agreement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murray_H._Protter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin_Psychoanalytic_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Maskit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bers_slice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonid_Plyushch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Sibner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shmuel_Agmon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stalin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stroke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Ehrenpreis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leroy_P._Steele_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1914_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_visiting_scholars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematical_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_York_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Syracuse_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_Rochelle,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Latvian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Thurston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctoral_advisor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hearing_the_shape_of_a_drum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minimal_surface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pseudoanalytic_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Airfoil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rub\u00ed_Rodr\u00edguez",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Nagel"
+    }
+]

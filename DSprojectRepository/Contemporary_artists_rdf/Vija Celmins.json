@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sandburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cass_Gilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_poetry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_of_the_American_Academy_of_Arts_and_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Penn_Warren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Sessions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romulus_Linney_(playwright)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Chernow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Shepard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Barber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Eliot_Morison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Bellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Steinberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Shahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Malamud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Booth_Tarkington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Diamond_(composer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Levine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_McCullough"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_W._Blight"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horton_Foote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Singer_Sargent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Updike"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_art_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Manship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peggy_Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Eisenman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Gay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reginald_Marsh_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Diebenkorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Meier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilbur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rita_Dove"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Caro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_E._Sherwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Frost"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vija_Celmins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virgil_Thomson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Burroughs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_poetry_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conrad_Aiken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maxwell_Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_French_Sloan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chuck_Close"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Albee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Hopper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_Arlington_Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Hardwick_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliott_Carter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Stella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Law_Olmsted"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gari_Melchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Crumb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_F._Kennan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Grey_Barnard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Grosz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Rickey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgia_O'Keeffe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_Bunshaft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thornton_Wilder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Wyeth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Hyatt_Huntington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Bontecou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Kirchner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Baskin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewis_Mumford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lillian_Hellman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Bourgeois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Gluck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Nevelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lukas_Foss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malcolm_Cowley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidney_Kingsley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Sondheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Vincent_Benet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Steegmuller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Edel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augustus_Saint-Gaudens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augustus_Thomas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_W._Tuchman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C._Vann_Woodward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cecilia_Beaux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toni_Morrison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W._H._Auden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W._S._Merwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wallace_Shawn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Damrosch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Jackson_Bate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Lippmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wayne_Thiebaud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willa_Cather"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Kooning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Vija_Celmins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Adams_Delano"
+    }
+]

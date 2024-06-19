@@ -1,0 +1,29 @@
+Grace Goldsmith Wahba (born August 3, 1934) is an American statistician and retired I. J. Schoenberg-Hilldale Professor of Statistics at the University of Wisconsin–Madison. She is a pioneer in methods for smoothing noisy data. Best known for the development of generalized cross-validation and "Wahba's problem", she has developed methods with applications in demographic studies, machine learning, DNA microarrays, risk modeling, medical imaging, and climate prediction.
+
+
+== Biography ==
+Wahba had an interest in science from an early age, when she was in junior high she was given a chemistry set. At this time she was also interested in becoming an engineer.
+Wahba studied at Cornell University for her undergraduate degree; in 1952, Cornell and Brown University were the only Ivy League universities that admitted women. When she was there women were severely restricted in their privileges, for example she was required to live in a dorm and had a curfew. She received her bachelor's degree from Cornell University in 1956 and a master's degree from the University of Maryland, College Park in 1962. She worked in industry for several years before receiving her doctorate from Stanford University in 1966 and settling in Madison in 1967.
+She is the author of Spline Models for Observational Data. She retired in August 2018 from the University of Wisconsin-Madison.
+Her life and career are discussed in a 2020 interview.
+
+
+== Honors and awards ==
+
+Wahba was elected to the American Academy of Arts and Sciences in 1997 and to the National Academy of Sciences in 2000. She is also a fellow of several academic societies including the American Association for the Advancement of Science, the American Statistical Association, and the  Institute of Mathematical Statistics.
+Over the years she has received a selection of notable awards in the statistics community:
+
+R. A. Fisher Lectureship, COPSS, August 2014
+Gottfried E. Noether Senior Researcher Award, Joint Statistics Meetings, August 2009
+Committee of Presidents of Statistical Societies Elizabeth Scott Award, 1996
+First Emanuel and Carol Parzen Prize for Statistical Innovation, 1994
+She received honorary Doctor of Science degrees from the University of Chicago in 2007 and The Ohio State University in 2022.
+The Institute of Mathematical Statistics announced the IMS Grace Wahba Award and Lecture in 2021.
+
+
+== References ==
+
+
+== External links ==
+Grace Wahba at the Mathematics Genealogy Project
+Grace Wahba's University of Wisconsin website Home page

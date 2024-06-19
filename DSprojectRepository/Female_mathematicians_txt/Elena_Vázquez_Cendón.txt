@@ -1,0 +1,19 @@
+María Elena Vázquez Cendón is a Spanish applied mathematician specializing in the use of differential equations to model waves and shallow water, and in the use of finite volume methods and upwind schemes to compute numerical solutions to these differential equations and other hyperbolic partial differential equations. She is a professor of applied mathematics and dean of mathematics at the University of Santiago de Compostela.
+
+
+== Education and career ==
+Vázquez was born in Ourense in 1966. After studying mathematics at the 
+I.E.S As Lagoas in Ourense, she did her undergraduate and graduate studies at the University of Santiago de Compostela, completing a Ph.D. in 1994 with the dissertation Estudio de esquemas descentrados para su aplicación a las leyes de conservación con términos fuente supervised by Alfredo Bermúdez de Castro.
+She is a professor of applied mathematics at the University of Santiago de Compostela, where she has worked since 1989; additionally, she became a research associate for the Technical Institute for Industrial Mathematics in 2013. At the University of Santiago de Compostela, she has been dean of the faculty of mathematics since 2017, and was re-elected as dean in 2021. She has also served as vice rector of the university.
+
+
+== Books ==
+Vázquez is the author of Solving Hyperbolic Equations with Finite Volume Methods, Springer, 2015 (translated from a Spanish edition published in 2008). She is the editor of Lecture Notes on Numerical Methods for Hyperbolic Equations (CRC Press, 2011).
+
+
+== References ==
+
+
+== External links ==
+Home page
+Elena Vázquez Cendón publications indexed by Google Scholar

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Kihlstedt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Is_Dead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sampler_(musical_instrument)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Pedro,_Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schindler_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Adamson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertolt_Brecht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devin_Sarno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_San_Pedro,_Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patti_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vice_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Krummenacher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virgin_Records"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donaufestival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_guitarists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_singers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_singers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_singers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constellation_Records_(Canada)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Belfi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ches_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OvO_(band)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Marclay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glendale,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glendale_Transportation_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Godspeed!_You_Black_Emperor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal,_Quebec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Maids"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Red_Headed_Stranger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sunday_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Book_of_Knots"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alternative_Press_(music_magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lydia_Lunch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suicide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ball-Hog_or_Tugboat%3F"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_singers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_guitarists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aidan_Baker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Constellation_Records_(Canada)_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thurston_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wayne_Kramer_(guitarist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willie_Nelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hawnay_Troof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecstatic_Peace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Moss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruhrtriennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agathe_Max"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_Over_Me_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cuong_Vu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D\u00fcsseldorf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alternative_country"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alternative_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Experimental_rock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geraldine_Fibbers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hadda_Brooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Happy_Days,_Sweetheart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._Paul_Getty_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Genet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bad_Bonn_Kilbi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fields_And_Streams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Guitarists_from_Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Guitarists_from_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_guitarists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_guitarists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_rock_singers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kiki_and_Herb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kill_Me_Later"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LA_Weekly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawndale,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Xiu_Xiu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Discogs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Ribot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marianne_Faithfull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/By_Hook_or_by_Crook_(2001_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_Tomorrow's_Parties_(music_festival)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Krems_an_der_Donau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kurt_Weill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Watt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nels_Cline"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oedipus_Schmoedipus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/REDCAT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Red_Headed_Stranger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Selma_Blair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Coat_of_Paint"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christian_Marclay",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ethyl_Meatplow"
+    }
+]

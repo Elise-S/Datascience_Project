@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_women_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_women_editors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_editors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saudi_Arabian_women_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saudi_Arabian_women_editors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rotterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Junya_Ishigami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarke_Ingels_Group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_art_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Defne_Ayas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Contemporary_Art_(Miami)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galerie_Rudolfinum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moderna_Museet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sunday_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miki_Kratsman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Ufan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light_Art_Space_(LAS)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zaha_Hadid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunl\u00e9_Adeyemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torbj\u00f8rn_R\u00f8dland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Oehlen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erik_van_Lieshout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Formerly_known_as_Witte_de_With_Center_for_Contemporary_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Bulloch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fondazione_Prada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Rooij"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_Marten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tariq_Ramadan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Jafa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saudi_Arabian_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimmie_Durham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Latham_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sondra_Perry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stedelijk_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serpentine_Galleries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yona_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Denny_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolaus_Schafhausen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egyptian_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sotheby's_Institute_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_curator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caio_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Michael_von_Hausswolff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolee_Schneemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Opa\u0142ka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Paine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Ascott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Dillemans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Francis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Gilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braco_Dimitrijevic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Garff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yasumasa_Morimura"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Powhida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sebastian_Diaz_Morales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanejouand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bas_Jan_Ader"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Enwonwu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Viola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_and_Roberta_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brice_Marden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Blatherwick_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hall_(video_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hockney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_LaChapelle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Salle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Butterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Oppenheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoni_Muntadas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Albert_Oehlen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Hodgkin"
+    }
+]

@@ -1,0 +1,26 @@
+Alina Carmen Cojocaru is a Romanian mathematician who works in number theory and is known for her research on elliptic curves, arithmetic geometry, and sieve theory. She is a professor of mathematics at the University of Illinois at Chicago and a researcher in the Institute of Mathematics of the Romanian Academy.
+Cojocaru earned her Ph.D. from Queen's University in Kingston, Ontario, in 2002. Her dissertation, Cyclicity of Elliptic Curves Modulo p, was jointly supervised by M. Ram Murty and Ernst Kani.
+Cojocaru was elected to be an American Mathematical Society (AMS) Council member at large from February 1st, 2023, to January 31st, 2024.
+
+
+== Books ==
+Cojocaru is an author of the book
+
+An Introduction to Sieve Methods and their Applications (with M. Ram Murty, London Mathematical Society Student Texts 66, Cambridge University Press, 2006).
+She is also an editor of
+
+Women in Numbers: Research Directions in Number Theory (with Kristin Lauter, Rachel Justine Pries, and Renate Scheidler, Fields Institute Communications 60, American Mathematical Society, 2011).
+Scholar: A Scientific Celebration Highlighting Open Lines of Arithmetic Research: Conference in Honour of M. Ram Murty's Mathematical Legacy on His 60th Birthday (with C. David and F. Pappalardi, Contemporary Mathematics 655, American Mathematical Society, 2016)
+
+
+== Selected publications ==
+Cojocaru, Alina Carmen; Murty, M. Ram (2004), "Cyclicity of elliptic curves modulo and elliptic curve analogues of Linnik's problem". Math. Ann. 330, no. 3, 601–625. MR 2099195.
+Cojocaru, Alina Carmen (2005), "On the surjectivity of the Galois representations associated to non-CM elliptic curves. With an appendix by Ernst Kani". Canad. Math. Bull. 48, no. 1, 16–31. MR 2118760.
+Cojocaru, Alina Carmen; Hall, Chris (2005). "Uniform results for Serre's theorem for elliptic curves". Int. Math. Res. Not., no. 50, 3065–3080. MR 2189500.
+
+
+== References ==
+
+
+== External links ==
+Home page

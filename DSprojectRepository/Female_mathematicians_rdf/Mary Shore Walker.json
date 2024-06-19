@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_American_people_by_occupation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Eilenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saunders_Mac_Lane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Mazur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Banneker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Peirce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benson_Farb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Blackwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Mumford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_S._Almgren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archie_Blake_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Jerome_Keisler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_N._Mather"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tate_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tukey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Urschel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_L._Doob"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Ritt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Daniel_Carmichael"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Klee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dudley_Weldon_Woodard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_J._S._Allen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornell_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Aaronson_Bari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliott_Mendelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sun-Yung_Alice_Chang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Shannon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_Truesdell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_Spanier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Einar_Hille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elbert_Frank_Cox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_M._Stein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Harary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Mosteller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_David_Birkhoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Mostow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Seligman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_William_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_Conyers_Hewitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murray_Gerstenhaber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Kaczynski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Strong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_Flapan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_M._Gleason"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Fauci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Smale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_Victor_Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonid_Berlyand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Palais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Pless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_O'Nan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augustin_Banyaga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W._T._Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Noll"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wealthy_Babcock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Browder_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_S._Massey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Thurston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Winifred_Edgerton_Merrill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clark_College_(Washington)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Lepowsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janet_Barnett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Barwise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leah_Berman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Eskin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alonzo_Church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alston_Scott_Householder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Americans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amie_Wilkinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curtis_T._McMullen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dana_Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Gorenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Quillen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E._H._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Euphemia_Haynes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evelyn_Boyd_Granville"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Browder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noam_Elkies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_Steenrod"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Carolina_Central_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oswald_Veblen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Sacks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hilbert's_tenth_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Dennis_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_Millett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Stiff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Schieffelin_Claytor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._Ernest_Wilkins,_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Lowell_Putnam_Mathematical_Competition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Litzinger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_W._Kuhn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hassler_Whitney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mary_Shore_Walker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Burchard_Fine"
+    }
+]

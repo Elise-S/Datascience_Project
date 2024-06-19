@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengali_Brahmin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyadarshini_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshu_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prosenjit_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulok_Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sankar_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarat_Chandra_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarojini_Naidu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saswata_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Review_(Calcutta)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basu_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengali_Hindus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biswajit_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debabarta_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debiprasad_Chattopadhyaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anindo_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anjan_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uttam_Kumar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indira_Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jogesh_Chandra_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sabitri_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kulin_Brahmins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gautam_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gotra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirai_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virendranath_Chattopadhyaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anil_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anjan_Chatterjee_(neuroscientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sitaramdas_Omkarnath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Subhadeep_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Subhendu_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sudip_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kshetresa_Chandra_Chattopadhyaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kulin_Brahmin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bamakhepa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bankim_Chandra_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bengali_Hindu_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hindu_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brahmin_communities"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kashyapa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abhishek_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abir_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adhar_Kumar_Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amarendranath_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amitabha_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amitava_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bengali-language_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angana_P._Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anglicisation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Kulin_Brahmin_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parambrata_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partha_Chatterjee_(scholar)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dhruva_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joya_Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bhaswar_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moushumi_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neil_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pratap_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Purnendu_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shekhar_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shiba_P._Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sudeep_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suman_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tannishtha_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upamanyu_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Utpal_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vikram_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harindranath_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atul_Chandra_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aroup_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asima_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Indian_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Social_groups_of_West_Bengal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kamaladevi_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suniti_Kumar_Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swapan_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dhritiman_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dipankar_Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashim_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Somnath_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soumitra_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sourav_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sovan_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Srabanti_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabiranjan_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramakrishna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramananda_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rangan_Chatterjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rarh_region"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shakti_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vande_Mataram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piya_Chattopadhyay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pancha-Gauda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengali_Hindu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nigamananda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramakrishna_Paramahamsa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debjani_Chatterji"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Indira_Chatterji",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    }
+]

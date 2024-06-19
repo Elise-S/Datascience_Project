@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_State_University,_Northridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caltech"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Chism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Football_League"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlisle_H._Humelsine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carly_Fiorina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Stuart_Watson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carsten_Sieling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carter_administration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Eagles_men's_basketball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Institute_of_Chemists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Potomac_River"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Ecuador"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_Republic_of_China"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pro_Bowl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pro_Football_Hall_of_Fame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prudence_Bushnell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qiang_Yang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baltimore_Bullets_(1963\u201373)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Nicholas_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Novak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Lundberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Quivers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocky_Mountain_News"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Wallace_(footballer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Solt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Waller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rona_E._Kramer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosario_Ferr\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Dyson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_J._LeFrak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Chargers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_49ers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Giants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Jose_Earthquakes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saqib_Ali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schillo_Tshuma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Van_Pelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-governmental_organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_Merrill_College_of_Journalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lacrosse_Museum_and_National_Hall_of_Fame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Nature's_Trail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeanette_J._Epps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Ambassador_to_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2009_NFL_Draft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barys_Kit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bates_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bell_Labs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Ephson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernice_Sandler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernie_Faloney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Sugar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_McCarthy-Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Ten_Network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Elias"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bitty_Schram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomberg_News"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Pellegrini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Ward_(American_football,_born_1927)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Woodward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonnie_Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boomer_Esiason"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Davis_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Lowe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brett_Cecil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Crecente"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_MacDevitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Dickerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_M._Satterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Mills_(TV_writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_R._Brinkley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_S._Broder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Silverman_(animator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Simon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Zurawik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DeMatha_Catholic_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deane_Beman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delores_G._Kelley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democratic_National_Committee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Cardoza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derwin_Gray_(offensive_lineman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detective_fiction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alida_Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Kliman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti-racism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Applied_Physics_Laboratory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aracely_Quispe_Neira"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homicide:_Life_on_the_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hong_Kong_University_of_Science_and_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_M._Trent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grace_Wahba",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Newell_Jacobsen"
+    }
+]

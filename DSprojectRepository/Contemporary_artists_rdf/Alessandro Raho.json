@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardiff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardiff,_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_Runway_All_Stars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boy_George"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Installation_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cork_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elle_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_von_Unwerth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elton_John"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GQ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goldsmiths,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minnie_Weisz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nadine_Coyle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Evangelista"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sky_UK"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steve_Lazarides"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxo_Tower"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Goldsmiths,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_School_at_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Yass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ceal_Floyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alessandro_Raho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexi_Lubomirski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Jacques_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/3_Mills_Studios"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1972_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D_Magazine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicola_Roberts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nokia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenny_Goss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Patterson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Groucho_Club"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gwen_Stefani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H&M"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Target_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tate_Modern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Independent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Monthly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrian_Searle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Channel_4"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Farquharson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karsten_Schubert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kate_Moss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colecci\u00f3n_Jumex"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Claire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kurt_Geiger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kylie_Minogue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Craig-Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Campbell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cerith_Wyn_Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Young_British_Artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Set_designer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maddox_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_South_Bank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neon_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1st_Class_Honors_Degree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caio_Fonseca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candida_H\u00f6fer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Michael_von_Hausswolff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolee_Schneemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Opa\u0142ka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Paine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Ascott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Dillemans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Francis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Gilliam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braco_Dimitrijevic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Garff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yasumasa_Morimura"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Powhida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sebastian_Diaz_Morales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Raho",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanejouand"
+    }
+]

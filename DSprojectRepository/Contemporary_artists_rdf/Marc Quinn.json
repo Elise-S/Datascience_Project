@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pound_sterling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Webb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_MacDonald_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morna_Hooker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Sethi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Lords"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Piper_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Pritchard_(rower)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Smith,_Baroness_Smith_of_Newnham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Heaton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cuppers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valerie_Grosvenor_Myer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Grade_II*_listed_buildings_in_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Robinson_(philanthropist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Li_family_(banking)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prostate_Cancer_Foundation_of_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colleges_of_the_University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Brittin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mauro_Galetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Churchill_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_II_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morwenna_Banks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Myles_Burnyeat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Robinson_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Margaret's_Professor_of_Divinity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wood_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_White_(singer-songwriter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Lowe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_Democrats_(UK)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Colleges_of_the_University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frobenius_Orgelbyggeri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Yates_(academic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxbridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1977"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_conference"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cavendish_Laboratory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Lenton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Luckhurst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toby_Marlow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Divinity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drawbridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G._E._Berrios"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeremy_Thurlow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albrecht_Fr\u00f6hlich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecology_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Miliband"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_British_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Clegg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norcroft_C_compiler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grange_Road,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrian_Davies_(rugby_player)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graduate_school"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greg_Hands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Historic_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Lewis,_Baron_Lewis_of_Newnham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Daily_Telegraph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Athene_Donald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1977_establishments_in_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Hart_(lyricist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Secretary_to_the_Treasury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Mycroft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Ansbro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joey_Batey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justine_Thornton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kate_Pickett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Quinn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maria_Bj\u00f6rnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Phillips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marko_Attila_Hoare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Dixon_(academic_lawyer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_Catherine's_College,_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_John's_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Konnie_Huq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Needham_Research_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neil_Mullarkey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oriel_College,_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raspberry_Pi_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Selwyn_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Students'_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Wallace_(journalist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Six_(musical)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidgwick_Site"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Scotsman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Metzstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Porters'_lodge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gillespie,_Kidd_&_Coia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebecca_John"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Organ_Scholars_at_British_Universities_and_Colleges"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Kornicki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Formal_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Undergraduates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Junior_Combination_Room"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_for_Digital_Media,_Culture_and_Sport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marc_Quinn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Robinsonw.jpg"
+    }
+]

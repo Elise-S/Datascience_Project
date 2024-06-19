@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_College_of_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Villa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prairie_Prince"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolling_Stone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romeo_Void"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Nagle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Root_Division"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Ascott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_De_Forest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Hess_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sargent_Claude_Johnson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Wessel,_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_McGee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Panther_Party"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blixa_Bargeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Park_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debora_Iyall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devendra_Banhart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alicia_McCarthy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_and_colleges_in_San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jose_Moya_del_Pino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_Hatofsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Kos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_McCarthy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Joseph_de_Lemos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Reyes_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penelope_Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Reginato"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9e_Green"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Diebenkorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rigo_23"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Colescott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_H._Hudson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Boone_(composer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Simpson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dewey_Crumpler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1906_San_Francisco_earthquake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Country_Joe_and_the_Fish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtney_Love"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_Baldwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Beckmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maynard_Dixon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth-Marion_Baruch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Art_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Russian_Hill,_San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Coppola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clare_Rojas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clyfford_Still"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edvard_Munch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Francis_Searles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Weston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elmer_Bischoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Martin_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Stephan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Kuchar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grateful_Dead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minor_White"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mission_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morley_Baer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Mutants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Tubes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:San_Francisco_Art_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Leibovitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ansel_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bay_Area_Figurative_Movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Valledor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Connor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Dahl-Wolfe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lydia_Lunch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stan_Brakhage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lobdell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Funk_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hou_Hanru"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Fried"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Lentelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Pauline"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidney_Peterson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Nauman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caveh_Zahedi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1871_establishments_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Marioni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trisha_Donnelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darkroom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wally_Hedrick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Coast_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_T._Wiley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Roy_Ascott",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Color_Field"
+    }
+]

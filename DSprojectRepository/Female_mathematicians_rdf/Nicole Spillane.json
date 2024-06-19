@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Opfer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Desmond_Higham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna-Karin_Tornberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonella_Zanna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aretha_Teckentrup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Mathematics_and_its_Applications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1985_establishments_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuying_Li"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coralia_Cartis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_de_Sturler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_M._Stuart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Fox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicole_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_established_in_1985"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_science_and_technology_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Edelman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_for_scholarly_publications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicholas_Higham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Niles_Pierce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ioana_Dumitriu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jing-Rebecca_Li"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wim_Sweldens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Early_career_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lloyd_N._Trefethen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Budd_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valeria_Simoncini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tatjana_Stykel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._W._Demmel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoichiro_Mori"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Townsend"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bart_De_Moor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Sutton_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iain_Smears"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._F._B._M._Kraaijevanger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jared_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Buhmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Neilan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/N._I._M._Gould"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Tupper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reha_T\u00fct\u00fcnc\u00fc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuji_Nakatsukasa_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yunan_Yang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davy_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debbie_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnny_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mickey_Spillane_(gangster)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicole_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Anglicised_Irish-language_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Surnames_of_Irish_origin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrian_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ireland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_David_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Killian_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spellman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spillane_(album)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Spillane_(footballer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mickey_Spillane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Chew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elayne_Arrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicole_Spillane",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Jones"
+    }
+]

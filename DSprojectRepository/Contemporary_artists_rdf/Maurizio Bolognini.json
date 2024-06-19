@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robotics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rotterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Routledge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Ascott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Cook_(curator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Snibbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_Language_International_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_media"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melinda_Rackham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mez_Breeze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prix_Ars_Electronica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joline_Blais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Ippolito"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Nechvatal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Sermon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perry_Hoberman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Gabriel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cybernetic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Em"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Rokeby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EVA_Conferences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interactive_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interactivity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intermedia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lev_Manovich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lillian_Schwartz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jodi_(art_collective)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Benayoun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chico_MacMurtrie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Diller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Generative_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miguel_Chevalier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Popper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genco_Gulan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gianni_Toti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Golan_Levin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Nicholls"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multimedia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yves_Netzhammer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liu_Dao"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIT_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Penny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stelarc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_art_scene"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_graphics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Demoscene"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yucef_Merhi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Forest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Docam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Stelarc_ArsElectronica97.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phaidon_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Digital_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Mason"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wexner_Center_for_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Garnet_Hertz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Systems_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Postmodern_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eduardo_Kac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angie_Bonino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_White"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlie_Gere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_illustration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_poetry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_A._Shanken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fractal_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Feingold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knowbotic_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heiko_Daxl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tam\u00e1s_Waliczky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tate_Publishing_Ltd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thames_&_Hudson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_&_Kevin_McCoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margot_Lovejoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Computer_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Visual_arts_genres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Robotic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Rinaldo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S\u00e3o_Paulo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Legrady"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wearable_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wireless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dick_Higgins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurizio_Bolognini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_art"
+    }
+]

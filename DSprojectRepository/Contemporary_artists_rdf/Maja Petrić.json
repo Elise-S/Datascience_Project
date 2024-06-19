@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Irwin_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Incandescence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Installation_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunsthalle_Detroit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olafur_Eliasson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light_and_Space"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light_fixture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mel_and_Dorothy_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eindhoven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/El_Lissitzky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electricity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ghent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glenn_Ligon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Motion_pictures"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_Kunstpalast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constructivism_(art)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Wilfred"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LED_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Veronica_Janssens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Moholy-Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manfred_Kielnhofer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stepan_Ryabchenko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Malina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Villareal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maja_Petri\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austine_Wood_Comarow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Centre_for_International_Light_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tracey_Emin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLOW_Festival_Eindhoven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HC_Gilje"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Speer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daan_Roosegaarde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Flavin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D\u00fcsseldorf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brigitte_Kowanz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otto_Piene"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caravaggisti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gesamtkunstwerk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Association_of_Lighting_Designers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iv\u00e1n_Navarro_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Turrell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jenny_Holzer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tatsuo_Miyajima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Campbell_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Light_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Sonnier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sustainability"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Lloyd_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snow_lantern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Duchamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grimanesa_Amoros"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Light_Marina_Bay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kraftwerk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Betancourt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Munro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naum_Gabo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathedral_of_Light"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rafael_Lozano-Hemmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yayoi_Kusama"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meeli_K\u00f5iva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Visual_arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lumino_kinetic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teddy_Lo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Signal_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazi_Party_rallies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_videos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strijp-S"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light_graffiti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light_sources"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicholas_Sch\u00f6ffer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artificial_light"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/3-D_projection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:%22_14_-_ITALY_-_Dan_Flavin_in_Milan_-_Chiesa_di_Santa_Maria_Annunciata_in_Chiesa_Rossa_church_-_LED_lightning_-_color_emotion_-_colorful.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:James_Turrell_At_the_Guggenheim_2013_NYC_Shankbone.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Frankfurt_Hauptwache_Luminale.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Had_to_wait_for_5ENSES_to_close_to_avoid_spoilers_but_nice_projection_mapping_by_@DoloresJoya_@CODA_ME_codame_(photo_by_j_bizzie).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Robert_Irwin_Scrim_Veil_Black_Rectangle_Natural_Light_Whitney_2013.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Sydney_Opera_House,_vivid_Sydey.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:The_Blessing_Hand_by_Stepan_Ryabchenko_in_Saatchi_Gallery_in_London.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Utterback"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carsten_Nicolai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Artist_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Franceschini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Menkman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Ascott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maja_Petri\u0107",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Snibbe"
+    }
+]

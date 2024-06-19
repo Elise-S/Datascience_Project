@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rufino_Tamayo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Doig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_la_Cruz_Collection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_art_collectors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador_Dal\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Holstad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u00e9lix_Gonz\u00e1lez-Torres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefano_Bonfiglio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sterling_Ruby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nate_Lowman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1944_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wifredo_Lam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Mendieta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Colen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Wool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isa_Genzken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cuban_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_in_business"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Hodges"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Key_Biscayne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Bradford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Kippenberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_de_la_Cruz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathryn_Andrews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Campbell_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Basketball_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Premier_League"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preston_Brooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Hemphill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Woodward_Barnwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Tallon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Trafford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Bass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sampson_H._Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_McGowan_(general)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Phillips_Verner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_W._Trotti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Antonio_Scorpions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Episcopal_Diocese_of_Georgia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simona_Hunyadi_Murph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Wilson_(U.S._politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moore_School_of_Business"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agriculturalist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basketball_Bundesliga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Gettysburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Buckner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Cremins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Red_Sox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Edwards_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Wallace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brent_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Buscher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Roberts_(baseball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Winters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._King_(engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Beasley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Finley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_F._Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Funderburk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Johnson_(governor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dawn_Ellerbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DeVonte_Holloman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Texans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_R._Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_S._Legar\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Smith_Thompson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humpy_Wheeler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Murphy_(Alabama)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Peter_Richardson_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Peter_Richardson_III"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Roche_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_S._Richardson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_W._Johnston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnathan_Joseph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Coutlangus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_A._Woodward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_B._Kershaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Emile_Harley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_LeConte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_R._Bryson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josiah_J._Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Emerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_C._Caldwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_DiMarco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Remember_the_Titans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaldo_Balkman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_F._Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Irvine_Manning_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_L._Walker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Manning_Jefferies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Riley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Theodore_Greener"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Brewer_(academic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robby_Benson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jim_Hodges",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_B._Campbell"
+    }
+]

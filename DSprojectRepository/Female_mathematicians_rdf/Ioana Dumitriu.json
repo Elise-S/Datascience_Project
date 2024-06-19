@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melody_Chan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanie_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Wilmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zvezdelina_Stankova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Purcell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_T._Schafer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Caraiani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ioana_Dumitriu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeanne_N._Clelland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jing-Rebecca_Li"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_and_prizes_of_the_Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Klivans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathy_O'Neil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Britto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sherry_Gong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scripps_National_Spelling_Bee_participants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Mathematical_Olympiad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Lowell_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Lowell_Putnam_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/China_Girls_Mathematical_Olympiad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Princeton_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_T._Schafer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Niskayuna,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Churchill_Scholarship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ioana_Dumitriu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:International_Mathematical_Olympiad_participants"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manjul_Bhargava"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knot_invariant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Putnam_Competition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scripps_Howard_National_Spelling_Bee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hoopes_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petru_Dumitriu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dumitru"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dumitriu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dumitru_Dumitriu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ioana_Dumitriu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Romanian-language_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_C._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Jockusch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Ludwig_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_R._de_Boor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Beenakker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Castillo-Chavez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_J._Moreno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carsten_Lund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amin_Shokrollahi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amos_Fiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Ashurst_Gooch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_Freedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_Gross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_F._Logan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e1l_Tur\u00e1n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Frankl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Kiss_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Komj\u00e1th"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_M._Solovay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_MacPherson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Marshak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Phelps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Shostak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tijdeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Zimmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hartshorne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Thomas_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Wilson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robion_Kirby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Downey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Evans_Howe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Heath-Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Penrose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Temam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_W._Brockett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rohit_Jivanlal_Parikh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Dobrushin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Glowinski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Sikorski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ioana_Dumitriu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
+    }
+]

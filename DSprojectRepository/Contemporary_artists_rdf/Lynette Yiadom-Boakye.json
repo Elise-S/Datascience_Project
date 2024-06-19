@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_women_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_women_editors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_editors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saudi_Arabian_women_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saudi_Arabian_women_editors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rotterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Junya_Ishigami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarke_Ingels_Group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_art_curators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Defne_Ayas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Contemporary_Art_(Miami)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galerie_Rudolfinum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_women_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moderna_Museet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sunday_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miki_Kratsman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Ufan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light_Art_Space_(LAS)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zaha_Hadid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunl\u00e9_Adeyemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torbj\u00f8rn_R\u00f8dland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Oehlen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erik_van_Lieshout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Formerly_known_as_Witte_de_With_Center_for_Contemporary_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Bulloch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fondazione_Prada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Rooij"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Ulrich_Obrist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_Marten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tariq_Ramadan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Jafa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saudi_Arabian_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimmie_Durham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Latham_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sondra_Perry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stedelijk_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serpentine_Galleries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yona_Friedman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Denny_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolaus_Schafhausen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egyptian_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sotheby's_Institute_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_curator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caixin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PricewaterhouseCoopers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prudential_plc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Health_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pwc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Howells,_Baroness_Howells_of_St_Davids"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Hudson-Wilkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_College_of_Nursing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_London_Hospital"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samantha_Tross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandie_Okoro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_ethnic_groups_of_Africa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mental_Health_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernardine_Evaristo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_British"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_British_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomberg_L.P."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brexit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Adjaye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lammy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Olusoga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Mensah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annette_Thomas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yearbooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homeserve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Lords"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Vernon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paysafe_Group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Permira"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pfizer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reggie_Yates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reni_Eddo-Lodge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rio_Ferdinand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DLA_Piper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Greenwich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Manchester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Westminster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Kingori"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vice_Media"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Adebowale,_Baron_Adebowale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivian_Hunt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donna_Kinnair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duro_Olowu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Mathematics_and_its_Applications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lynette_Yiadom-Boakye",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqueline_Dunkley-Bent"
+    }
+]

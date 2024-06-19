@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deanna_Haunsperger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhonda_Hughes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raegan_Higgins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mount_St._Scholastica_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_Flapan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Yslas_V\u00e9lez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_G._Grundman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_A._Morrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_M._Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_and_prizes_of_the_Association_for_Women_in_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Haas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Jochnowitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Randolph_Macon_Woman's_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suzanne_Weekes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophie_Newcomb_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quaternion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multiplicative_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algebra_over_a_field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_Iowa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Theory_of_Numbers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Williamson_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Wedderburn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wiley_&_Sons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Matveyevich_Vinogradov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commutative"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classical_group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cleburne,_Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Abram_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Independence,_Iowa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wedderburn's_little_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leipzig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Subbayya_Sivasankaranarayana_Pillai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Composition_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9lie_Cartan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1954_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Number_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Additive_number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin_College_of_Natural_Sciences_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cayley\u2013Dickson_construction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Division_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waring's_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Adrian_Albert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Oppenheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1874_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E._H._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Field_(algebra)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Field_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_field"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Cleburne,_Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dickson's_conjecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dickson's_lemma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frances_Ellen_Baker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_Pall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_Parshall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quadratic_form"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Bruce_Halsted"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ring_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Frederick_Blichfeldt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harlingen,_Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_M._Niven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arnold_Ross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_historians_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Presidents_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_American_Mathematical_Monthly_editors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cole_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modular_invariant_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dickson_polynomial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dover_Publications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marion_Elizabeth_Stark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophus_Lie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claiborne_Latimer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mabel_Gweneth_Humphreys",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyrus_MacDuffee"
+    }
+]

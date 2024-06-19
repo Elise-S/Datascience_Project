@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carin_Ashjian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl-Gustaf_Rossby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Wunsch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_I_of_Portugal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_M._Solomon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Manfrino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Bower"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prem_Chand_Pandey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pyotr_Shirshov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Charlier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Revelle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Glazman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samantha_Joye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Gille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nils-Axel_M\u00f6rner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parker_MacCready"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bj\u00f6rn_Kjerfve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bj\u00f8rn_Helland-Hansen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_B._Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ho_(oceanographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Karl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Marshall_(academic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_McNiven_Garner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Mearns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Thornalley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Titley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dawn_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allyn_Vine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Picken_Orr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_McConnell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anitra_Ingalls"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anitra_Thorhaug"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Gargett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_W\u00e5hlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anny_Cazenave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Seymour_Laughton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anya_Waite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Murray_(oceanographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Steele_(oceanographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonas_Fjeldstad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josefina_Castellv\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_L._Reid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Pedlosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bess_Ward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_A._Wheeler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Scully-Power"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_A._Rona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rengaswamy_Ramesh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_A._Lutz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_E._Byrd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Russell_Waldron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Spinrad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ballard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles-Fran\u00e7ois_Beautemps-Beaupr\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_J._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curtis_A._Suttle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curtis_Ebbesmeyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Usha_Varanasi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vagn_Walfrid_Ekman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Val_Worthington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vasily_Vladimirovich_Shuleikin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Shtokman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Wiese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cromwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Edgar_Cartwright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Gruber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dean_Roemmich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Bronk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Kelley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Steinberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detlef_Quadfasel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doron_Nof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Douglas_Inman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Douglas_ReVelle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E._Virginia_Armbrust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Bourcart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Syvitski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Erik_Weber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joellen_Louise_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johan_Sandstr\u00f6m"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Lutjeharms"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lihini_Aluwihare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_K._Dayton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Bontempi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_G._Mason"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_R._L._Guillard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Thunell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Hamme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Marinelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Timothy_D._Herbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Collin_Roesler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelia_L\u00fcdecke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_A._Carlson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Ravelo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anatoly_Sagalevich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Sears_(oceanographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mar\u00eda_de_los_\u00c1ngeles_Alvari\u00f1o_Gonz\u00e1lez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Fontaine_Maury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S._Suresh_Babu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucy_R._Wyatt",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sallie_W._Chisholm"
+    }
+]

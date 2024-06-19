@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Electronic_music_groups_from_Minnesota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musical_groups_from_the_Twin_Cities"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Public_art_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbus,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Muralists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_sound_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Contemporary_Art_San_Diego"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theatre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baltimore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_muralists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walker_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wexner_Center_for_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Visionary_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/High_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Michel_Basquiat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Andy_Warhol_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlanta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_sound_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Bradford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bush_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pittsburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Planned_Parenthood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Louis_Park,_Minnesota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Circuit_bending"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Baillie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Visual_arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop-up_retail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sound_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver_Colorado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rufino_Tamayo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Doig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_la_Cruz_Collection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_art_collectors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador_Dal\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Holstad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u00e9lix_Gonz\u00e1lez-Torres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefano_Bonfiglio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sterling_Ruby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nate_Lowman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1944_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wifredo_Lam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Mendieta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Colen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Wool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isa_Genzken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cuban_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_in_business"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Hodges"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Key_Biscayne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Bradford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Kippenberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_de_la_Cruz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathryn_Andrews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_1961"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Waltham,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Museums_in_Middlesex_County,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_museums_in_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lichtenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Hunter_(art_historian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandeis/Roberts_(MBTA_station)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Rush_(museum_director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toulouse-Lautrec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Madoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandeis_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_von_Schlegell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Gauguin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renoir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Attorney_General"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Burden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christie's"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Sherman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_and_Edythe_Broad_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Stella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Grosz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brandeis_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mona_Hatoum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nam_June_Paik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nan_Goldin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andres_Serrano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuart_Davis_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harrison_&_Abramovitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deaccessioning_(museum)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Bradford",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    }
+]
