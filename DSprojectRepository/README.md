@@ -1,11 +1,7 @@
 # Datascience_Project
 ##  ReadMe of the Data science project by : 
 
-Mina OULHEN
-
-Reyanne ROMAIN
-
-Elise SOENEN
+Mina OULHEN, Reyanne ROMAIN, Elise SOENEN
 
 Github page project available at this link : https://github.com/Elise-S/Datascience_Project
 
@@ -59,11 +55,11 @@ Using the collected data, we conducted detailed analyses to uncover patterns and
 
 Using all the collected data obtained in part 1, we were able to compare two linguistic processing libraries, SpaCy and Stanza, on the following three tasks:
 
-Comparing the performance of Stanza and SpaCy on NER tasks.
+- Comparing the performance of Stanza and SpaCy on NER tasks.
 
-Analyzing the results between Stanza and SpaCy on the types of entities recognized.
+- Analyzing the results between Stanza and SpaCy on the types of entities recognized.
 
-Comparing the named entities recognized by Stanza and SpaCy with the entities in the knowledge graph.
+- Comparing the named entities recognized by Stanza and SpaCy with the entities in the knowledge graph.
 
 The notebooks are to run in this specific order:
 - Part 1:
