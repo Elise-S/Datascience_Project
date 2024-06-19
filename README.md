@@ -22,6 +22,38 @@ Wikepedia pages were extracted thanks to the web scraper Beautiful Soup.
 
 - List of contemporary artists. (2024, May 18). In Wikipedia. https://en.wikipedia.org/wiki/List_of_contemporary_artists
 
+Note that the following abbreviations were used in the code to refer to the different categories:
+
+FM/F_math for the List of women in mathematics
+CA/C_art for the List of contemporary artists
+
+
+#  Part 1 
+
+
+## Data collection: 
+
+We extract Wikipedia pages for the list of women in mathematics and the list of contemporary artists using four libraries: Wikipedia, SPARQLWrapper, rdflib, BeautifulSoup, and pandas for visualizing our results.
+
+The folder named Dsprojectrepository contains the following:
+
+JSON files with the facts and data for both categories
+Folder with JSON files for the RDF of both categories
+Text files for each category
+
+## Data analysis: 
+
+Using the collected data, we conducted detailed analyses to uncover patterns and differences between the two categories of text. We used differents visualizations, such as histograms, box plots, and word clouds, to illustrate these findings on graph and text. thanks to those visualizations we were able to hilight the characteristics and distinctions of women in mathematics and contemporary artist.
+
+# Part 2 
+
+## Linguistic Comparison 
+
+Using all the collected data obtained in part 1, we were able to compare two linguistic processing libraries, SpaCy and Stanza, on the following three tasks:
+
+Comparing the performance of Stanza and SpaCy on NER tasks.
+Analyzing the results between Stanza and SpaCy on the types of entities recognized.
+Comparing the named entities recognized by Stanza and SpaCy with the entities in the knowledge graph.
 
 The notebooks are to run in this specific order:
 - Part 1:
