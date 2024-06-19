@@ -1,4 +1,4 @@
-Required librairies:
+Required libraries:
 
 beautifulsoup4==4.12.3
 collections==3.3.0
