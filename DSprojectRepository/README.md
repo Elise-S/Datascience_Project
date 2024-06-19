@@ -1,11 +1,11 @@
 # Datascience_Project
 ##  ReadMe of the Data science project by : 
 
-Elise SOENEN
 Mina OULHEN
 Reyanne ROMAIN
+Elise SOENEN
 
-Gitub page project available at this link : https://github.com/Elise-S/Datascience_Project
+Github page project available at this link : https://github.com/Elise-S/Datascience_Project
 
 #### Requirements 
 
@@ -27,8 +27,8 @@ Wikepedia pages were extracted thanks to the web scraper Beautiful Soup.
 
 Note that the following abbreviations were used in the code to refer to the different categories:
 
-FM/F_math for the List of women in mathematics
-CA/C_art for the List of contemporary artists
+FM/fm/F_math for the List of women in mathematics
+CA/ca/C_art for the List of contemporary artists
 
 
 #  Part 1 
