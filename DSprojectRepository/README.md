@@ -1,4 +1,4 @@
-# Datascience_Project
+# Data Science Project
 ##  ReadMe of the Data science project by : 
 
 Mina OULHEN, Reyanne ROMAIN, Elise SOENEN
