@@ -6,7 +6,15 @@ Mina OULHEN
 Reyanne ROMAIN
 
 
-You will find all the files required in : 
+#Requirements 
+
+You will find all the Libraries required in : 
+
+-https://github.com/Elise-S/Datascience_Project/blob/main/REQUIREMENTS.txt
+
+Data collection: 
+
+We extract wikepedia pages thanks to 
 
 
 
