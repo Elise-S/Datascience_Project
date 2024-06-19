@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elasticity_(physics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_hole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Minnesota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Mathematics_and_its_Applications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Giovanni_Sacchi_Landriani_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penn_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u00f6bius_transformation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Numerical_stability"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brown_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Society_for_Industrial_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Numerical_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwegian_Academy_of_Science_and_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Presidents_of_the_Society_for_Industrial_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Numerical_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partial_differential_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guggenheim_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Congress_of_Mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Norwegian_Academy_of_Science_and_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maria-Carme_Calderer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_for_Industrial_and_Applied_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Science_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science_(journal)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_element_exterior_calculus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_element_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exterior_calculus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Chew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elayne_Arrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Krawitz_Kolchin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Mollie_Horadam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_P._Cushing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Rieffel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Braverman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Celledoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Deza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Fern\u00e1ndez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Freda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Marchisotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Moldovan_Popoviciu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_V\u00e1zquez_Cend\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleny_Ionel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleonora_Di_Nezza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elham_Kazemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliane_R._Rodrigues"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Larsson_(scientific_computing)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_M._Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Vreede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ene-Margit_Tiit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enriqueta_Gonz\u00e1lez_Baz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_by_occupation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_in_STEM_fields"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melania_Alvarez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melody_Chan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Mellon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maria-Carme_Calderer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reiko_Miyaoka"
+    }
+]

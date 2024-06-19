@@ -1,0 +1,25 @@
+Faina Mihajlovna Kirillova (29 September 1931) is a Belarusian scientist in the field of mathematical theory of optimal control. She was the winner of the USSR Council of Ministers Prize (1986) "for the development and implementation of multi-purpose software tools for engineering calculations."
+
+
+== Early life and education ==
+Faina Mihajlovna Kirillova was born in Zuyevka, Kirov Oblast on 29 September 1931. SKirillova received her master's degree from the Ural State University in 1954 and her PhD from Moscow State University in 1961. She was the first woman mathematician in Belarus to receive the Doctor of Science degree from the Saint Petersburg State University in 1968. From 1954 to 1962 she was an assistant senior researcher, and from 1962 to 1967 a senior researcher at the Ural State Technical University. From 1968 to 1969 she held the position of senior researcher, from 1970 to 2008 she was the head of the laboratory (later Department) of the theory of control processes of the Institute of Mathematics, National Academy of Sciences of Belarus. At the same time since 1996, she was chair of the working group of IFAC on optimal control. Since 1994, Kirillova was the founder and leader of the Belarusian Administration and Management Association.
+She became Doctor of Physical and Mathematical Sciences in 1967, Professor in 1972. Appointed Corresponding Member of the National Academy of Sciences in 1996. Awarded Honoured Worker of Education of Vietnam (SRV) in 2001, and Honoured Scientist of the Republic of Belarus in 2002.
+
+
+== Scientific contributions ==
+Kirillova has made extensive technical contributions in optimal control theory and optimization. She was an early proponent of using functional analysis to solve linear optimal problems. She developed important conditions for the controllability and observability of linear control systems with delay. She provided a justification for the universal form of necessary optimality conditions for complex control systems based on variational derivatives. She discovered and justified (together with R. Gabasov) the quasi-maximum principle for discrete-time control systems and pioneered its application. She also developed a new numerical approach to solving linear programming problems, and she created numerical methods for the solution of linear, quadratic, nonlinear programming, and optimal control problems. She developed a constructive theory of extreme problems, which provide effective access to the procedures for constructing computing solutions for a wide range of management and optimization problems; since the early 1980s it has been used in the solution applied control and optimization problems.
+
+
+== Bibliography ==
+Kirillova has authored over 350 scientific papers, and 14 monographs. 
+Her major works include:
+
+Qualitative theory of optimal processes. M:. Nauka, 1971 (in collaboration With R. Gabasova.).
+Specific optimal control. Moscow, Nauka, 1973 (in collaboration. With R. Gabasova).
+Optimization of spectrum assignment system. Methods for functional analysis. M:. BSU 1973 (C. R. Gabasova Akad.).
+The methods of linear programming (part 3). M:. BSU, 1977–1980 (C. R. Gabasova Akad.).
+Structural optimization methods (part 5). M:. Izd. of "university", 1984–1998 (co.).
+Optimal feedback control. London: Springer. 1995 (Joint. Gabasova C. R., S. V. Prishchepova)
+
+
+== References ==

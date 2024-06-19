@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Galella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boogie_(photographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brett_Ratner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lynch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Schrader"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Hell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Lewis_(comedian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Prince"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricky_Powell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivian_Maier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masha_Tupitsyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Molnar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gene_Simmons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Condo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Writer's_Block"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Friedlander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magnum_Photos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_&_Schuster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stacy_Szymaszek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dumbo,_Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wild_Style"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cokemachineglow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DUMBO,_Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Farris_(poet_and_novelist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Notley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Book_publishing_companies_based_in_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Publishing_companies_established_in_1995"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Visual_arts_publishing_companies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DJ_Stretch_Armstrong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Danny_Lyon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Clemente"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobuyoshi_Araki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harry_Benson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_Levitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ishmael_Reed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Pierson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jamel_Shabazz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Bridges"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arlene_Gottfried"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Lange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Lurie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KRS-One"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kehinde_Wiley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diane_Keaton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_McCready"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Sacks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlie_Ahearn_(director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scout_Tufankjian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Beastie_Boys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PowerHouse.among.Pelicans.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PowerHouse_Books_Logo.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Powerhouse_Arena_Bookstore,_28_Adams_Street,_Brooklyn_NY.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicodemus_Nicoludis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_of_Visual_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cologne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enzo_Cucchi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u00f6nchengladbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptualism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1946_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Neo-expressionist_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Painters_from_Florence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuscany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Accademia_di_Belle_Arti_di_Firenze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flash_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Clemente"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Achille_Bonito_Oliva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Italian_Order_of_Merit_for_Culture_and_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Transavanguardia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Accademia_di_Belle_Arti_di_Firenze_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_watercolourists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Figurative_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enciclopedia_Italiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mimmo_Paladino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicola_De_Maria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nordrhein-Westfalen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transavanguardia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neo-Expressionist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:'Table_of_Peace',_bronze_sculpture_by_Sandro_Chia_(Italian),_2003,_Tel_Aviv_Museum_of_Art,_Tel_Aviv,_Israel.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cai_Guo-Qiang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Rowland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Billops"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carissa_Rodriguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Francesco_Clemente",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jackson"
+    }
+]

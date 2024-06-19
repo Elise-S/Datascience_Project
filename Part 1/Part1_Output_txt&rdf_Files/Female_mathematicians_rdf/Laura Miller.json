@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caissie_Levy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Massad_(Poconos)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Ramah_in_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Ramah_in_New_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Ramah_in_the_Berkshires"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rockland_County,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Bay_Area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Levin_(soldier)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvia_Ettenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Bernanke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Platt_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debra_Messing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aliyah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hodayot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_House_of_Representatives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lieber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Day_camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorado_Springs,_Colorado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conover,_Wisconsin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cook_County,_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Bemis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melrose_Park,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_E._Platt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clayton,_Georgia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friends_of_the_Israel_Defense_Forces"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glenn_Fine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Office_(American_TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_C._Matt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Appalachia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skeleton_Lake_(Ontario)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Color_war"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2006_Lebanon_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B._J._Novak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cejwin_Camps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_College,_Hartford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wheeling,_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wicked_(musical)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Federation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Havat_HaNoar_HaTzioni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abby_Stein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amherst,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dahlia_Lithwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Mann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eagle_River,_Wisconsin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ethan_Slater"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fairfield,_Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fairfield_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northampton,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palmer,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ghost_the_Musical"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Greenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Recht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hairspray_(musical)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Waxman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Herzog"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Defense_Forces"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jake_Tapper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ted_Deutch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Schafler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlanta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerrold_Nadler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Agency_for_Israel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Chasnoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kabbalah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kibbutz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laura_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lavi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_summer_camps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_Minden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dover,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SpongeBob_SquarePants_(musical)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HAiR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kosher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Dell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nyack,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ojai,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Ramah_in_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Ramah_in_Wisconsin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Ramah_in_the_Poconos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Laura_Miller",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Camp_Ramah"
+    }
+]

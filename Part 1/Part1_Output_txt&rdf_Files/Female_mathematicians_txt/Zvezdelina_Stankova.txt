@@ -1,0 +1,32 @@
+Zvezdelina Entcheva Stankova (Bulgarian: Звезделина Енчева Станкова; born 15 September 1969) is an American mathematician who is a professor of mathematics at Mills College and a teaching professor at the University of California, Berkeley, the founder of the Berkeley Math Circle, and an expert in the combinatorial enumeration of permutations with forbidden patterns.
+
+
+== Biography ==
+Stankova was born in Ruse, Bulgaria. She began attending the Ruse math circle as a fifth grader in Bulgaria, the same year she learned to solve the Rubik's Cube and began winning regional mathematics competitions. She later wrote of this experience that "if I was not a member of Ruse SMC I would not be able to make such profound achievements in mathematics". She became a student at an elite English-language high school, and competed on the Bulgarian team in the International Mathematical Olympiads in 1987 and 1988, earning silver medals both times. She entered Sofia University but in 1989, as the Iron Curtain was falling, became one of 15 Bulgarian students selected to travel to the US to complete their studies.
+Stankova studied at Bryn Mawr College, completing bachelor's and master's degrees there in 1992, with Rhonda Hughes as a faculty mentor. While an undergraduate, she participated in a summer research program with Joseph Gallian at the University of Minnesota Duluth, which began her interest in permutation patterns. Next, she went to Harvard University for her doctoral studies, and earned a Ph.D. there in 1997; her dissertation, entitled Moduli of Trigonal Curves, was supervised by Joe Harris.
+She worked at the University of California, Berkeley as Morrey Assistant Professor of Mathematics before joining the Mills College faculty in 1999, and continues to teach one course per year as a visiting professor at Berkeley. She also serves on the advisory board of the Proof School in San Francisco.
+
+
+== Contributions ==
+In the theory of permutation patterns, Stankova is known for proving that the permutations with the forbidden pattern 1342 are equinumerous with the permutations with forbidden pattern 2413, an important step in the enumeration of permutations avoiding a pattern of length 4.
+In 1998 she became the founder and director of the Berkeley Math Circle, an after-school mathematics enrichment program that Stankova modeled after her early experiences learning mathematics in Bulgaria. The Berkeley circle was only the second math circle in the US (after one in Boston); following its success, over 100 other circles have been created, and Stankova has assisted in the formation of many of them.
+Also in 1998, she founded the Bay Area Mathematical Olympiad. For six years, she served as a coach of the US International Mathematical Olympiad team.
+Since 2013, she has featured in several videos on the mathematics-themed YouTube channel "Numberphile".
+
+
+== Publications ==
+With Tom Rike, she is co-editor of two books about her work with the Berkeley Math Circle, A Decade of the Berkeley Math Circle: The American Experience (Vol. I, 2008, Vol. II, 2014).
+
+
+== Awards and honors ==
+In 1992, Stankova won the Alice T. Schafer Prize of the Association for Women in Mathematics for her undergraduate research in permutation patterns. In 2004 she became one of two inaugural winners of the Henry L. Alder Award for Distinguished Teaching by a Beginning College or University Mathematics Faculty Member.
+In 2011 Stankova won the Deborah and Franklin Tepper Haimo Award for Distinguished College or University Teaching, given by the Mathematical Association of America, "for her outstanding work in teaching, mentoring, and inspiring students at all levels, and in leading the development of Math Circles, and promoting participation in mathematics competitions".
+From 2009 to 2012 she was the Frederick A. Rice Professor of Mathematics at Mills.
+
+
+== References ==
+
+
+== External links ==
+Zvezdelina Stankova in the Oberwolfach photo collection
+Moduli of Trigonal Curves Paper based on PhD thesis.

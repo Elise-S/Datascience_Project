@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hahn_(American_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Yuspa_N\u00f6rdlinger_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riley_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_A._Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_C._Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hahn_(cartoonist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._Jerome_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otto_Hahn_(petrologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Hahn_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lloyd_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Hahn_(oncologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steven_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Han_(Chinese_surname)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Hahn_(art_dealer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Hahn_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_(wrestler)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jody_Margolin_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J\u00f6rg-Uwe_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edith_Hahn_Beer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erich_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erwin_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florian_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikki_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otto_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Hugo_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Wilhelm_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dirk_Meinerts_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flying_ace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kimberly_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reynaldo_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Han_(Korean_surname)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_%22Assi%22_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Hahn_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hilary_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Hahn_(golfer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janice_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archie_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archie_Hahn_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German-language_surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Surnames_from_nicknames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerri_Ariel_Farias_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johannes_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathryn_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_A._Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/August_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mart\u00edn_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kurt_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfgang_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_John_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philipp_Matth\u00e4us_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medieval"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Simpsons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Given_name"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Crocombe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Flack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Halpin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_(name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marge_Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marj_Dusay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marj_Heyduck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marj_Mitchell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjoram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Agos\u00edn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Barnard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Barretto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Bates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Bennett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Best"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Bick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Blamey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Bowen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Browne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Cameron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Chibnall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Clapprood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Clark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Constance_Caserio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Cottle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Cotton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Marjorie_Hahn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marjorie_Courtenay-Latimer"
+    }
+]

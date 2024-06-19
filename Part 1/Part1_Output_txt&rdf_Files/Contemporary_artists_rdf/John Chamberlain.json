@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/John_Chamberlain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Chamberlain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Chamberlain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Chamberlain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Chamberlain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/John_Chamberlain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Chamberlain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/John_Chamberlain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Chamberlain",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/John_Chamberlain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Chamberlain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Chamberlain_(disambiguation)"
+    }
+]

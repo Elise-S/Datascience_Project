@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmel_Fisher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carterton,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Potts_Point,_New_South_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Put\u0101ruru"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queenstown,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roly_Crichton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_New_Zealand_Returned_and_Services'_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_Zealand_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Rodger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hokitika"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauanui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_McLeod"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upper_Hutt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinka_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cromwell,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McCrae,_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Andrews,_Canterbury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christchurch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaylene_Preston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Bryant_(New_Zealand_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgie_Salter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geraldine,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gisborne,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glenn_Ashby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mojo_Mathers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monarchy_of_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multiple_sclerosis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u0101ori_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_Year_Honours"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Leachman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Levin,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lower_Hutt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lydia_Ko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyttelton,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malcolm_Black"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siouxsie_Wiles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Tindall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Kendall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Shadbolt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Prebble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tracey_McIntosh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waikanae"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waitara,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wellington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whakat\u0101ne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whanganui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whang\u0101rei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GirlGuiding_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Girls'_Brigade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justice_of_the_peace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Akaroa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexandra,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dunedin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmund_Bohan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fire_and_Emergency_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Salt_Lake,_Utah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otorohanga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paeroa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palmerston,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palmerston_North"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paraparaumu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Langhorne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2019_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamilton,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hastings,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Havelock_North"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Invercargill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Ward-Lealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jenny_Morris_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tapanui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tauranga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Te_Puke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Terry_MacTavish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thames,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Campion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2019_in_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashburton,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auckland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charleston,_New_Zealand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chatham_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joelle_King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Elliott_(New_Zealand_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaiapoi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaikohe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaitaia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karlo_Mila"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katikati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kerry-Jayne_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kerry_Prendergast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kim_Workman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taekwondo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tairua"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Keating_(soldier)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Di_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diana_Crossan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maryanne_Tipler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Brimble"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Hilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronen_Palan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Peierls"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_University_of_Birmingham_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_University_of_Birmingham_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mervyn_King_(economist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melville_Arnott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertram_Windle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Parry_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Charlton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Edgar_(playwright)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_F._Ford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_J._Thouless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Yardley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allardyce_Nicoll"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_associated_with_the_University_of_Birmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anticoagulant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Randall_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Robert_Schrieffer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Medawar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Glazebrook_Medal_and_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Hoggart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Redmayne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Birmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Glasgow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Southampton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deryk_Osthus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Sayers_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nanotechnology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leverhulme_Medal_(Royal_Society)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wiebke_Arlt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Copley_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mason_Science_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Member_of_Parliament"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rumford_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rupert_E._Billingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_de_S\u00e9lincourt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Owen_Hood_Phillips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Diez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Thain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Elgar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellis_Waterhouse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Hahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fraser_Stoddart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freeman_Dyson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G._N._Watson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoffrey_Slaney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Augustus_Auden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Summers_West"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Nikolaus_Pevsner.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Barker_(classicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Burgess"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arnold_Tustin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leech"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Huxley_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leroy_Cronin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_MacNeice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuart_Hall_(cultural_theorist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvonne_Elsworth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_Waring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Knott_(scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_McHardy_Sinclair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Sir_Willim_Ashley.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maureen_Perrie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Beeson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Micaiah_John_Muller_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_Rahtz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A._G._Hopkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Birmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brinley_Rees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adams_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Skyrme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Wright_(Cannock_Chase_MP)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNESCO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darwin_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitehead_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilfrid_Butt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_A._Tilden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Brunsdon_Yapp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/City_of_Birmingham_Orchestra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerzy_Lukowski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cadman,_1st_Baron_Cadman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Dowell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_H._Coote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Bennett_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laura_Piddock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_M._Kosterlitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Burnham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ninian_Smart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Whitehead_Watts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stewart_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaron_Sloman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adrian_John_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Walters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alwyn_Williams_(geologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Daniela_K\u00fchn",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anand_Menon"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassandra_Clare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catalan_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romanian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scooby-Doo!_First_Frights"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scooby-Doo!_and_the_Spooky_Swamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scots_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_(Bible)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basque_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belarusian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breton_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Slavic_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anka_(name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Benaki-Psarouda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Bijns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Chatterton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Ciddor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_De_Souza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dodsworth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Gurney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Irwin_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Jacobsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_K._Mapp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Lewis_(suffragette)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_McGurk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Mons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Notaras"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Peck_Sill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Perenna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Rutgers_van_der_Loeff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Ruysch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Seile"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Shulgina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Skarbek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Smeed_Benjamin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_T._Sadlier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Teichm\u00fcller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Visscher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Windass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_de_Waal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_of_East_Anglia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_of_Hohenstaufen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_van_Egmont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annabeth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annelies_(Whitbourn)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anneliese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annemarie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Belarusian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungarian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithuanian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukrainian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Van_Helsing_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virgin_Mary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Shadowhunter_Chronicles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coronation_Street"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Croatian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bulgarian_feminine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Margaret_Collins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annelise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annette_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Anne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morgause"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Roosevelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmerdale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frisian_languages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frozen_(2013_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galician_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgian_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grand_Army_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greek_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Wilkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna-Maria_Galojan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna-Stina_Nilstoft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_(Frozen)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Ahlstr\u00f6m"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Akhmanova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Akhmatova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Apostolaki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Augusta_Truitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Augusta_Von_Helmholtz-Phelan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Bergendahl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Blackwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Blaman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Blinkova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Bl\u00e4sse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Bochkoltz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Borg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Bowman_Dodd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anna_Irwin_Young",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Caballero"
+    }
+]

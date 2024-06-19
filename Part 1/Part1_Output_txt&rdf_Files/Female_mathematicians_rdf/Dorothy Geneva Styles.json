@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Detroit_Mercy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Geneva_Styles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marygrove_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freda_Payne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yusef_Lateef"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_Teal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1914_establishments_in_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1914"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_disestablished_in_1970"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Kersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/College_for_Creative_Studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Howland_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Music_schools_in_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Detroit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_conservatory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Louise_Lumby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Community_Music_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Music_Settlement_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dino_Valle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Earl_Williams_(percussionist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elio_Gennari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Jelasic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_Louis_Cox_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Necia_Desiree_Harkless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candice_Earley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Panthers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pro_Football_Hall_of_Fame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Broadcasting_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Frizzell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Area_code_870"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hogan_Gidley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josh_Wilson_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_cities_and_towns_in_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_counties_in_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_sovereign_states"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_County_Courthouse_(Arkansas)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Air_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Census_Bureau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Illinois_at_Champaign-Urbana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Verizon_Wireless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viper_(rapper)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Geneva_Styles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/K\u00f6ppen_climate_classification"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Light_heavyweight"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Arkansas_Arboretum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KMLU_(TV)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Arkansas_numbered_highways"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Community_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corsicana,_Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qui_Nguyen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/El_Dorado_High_School_(Arkansas)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/El_Dorado_School_District_(Arkansas)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entergy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geographic_Names_Information_System"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glen_Ray_Hines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murphy_USA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/My_Brightest_Diamond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NBA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NBC"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NFL"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NPR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2020_United_States_census"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1843_establishments_in_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:County_seats_in_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:El_Dorado,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Micropolitan_areas_of_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lefty_Frizzell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lou_Brock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cities_in_Union_County,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ZIP_code"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_capita_income"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayhaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayor\u2013council_government"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_G._Fitzgerald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bromine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CBS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Setliff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cities_in_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Time_Zone_(North_America)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Travis_Williams_(running_back)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._state"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Whitlock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_Wizards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Ragsdale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Country_Music_Television"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African-American_veterans_lynched_after_World_War_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_H._Crews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Rust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Planned_cities_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Gafford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Downtown_Airport_(Arkansas)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E._Fay_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2020_United_States_Census"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Geneva_Styles",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floyd_Patterson"
+    }
+]

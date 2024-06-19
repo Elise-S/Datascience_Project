@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Liga_Atletica_Interuniversitaria_de_Puerto_Rico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Sint_Maarten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rotary_International"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Student_Exchange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delta_Sigma_Theta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquaponics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricky_Skerritt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Third_Circuit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Department_of_Agriculture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_South_Carolina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_the_Virgin_Islands_Research_and_Technology_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Varsity_team"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liga_Atl\u00e9tica_Interuniversitaria_de_Puerto_Rico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cricket"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_John,_U.S._Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Kitts_and_Nevis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Thomas,_U.S._Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NCAA_Division_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erika_J._Waters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silveria_Jacobs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agricultural_experiment_station"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tregenza_Roach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_University_in_St._Louis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Indies_cricket_team"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HBCU_Library_Alliance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Land-grant_university"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Undergraduate_degree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agroforestry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Bryan_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alpha_Kappa_Alpha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Historically_black_universities_and_colleges_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Estate_Brewers_Bay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Etelman_Observatory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master's_degree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NCAA_Division_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Historically_black_colleges_and_universities"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_and_colleges_in_the_United_States_Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1962"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlotte_Amalie,_United_States_Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biotechnology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/College_basketball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1962_establishments_in_the_United_States_Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_Library_of_the_Caribbean"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marine_biology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Association_of_Intercollegiate_Athletics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Collegiate_Athletic_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Science_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opal_Palmer_Adisa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_Access"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shawn_Richards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NAIA_independent_schools"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middle_States_Association_of_Colleges_and_Schools"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_the_Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tilapia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Croix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sports_and_Fitness_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paradise_Jam_tournament"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graduate_degree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Croix,_U.S._Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_college"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhodes_scholar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._John,_U.S._Virgin_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Assembly_of_Saint_Kitts_and_Nevis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caribbean_University_Sports_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:University_of_the_Virgin_Islands_view_from_campus.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:University_of_the_Virgin_Islands_entrance_sign.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canibus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmen_McRae"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Cooper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Premier_League"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Buster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Health_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Robinson_(engineer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Mais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Moody"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Hudson-Wilkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxanne_Beckford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruby_Turner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanya_Richards-Ross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_Jamaican_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikey_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trevor_Munroe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Cargill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Gibbs_(record_producer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barrington_Irving"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barrington_Levy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Reckord"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beenie_Man"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Johnson_(Canadian_sprinter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Camille_McKayle",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertram_Fraser-Reid"
+    }
+]

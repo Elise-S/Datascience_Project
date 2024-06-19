@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Raoult"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_of_the_French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Awards_established_in_the_1950s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arlette_Nougar\u00e8de"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucien_Szpiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yves_Andr\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9lisabeth_Guazzelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hajer_Bahouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Krasner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wendelin_Werner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00e9rard_Maugin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Guionnet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasnaa_Chennaoui-Aoudjehane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isabelle_Gallagher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Blamont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H\u00e9l\u00e8ne_Esnault"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Michel_Bony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Pierre_Ramis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dominique_Foata"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre-Louis_Lions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Bord\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serge_Cantat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S\u00e9bastien_Boucksom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physical_sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cahit_Arf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camillo_De_Lellis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_David_Tolm\u00e9_Runge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Ludwig_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_R._de_Boor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_St\u00f8rmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Severini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Somigliana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Gustavo_Moreira"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassius_Jackson_Keyser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Harten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amir_Dembo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Abram_Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poul_Heegaard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Probal_Chaudhuri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9ter_Frankl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Osserman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tijdeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_V._Kohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Longo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Thomas_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Downey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodion_Kuzmin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Evans_Howe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Heath-Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Penrose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Dobrushin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Glowinski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Weitzenb\u00f6ck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_Nevanlinna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Coifman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Fisher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rostislav_Grigorchuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Fueter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rufus_Bowen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samarendra_Nath_Roy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Eilenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_van_de_Geer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarvadaman_Chowla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Sheffield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Arbarello"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Bompiani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Volterra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrique_Pujals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menahem_Max_Schiffer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Herman_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mihnea_Popa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mitsuhiro_Shishikura"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Monod"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_van_Moerbeke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/R._James_Milgram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Edouard_Moritz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Takur\u014d_Mochizuki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vikram_Bhagvandas_Mehta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoichi_Miyaoka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Kalm\u00e1r"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Autonne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9opold_Leau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Salah_Baouendi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haim_Brezis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Louis_Le_Ch\u00e2telier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morihiko_Saito"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moritz_Epple"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Xu-Jia_Wang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis_Colliot-Thelene"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rekha_R._Thomas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isabelle_Gallagher",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buzz_M._Walker"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_B._Allendoerfer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassius_Jackson_Keyser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Statistical_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rockefeller_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_S._Wilks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saunders_Mac_Lane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Peirce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Public_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eugene_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Rittenhouse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hope_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Winthrop_(educator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_von_Neumann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josiah_Willard_Gibbs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_Pl\u00fccker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Erd\u0151s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Halmos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rice_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Courant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_von_Mises"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Adrain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Daniel_Carmichael"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Lee_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyrus_Colton_MacDuffee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Illinois_at_Urbana\u2013Champaign"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Oklahoma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Toronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Washington_Libraries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Wisconsin\u2013Madison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Military_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Maud_Wrinch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maryland_Historical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maxime_B\u00f4cher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McMaster_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rutgers_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salomon_Bochner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisha_Scott_Loomis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Julius_Wilczynski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claudius_Crozet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Loomis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Augustus_Porter_Barnard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Abram_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_David_Birkhoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_P\u00f3lya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Stibitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_Thomas_Whyburn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Fiske"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Hill_(clergyman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_Mathematics_Study_Group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Ellicott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arnold_Emch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Library_of_Congress"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lois_Wilfred_Griffiths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smith_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Cole_Kleene"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Robbins_Upton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Henry_Alexander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Archives_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wake_Forest_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warren_Weaver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G._Waldo_Dunnington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Jacob_Schoenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Adrian_Albert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Robinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_J._Lotka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Philosophical_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amherst_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Damodar_Dharmananda_Kosambi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dartmouth_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duke_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E._H._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernst_Hellinger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugene_Lukacs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugene_Wigner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferdinand_Rudolph_Hassler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicola_Fergola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Rashevsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norbert_Wiener"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northwestern_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northwestern_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oswald_Veblen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Pomerance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Burr_Van_Vleck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_O._May"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hampshire_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Olive_Hazlett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Hotelling"
+    }
+]

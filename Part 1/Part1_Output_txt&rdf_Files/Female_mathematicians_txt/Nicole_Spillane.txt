@@ -1,0 +1,10 @@
+Nicole Spillane (born 2 January 1988) is a French and Irish applied mathematician. She is a researcher with the Centre national de la recherche scientifique (CNRS) in France, where she works in the center for applied mathematics of the École Polytechnique. Her research concerns parallel algorithms for solving large systems of linear equations.
+Spillane studied for an engineering diploma at the École des ponts ParisTech from 2006 to 2010. Over the same period she visited Stanford University and the Saclay Nuclear Research Centre, and earned a master's degree in mathematics from Pierre and Marie Curie University. She completed her doctorate in applied mathematics at Pierre and Marie Curie University in 2014. Her dissertation, Méthodes de décomposition de domaine robustes pour les problèmes symétriques définis positifs, was jointly supervised by Frédéric Nataf and Patrice Hauret. After postdoctoral research at the University of Chile, she joined CNRS and the École Polytechnique in 2015.
+In 2017 the Institute of Mathematics and its Applications gave Spillane their Leslie Fox Prize for Numerical Analysis.
+
+
+== References ==
+
+
+== External links ==
+Home page

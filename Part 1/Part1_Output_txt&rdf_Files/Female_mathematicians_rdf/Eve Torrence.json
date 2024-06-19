@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Torrence_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_P._Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leigh_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A._Andrew_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walt_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2614_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ridgely_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gwen_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Surname"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dean_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nate_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eve_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torrance_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torrent_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Textile_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melvin_Hochster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gathering_4_Gardner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macon,_Georgia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commutative_algebra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Embroidery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Math_Horizons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathemalchemy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics_and_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics_education"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Chicago_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mercer_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Lafayette,_Indiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Mathematics_and_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knitting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quilting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Algebraists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fiber_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indiana_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mercer_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eve_Torrence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Mathematics_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Zorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crocheting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cross-stitching"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bridges_Conference"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Chew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elayne_Arrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Krawitz_Kolchin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Mollie_Horadam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_P._Cushing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Rieffel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Braverman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Celledoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Deza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Fern\u00e1ndez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Freda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Marchisotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Moldovan_Popoviciu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_V\u00e1zquez_Cend\u00f3n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleny_Ionel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleonora_Di_Nezza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elham_Kazemi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eve_Torrence",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliane_R._Rodrigues"
+    }
+]

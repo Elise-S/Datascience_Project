@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabral_(horse)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calgary_Stampeders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Golden_Seals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caloocan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Football_League"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardiff_RFC"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Adam_Lewenhaupt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Humberto_Romero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Miloc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlton_Football_Club"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmelo_Cassati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmen_Delgado_Votaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Izard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carter_Manny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casimir_Wang_Mi-lu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Samoa's_at-large_congressional_district"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengt_Fahlstr\u00f6m"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Powwow_Highway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Predrag_Matvejevi\u0107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_El_Salvador"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_the_Democratic_Republic_of_the_Congo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Puntland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qigong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quad_City_Steamwheelers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queensland_Reds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quentin_Moses"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quezon_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Lamarca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roe_v._Wade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Boas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hynd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Walkowiak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cuenca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Goi\u00e2nia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Londrina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Trani-Barletta-Bisceglie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Belize_City-Belmopan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ciudad_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Guarapuava"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ibiza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ipameri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Mondo\u00f1edo-Ferrol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Mutare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Nha_Trang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Phan_Thi\u1ebft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_\u00c9vry-Corbeil-Essonnes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Zhuravskyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Billingsley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Blackwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roslund/Hellstr\u00f6m"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Greenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rowing_at_the_1976_Summer_Olympics_\u2013_Men's_coxless_four"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Heenan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Proverbs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Delta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudaw_Media_Network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Arday"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Summerlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Poyntz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Chargers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_49ers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Gandhi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Coward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scotland_national_football_team"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Lew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electoral_district_of_Ringwood_(Victoria)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elihu_Lauterpacht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Lichtenberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Faddeev-Popov_ghost"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Labour,_Social_Insurance_and_Social_Solidarity_(Greece)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moonlighting_(theme_song)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NWA_Hollywood_Wrestling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwegian_Nobel_Committee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Office_of_Nuclear_Reactor_Regulation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Mike_Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melvin_Defleur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Beard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_J._Coffee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Vinyl_Cafe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2010_PDC_Women's_World_Darts_Championship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basil_Hetzel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basilio_Lami_Dozo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battlestar_Galactica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgium_national_football_team"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Martin_(photographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengt_Gustavsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_F._Bailar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benny_Perrin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernardine_Portenski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernie_Custis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertram_Kostant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Collette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bickford_Shmeckler's_Cool_Ideas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Love"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Britton_(Canadian_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Paxton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Woodson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aldona_Ale\u0161kevi\u010dien\u0117-Statulevi\u010dien\u0117",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bj\u00f6rn_Granath"
+    }
+]

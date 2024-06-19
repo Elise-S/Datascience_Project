@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Bram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leila_Bram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Th\u00fcring_Br\u00e4m"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Bram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Wandsbek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_G\u00f6ttingen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Hamburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dedekind_sum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Real_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_T._Bateman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1969_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constantin_Carath\u00e9odory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genetics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rademacher\u2013Menchov_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_at_the_University_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emil_Grosswald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Andrews_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Privatdozent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1892_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematical_analysts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_York_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Number_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Breslau_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Hamburg_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weimar_Republic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hadamard_transform"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Analytic_number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematics_popularizers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernst_Steinitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Number_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otto_Toeplitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partition_function_(number_theory)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leila_Bram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodor_Estermann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rademacher's_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rademacher_complexity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rademacher_distribution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rademacher_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamburg-Wandsbek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hardy\u2013Littlewood_circle_method"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haverford,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_G\u00f6ttingen_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Humboldt_University_of_Berlin_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hamburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Breslau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg-August-Universit\u00e4t_G\u00f6ttingen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_A._Scott_Professorship_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramanujan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rademacher's_series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rademacher_function"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Enjoyment_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabiria_Andreian_Cazacu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_McKayle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carina_Curto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jane_Anger_Rieke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carola-Bibiane_Sch\u00f6nlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Lacampagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Araujo_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Eisele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caryn_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ami_Radunskaya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_C._King"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Cohen-Corwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Dahan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Meini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Pelloni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Rivi\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bego\u00f1a_Fern\u00e1ndez_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanshi_Somani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_M._Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Tanner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Peltesohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Whelan_Sedgewick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozetta_Zhilina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Collins_(librarian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Billey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_J._Greenwald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Witherspoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Chew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elayne_Arrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leila_Bram",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Jones"
+    }
+]

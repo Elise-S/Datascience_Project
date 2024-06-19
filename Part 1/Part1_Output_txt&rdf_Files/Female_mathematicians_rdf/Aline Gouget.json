@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aline_Gouget"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ECRYPT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ESTREAM"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Canteaut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Courtois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stream_ciphers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ciphertext"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stream_cipher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Biham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MICKEY"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MOSQUITO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bart_Preneel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aline_Gouget"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DECIM"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DICING"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ECRYPT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polar_Bear_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ZK-Crypt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SSS_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salsa20"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gate_count"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NESSIE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yamb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mir-1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moustique"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CryptMT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptanalysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LEX_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Canteaut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefan_Lucks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frogbit_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Py_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Schneier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Throughput"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragon_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Counter_mode"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HC-256"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SOSEMANUK"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Advanced_Encryption_Standard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_J._Bernstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Courtois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grain_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fubuki_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbit_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Seberry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stream_ciphers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Achterbahn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cryptography_contests"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Research_projects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Biryukov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Daemen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Block_cipher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hermes8"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trivium_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CAESAR_Competition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CJCSG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CRYPTREC"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phelix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HC-128"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Message_authentication_code"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SFINKS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VEST"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAG_(cryptography)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F-FCSR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TSC-3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NLS_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stream_cipher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TRBDK3_YAEA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WG_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ABC_(cipher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AES_process"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doug_Whiting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fr\u00e9d\u00e9ric_Muller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Landman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pomaranch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belinda_Cowling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Dieng-Kuntz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aline_Gouget"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne-Marie_Jolly-Desodt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Peyroche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C\u00e9cile_Charrier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C\u00e9line_Guivarch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leticia_Cugliandolo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathalie_Palanque-Delabrouille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Odile_Hembise_Fanton_d\u2019Andon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvaine_Neveu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claire_Wyart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7oise_H\u00e9ritier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Higher_Education,_Research_and_Innovation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne-Marie_Lagrange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malika_Haimeur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7oise_Briquel-Chatonnet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7oise_Lamnabhi-Lagarrigue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7oise_Soussaline"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aline_Gouget",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magali_Vaissi\u00e8re"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casey_Affleck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amira_Casar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proteus_(2004_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocco_Siffredi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_de_Heer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronit_Elkabetz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rory_Cochrane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Harris_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rouzbeh_Rashidi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Andersson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rubber_Johnny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samantha_Morton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Yuan_Li"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Adler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturn_Returns_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_2000s_films_by_genre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miho_Nikaido"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nade_Dieu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morgan_Fisher_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanna_Br\u00e5ding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bj\u00f6rk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blockade_(2006_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bodysong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Dourif"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lynch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decasia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deimantas_Narkevi\u010dius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Lavant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hito_Steyerl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonas_Mekas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Caouette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Otik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Bettany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paz_de_la_Huerta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Stormare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Watkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Dysart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Linklater"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uncle_Boonmee_Who_Can_Recall_His_Past_Lives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Gulpilil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lev_Kerbel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Triska"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/It_Is_Fine!_Everything_Is_Fine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Notre_Musique"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Savage_(actress)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Blevins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/(_)_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/*Corpus_Callosum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/11'09%2201_September_11"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2000s_avant-garde_and_experimental_films"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Container_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corey_Burton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cory_Arcangel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cowards_Bend_the_Knee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crispin_Glover"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Tsoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mati_Diop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Damon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Ark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sabine_Az\u00e9ma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sally_Potter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chloe_Griffin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cunningham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christos_Stergioglou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cin\u00e9maton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claire_(2001_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clio_Barnard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexei_Shulgin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_Barkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enter_the_Void"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Sweet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaspar_No\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerry_(2002_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giannis_Aggelakas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glass_Lips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Godfrey_Reggio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mister_Lonely"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mulholland_Drive_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/My_Winnipeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mysterious_Object_at_Noon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Piano_Tuner_of_Earthquakes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Raspberry_Reich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Wayward_Cloud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Wild_Blue_Yonder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Bangalter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thorsten_Flinck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Damon_Gameau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Loser_Takes_It_All"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2010_in_film"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Dussollier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angeliki_Papoulia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Geislerov\u00e1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Consigny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antichrist_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apichatpong_Weerasethakul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lorelei_Linklater"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lu_Yi-ching"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dominique_Gonzalez-Foerster",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucile_Had\u017eihalilovi\u0107"
+    }
+]

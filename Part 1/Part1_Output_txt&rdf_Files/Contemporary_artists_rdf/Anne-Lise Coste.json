@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caitlin_Cherry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camila_Oliveira_Fairclough"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Rose_Garcia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Utterback"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Zaccagnini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Lazard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Ann_Baade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carson_Ellis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amie_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amina_Zoubir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Elkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Feldman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Gartrell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beka_Economopoulos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e9n\u00e9lope_Bagieu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocio_Romero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rona_Green_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Menkman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosella_Namok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rossella_Biscotti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosson_Crow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxana_Halls"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Vernon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samara_Golden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanaz_Mazinani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Pichelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Rahbar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Shamma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Cain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Hobbs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Longley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Yates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarina_Brewer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elaine_Cameron-Weir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elena_Manferdini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eline_McGeorge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Belliveau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endia_Beal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melissa_Brown_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olia_Mishchenko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rerrkirrwanga_Mununggurr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00ea_Hi\u1ec1n_Minh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mercedes_Jelinek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meredyth_Sparks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meriem_Bennani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Park_McArthur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priya_Kambli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rena_Effendi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beili_Liu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Lipman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bethan_Laura_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bethany_Collins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Zangewa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bingyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogna_Burska"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenna_Murphy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenna_Youngblood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deana_Lawson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Del_Kathryn_Barton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delita_Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Despina_Stokou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Channer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Miceli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alicja_Koz\u0142owska"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alisa_Margolis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Elizabeth_Taylor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allison_Smith_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_B\u00fcttner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Carlson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Hasler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anissa_Mack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Khemka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Lewis_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Toebbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Conway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Craycroft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_King_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Parkina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Sew_Hoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Shteynshleyger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Duk_Hee_Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_W\u00f6lk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annika_Larsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthea_Hamilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anusha_Yadav"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anya_Liftig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arabella_Dorman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hollis_Hammonds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hsia-Fei_Chang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Hasting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Rommel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Rosa_Clark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Weitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juliette_Losq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Diane_Armstrong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Bagnarelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anne-Lise_Coste",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petra_Cortright"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pyrrho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Nozick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Steiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Harding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trenton_Merricks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Stroud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baruch_Spinoza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belief"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berit_Brogaard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bohm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Chalmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hume"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lewis_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Searle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Dancy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judea_Pearl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Vuillemin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Grice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Unger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Descartes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Fumerton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Sosa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_philosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duncan_Pritchard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Anscombe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L.A._Paul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernst_von_Glasersfeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Pojman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliezer_Yudkowsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epistemology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Dretske"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Pappas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giambattista_Vico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilles_Deleuze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theory_of_justification"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Aquinas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Bayes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Hobbes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Peikoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Trinkaus_Zagzebski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludwig_Wittgenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludwig_von_Mises"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simone_de_Beauvoir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Hetherington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ayn_Rand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Epistemologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_Elgin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agrippa_the_Skeptic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Terence_Stace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Alston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Kingdon_Clifford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_of_Ockham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinz_von_Foerster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Levi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Frederick_Ferrier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karla_Jessen_Williamson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A._J._Ayer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alvin_Plantinga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edgar_Morin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmund_Gettier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alvin_Goldman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Sosa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Bostrom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noam_Chomsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_Malcolm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P._F._Strawson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Vollmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hilary_Kornblith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_DeRose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harry_Binswanger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hilary_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_VI_and_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Piaget"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Terence_McKenna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Lackey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Elizabeth_Egan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aristotle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aenesidemus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerry_Fodor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Greco_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Hawthorne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Locke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_McDowell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karl_Popper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Lehrer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Haack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S\u00f8ren_Kierkegaard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sally_Haslanger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donna_Haraway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mario_Bunge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plato"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Socrates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gualtiero_Piccinini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Carrie_Ichikawa_Jenkins",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G.W.F._Hegel"
+    }
+]

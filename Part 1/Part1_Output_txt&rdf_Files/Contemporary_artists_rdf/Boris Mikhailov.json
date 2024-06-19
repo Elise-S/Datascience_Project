@@ -1,0 +1,57 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Boris_Mikhailov",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Boris_Mikhailov"
+    }
+]

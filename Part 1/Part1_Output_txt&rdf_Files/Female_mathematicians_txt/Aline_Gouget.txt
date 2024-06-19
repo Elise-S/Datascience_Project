@@ -1,0 +1,16 @@
+Aline Gouget Morin (born 1977) is a French mathematician and cryptographer whose works include contributions to the design of the SOSEMANUK stream cipher and Shabal hash algorithm, and methods for anonymized digital currency. She is a researcher for Gemalto, an international digital security company.
+
+
+== Education ==
+Gouget completed a PhD in 2004 at the University of Caen Normandy. Her dissertation, Etude de propriétés cryptographiques des fonctions booléennes et algorithme de confusion pour le chiffrement symétrique, was advised by Claude Carlet.
+
+
+== Recognition ==
+In 2017, Gouget was the winner of the Irène Joliot-Curie Prize in the category for women in business and technology.
+
+
+== References ==
+
+
+== External links ==
+Home page Archived 2020-12-01 at the Wayback Machine

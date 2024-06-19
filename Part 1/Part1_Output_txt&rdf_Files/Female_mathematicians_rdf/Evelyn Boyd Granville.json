@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calcutta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Coolidge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carel_Steven_Adama_van_Scheltema"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Spitteler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Bergonzi_(tenor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Humberto_Romero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_O'Connor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Premier_of_the_Soviet_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Brazil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Ecuador"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_El_Salvador"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Ethiopia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Guatemala"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Israel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Kenya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Portugal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Singapore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_South_Korea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Turkey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Venezuela"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Zambia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Zimbabwe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_Gambia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_Senate_of_the_Philippines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Bulgaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Japan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Nepal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Norway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Portugal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_South_Africa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Sweden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Ferdinand,_Duke_of_Montpensier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Kach\u014d_Hirotada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Makonnen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Wilhelm_of_Saxe-Weimar-Eisenach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e1ty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mugabe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Nivelle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Solow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Webber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberts_Blossom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Serling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Guillemin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Petit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Moody"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rondout,_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Helena_\u00c1lvarez_Yepes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosamunde_Pilcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Steiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Vrba"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Baldwin_Marks_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Gompers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Vaughan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1924_Dominican_Republic_general_election"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1924_Greek_republic_referendum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1924_Kohat_riots"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1924_Winter_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1944"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1948"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1924"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2008"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2012"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2021"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2022"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayezid_Osman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beer_Hall_Putsch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Jones_(Grenadian_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benny_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benoit_Mandelbrot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bent_Fabric"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benwood,_West_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Gauthier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bess_Truman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bettye_Ackerman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birte_Christoffersen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Kurland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Franks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Bruins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cox_(statistician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dawda_Jawara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deke_Slayton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Brutus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Weaver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Hierta-Retzius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anneliese_Rothenberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoine_de_Mitry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_10"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_11"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_12"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_13"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_15"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelyn_Boyd_Granville",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_16"
+    }
+]

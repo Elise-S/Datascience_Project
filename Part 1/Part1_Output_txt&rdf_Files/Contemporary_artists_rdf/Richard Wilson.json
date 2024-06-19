@@ -1,0 +1,117 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Richard_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Richard_Wilson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Wilson_(disambiguation)"
+    }
+]

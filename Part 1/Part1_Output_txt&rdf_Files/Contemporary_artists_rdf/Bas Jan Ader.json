@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_of_the_Art_Institute_of_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bas_Jan_Ader"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vito_Acconci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Repurposing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_source"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Net.art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Kildall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gliese_667"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apollo_11"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artist_in_Residence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1969_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brown_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_digital_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transmediale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikimedia_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albuquerque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_multimedia_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Printmaking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Textile_Museum_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RocketHub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_performance_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_video_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Postmodern_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_media_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kala_Art_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trojan_Horse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turbulence.org"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Duchamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Political_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Independent_Media_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathaniel_Stern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Recology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_Life"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoko_Ono"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inter-Society_for_the_Electronic_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eyebeam_(organization)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virtual_worlds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unoffical_Pavilions_(Venice_Biennale)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chess_computer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Wikipedia_Art.png"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candy_Darling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmen_Argenziano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Bouquet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Laure"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punishment_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_von_Praunheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Hochman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_1970s_films_by_genre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bas_Jan_Ader"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Viola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Moon_(1975_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Eno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Lynch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Van_Tieghem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delphine_Seyrig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derek_Jarman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hitler:_A_Film_from_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hollis_Frampton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_(1977_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Smith_(English_filmmaker)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Vernon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonah_Who_Will_Be_25_in_the_Year_2000"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonas_Mekas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_Belson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Cotten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jubilee_(1978_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juliet_Berto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beware_of_a_Holy_Whore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Frankeur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Morrissey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penelope_Spheeris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Donebauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Greenaway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Kern_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Watkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Weibel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Wollen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzi_Peres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valerie_and_Her_Week_of_Wonders_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valie_Export"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vase_de_Noces"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Tschechowa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viva_la_Muerte_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bas_Jan_Ader",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volker_Prechtel"
+    }
+]

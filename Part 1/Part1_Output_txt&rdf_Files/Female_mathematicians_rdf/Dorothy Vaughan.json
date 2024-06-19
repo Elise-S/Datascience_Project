@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Benjamin_F._Bowles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Milton_Wright_(academic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bayard_Rustin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ben_Webster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Powell_(golf_course_owner)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Demetrius_Newton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/John_R._Fox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Regina_M._Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Richard_H._Cain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Victoria_Gray_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Orchid_I._Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Frank_Foster_(jazz_musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/George_Russell_(composer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Theophilus_Gould_Steward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Leon_Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Leontyne_Price"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Shontel_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Tiny_Bradshaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Wade_Ellis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/William_B._Derrick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/William_Grant_Still"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ace_Mumford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Florence_LeSueur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Floy_Clements"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ossian_Sweet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Floyd_H._Flake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Hallie_Quinn_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Helen_Elsie_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Isaac_M._Burgan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/James_H._McGee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Charity_Adams_Earley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Jimmy_Rushing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Susie_Lankford_Shorter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Dorothy_Vaughan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Mary_G._Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Raymond_V._Haysbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Albert_Orlando_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Gilbert_Haven_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Wilberforce University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Producers_Guild_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_Mercury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Film_Critics_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satellite_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_accolades_by_film"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Melfi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Online_Film_Critics_Society_Awards_2016"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Wallfisch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Reel_Award_for_Outstanding_Ensemble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Reel_Award_for_Outstanding_Original_Score"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Reel_Award_for_Outstanding_Original_Song"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Reel_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allison_Schroeder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Film_Critics_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Film_Critics_Society_Awards_2016"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Chernin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pharrell_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Film_Critics_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Costume_Designers_Guild"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critics'_Choice_Movie_Award_for_Best_Screenplay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Film_Critics_Association_Awards_2016"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Motion_Picture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palm_Springs_International_Film_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Supporting_Role"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Golden_Globe_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grammy_Award_for_Best_Compilation_Soundtrack_for_Visual_Media"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grammy_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moonlight_(2016_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NAACP_Image_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NASA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critics'_Choice_Movie_Award_for_Best_Supporting_Actress"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critics'_Choice_Movie_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apollo_11"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Movie_&_TV_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahershala_Ali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Writers_Guild_of_America_Award_for_Best_Adapted_Screenplay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BET_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BET_Awards_2017"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/70th_British_Academy_Film_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Academy_Film_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/USC_Scripter_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critics'_Choice_Movie_Award_for_Best_Acting_Ensemble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Location_Managers_Guild_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satellite_Award_for_Best_Cast_\u2013_Motion_Picture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/21st_Satellite_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/23rd_Screen_Actors_Guild_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/43rd_Saturn_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/60th_Annual_Grammy_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/74th_Golden_Globe_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/89th_Academy_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ADG_Excellence_in_Production_Design_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Award_for_Best_Picture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actress"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African-American_Film_Critics_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African-American_Film_Critics_Association_Awards_2016"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance_of_Women_Film_Journalists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/22nd_Critics'_Choice_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/48th_NAACP_Image_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Vaughan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida_Film_Critics_Circle_Award_for_Best_Supporting_Actress"
+    }
+]

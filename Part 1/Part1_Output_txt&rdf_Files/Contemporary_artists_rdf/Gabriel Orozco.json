@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Miguel_de_Allende"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Conant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrique_Olvera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Fernandez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Flay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Departures_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Reyes_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robb_Report"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanity_Fair_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alcoholic_drink_brands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tequila"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mexican_alcoholic_drinks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ryan_Seacrest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epicurious"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabriel_Orozco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Keller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drink_companies_of_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mexican_brands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertha_Gonz\u00e1lez_Nieves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lily_Aldridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Danh_Vo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pepita_glass_engraving"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ayesha_Curry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Today_(American_TV_program)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trans-Mexican_Volcanic_Belt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wine_Enthusiast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragoon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Ripert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Esquire_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forbes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oscars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniela_Soto-Innes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guanajuato"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jalisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tamaulipas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Distilleries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tequila"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martha_Stewart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IHeartMedia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ignacio_Allende"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mexican_War_of_Independence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michoacan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nayarit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oprah_Winfrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Champagne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joven_(tequila)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Berasategui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Town_&_Country_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Pittman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Travel_+_Leisure_magazine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oprah_Magazine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grammys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cognacs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cai_Guo-Qiang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Rowland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Billops"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carissa_Rodriguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Monnet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Lazard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carrie_Mae_Weems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Dunham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carter_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassandra_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amie_Siegel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Blakemore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatriz_Santiago_Mu\u00f1oz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Longo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mapplethorpe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Murray_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ryman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Therrien"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Williams_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Wilson_(director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Yarber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rochelle_Feinstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Ripps"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Brown_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Reiss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Gorchov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Landfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Salane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Bleckner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxy_Paine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_De_Forest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gabriel_Orozco",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lichtenstein"
+    }
+]
