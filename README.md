@@ -10,7 +10,9 @@ Gitub page project available at this link : https://github.com/Elise-S/Datascien
 #### Requirements 
 
 You will find all the Libraries required in https://github.com/Elise-S/Datascience_Project/blob/main/REQUIREMENTS.txt
+
 Make sure you installed all the libraries before running the notebooks.
+
 For command line: pip install -r requirements.txt
 
 #### Data collection: 
