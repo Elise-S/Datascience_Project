@@ -2,7 +2,9 @@
 ##  ReadMe of the Data science project by : 
 
 Mina OULHEN
+
 Reyanne ROMAIN
+
 Elise SOENEN
 
 Github page project available at this link : https://github.com/Elise-S/Datascience_Project
@@ -28,6 +30,7 @@ Wikepedia pages were extracted thanks to the web scraper Beautiful Soup.
 Note that the following abbreviations were used in the code to refer to the different categories:
 
 FM/fm/F_math for the List of women in mathematics
+
 CA/ca/C_art for the List of contemporary artists
 
 
@@ -38,15 +41,17 @@ CA/ca/C_art for the List of contemporary artists
 
 We extract Wikipedia pages for the list of women in mathematics and the list of contemporary artists using four libraries: Wikipedia, SPARQLWrapper, rdflib, BeautifulSoup, and pandas for visualizing our results.
 
-The folder named Dsprojectrepository contains the following:
+In relation to this part, the folder named Dsprojectrepository contains the following:
 
-JSON files with the facts and data for both categories
-Folder with JSON files for the RDF of both categories
-Text files for each category
+- JSON files with the facts and data for both categories
+
+- 2 folders with JSON files for the RDF of both categories
+
+- 2 folders with text files for each category
 
 ## Data analysis: 
 
-Using the collected data, we conducted detailed analyses to uncover patterns and differences between the two categories of text. We used differents visualizations, such as histograms, box plots, and word clouds, to illustrate these findings on graph and text. thanks to those visualizations we were able to hilight the characteristics and distinctions of women in mathematics and contemporary artist.
+Using the collected data, we conducted detailed analyses to uncover patterns and differences between the two categories of text. We used different visualizations, such as histograms, box plots, and word clouds, to illustrate these findings on graph and text. Thanks to those visualizations we were able to highlight the characteristics and distinctions of women in mathematics and contemporary artist.
 
 # Part 2 
 
@@ -55,7 +60,9 @@ Using the collected data, we conducted detailed analyses to uncover patterns and
 Using all the collected data obtained in part 1, we were able to compare two linguistic processing libraries, SpaCy and Stanza, on the following three tasks:
 
 Comparing the performance of Stanza and SpaCy on NER tasks.
+
 Analyzing the results between Stanza and SpaCy on the types of entities recognized.
+
 Comparing the named entities recognized by Stanza and SpaCy with the entities in the knowledge graph.
 
 The notebooks are to run in this specific order:
