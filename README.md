@@ -6,9 +6,15 @@ Mina OULHEN
 Reyanne ROMAIN
 
 
+You will find all the files required in : 
+
+
+
 Available in Gitub on this link : https://github.com/Elise-S/Datascience_Project
 
-Datasets:
+
+
+Datasets selected :
 
 - List of women in mathematics. (2024, May 30). In Wikipedia. https://en.wikipedia.org/wiki/List_of_women_in_mathematics
 
